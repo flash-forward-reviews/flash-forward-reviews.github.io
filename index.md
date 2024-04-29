@@ -7,5 +7,5 @@ feature_text: |
 
 Chronological List of Reviews:
 
-- Day 1: [Hello World](/hello-world)
+- Day 1: [Hello World]({{ "/hello-world" | relative_url }})
 - Day 2: [Post Title]()
