@@ -1,8 +1,11 @@
 ---
-title: Welcome to my website
+title: Game Reviews
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Sam and Skeeter Review Games
 ---
 
-There isn't much going on here yet, but watch this space
+Chronological List of Reviews:
+
+- Day 1: [Hello World](/hello-world)
+- Day 2: [Post Title]()
