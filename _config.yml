@@ -26,7 +26,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: /assets/logos/excellent_logo.png
+logo: /assets/logos/nobackpeng.png
 
 # Pagination
 paginate: 5
