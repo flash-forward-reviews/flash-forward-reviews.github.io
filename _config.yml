@@ -37,7 +37,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Game Categories
-  url: /game-categories/
+  url: /categories/
 - title: Search
   url: /search/
 - title: About
