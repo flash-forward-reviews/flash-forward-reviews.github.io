@@ -123,6 +123,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.1)
@@ -137,6 +138,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.6.1)
   jekyll-sitemap (~> 1.4.0)
   jemoji (~> 0.12)
+  
 
 BUNDLED WITH
    2.5.9
