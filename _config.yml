@@ -28,6 +28,7 @@ description: 'This is my new website'
 permalink: pretty
 logo: /assets/logos/nobackpeng.png
 source-code: https://github.com/flash-forward-reviews/penguin
+disqus: "disqus_p9xsMwcD4r" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 
 # Pagination
 paginate: 5
@@ -59,7 +60,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: /assets/banner-flash-forward.png
 
 # Collection settings
 defaults:

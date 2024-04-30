@@ -1,8 +1,7 @@
 ---
 title: Flash Forward Reviews
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  # FLASH FORWARD
+feature_image: assets/banner-flash-forward.png
+feature_text: 
 ---
 
 Paragraph about the project?
