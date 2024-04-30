@@ -28,11 +28,17 @@ description: 'This is my new website'
 permalink: pretty
 logo: /assets/logos/nobackpeng.png
 source-code: https://github.com/flash-forward-reviews/penguin
-disqus: "disqus_p9xsMwcD4r" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+
+disqus:
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: flashforwardreviews # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
+
+# Comments
+comments: true
 
 # Header nav
 navigation_header:
@@ -70,6 +76,7 @@ defaults:
       type: "posts"
     values:
       layout: post # Set the default layout for posts
+      comments: true   # change to false to default to comments off site-wide
   -
     scope:
       path: ""
