@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://flash-forward-reviews.github.io'
-baseurl: '/penguin'
+url: https://flash-forward-reviews.github.io
+# baseurl: 
 title: 'Flash Forward Reviews'
 description: 'This is my new website'
 permalink: pretty
