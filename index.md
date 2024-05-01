@@ -1,6 +1,6 @@
 ---
 title: Flash Forward Reviews
-feature_image: assets/banner-flash-forward.png
+feature_image: /assets/banner-flash-forward.png
 feature_text: 
 ---
 
