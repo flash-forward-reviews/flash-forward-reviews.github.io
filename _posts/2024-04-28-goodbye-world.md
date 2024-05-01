@@ -8,4 +8,4 @@ permalink: /goodbye-world
 comments: true
 ---
 
-This is my second blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+This is my first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
