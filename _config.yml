@@ -44,12 +44,12 @@ comments: true
 navigation_header:
 - title: Home
   url: /
-- title: Categories
+- title: About
+  url: /about/
+- title: Game Categories
   url: /categories/
 - title: Search
   url: /search/
-- title: About
-  url: /about/
 
 # Footer nav
 navigation_footer:
