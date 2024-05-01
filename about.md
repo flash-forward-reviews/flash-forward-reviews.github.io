@@ -1,5 +1,6 @@
 ---
 title: About this website
+feature_image: assets/banner-flash-forward.png
 permalink: /about/
 ---
 
