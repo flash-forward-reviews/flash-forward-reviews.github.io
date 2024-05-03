@@ -28,11 +28,11 @@ So far we are seven levels deep and we’ve shocked pigs with an electric fence,
 
 I can guarantee we will play more of this, it’s a simple joy, so I leave some deeper explanations for future reviews. For now, if you wanna move fast and shoot stuff with friends, this shit is a dollar. One US dollar. It’s already worth it, why not?
 
-Recommend: If you are not pig, then yes!
+**Recommend: If you are not pig, then yes!**
 
-Replay Percentage Chance: 99.56%
+**Replay Percentage Chance: 99.56%**
 
-Time Played: 27 mins
+**Time Played: 27 mins**
 
 ## Skeeter's Take:
 
@@ -57,10 +57,10 @@ Better than Club Penguin
 
 Sorry, old habits die hard.
 
-Recommend: Do you like Blood? How about Bacon? YES!
+**Recommend: Do you like Blood? How about Bacon? YES!**
 
-Replay Percentage Chance: 100%
+**Replay Percentage Chance: 100%**
 
-Time Played: 27 mins
+**Time Played: 27 mins**
 
 {% include button.html text="Link to game" link="https://store.steampowered.com/app/434570/Blood_and_Bacon/" %}

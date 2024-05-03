@@ -9,3 +9,4 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 ### Chronological List of Reviews:
 
 - Day 1: [Blood and Bacon]({{ "/day-1" | relative_url }})
+- Day 1: [Kero Kero Panic]({{ "/day-2" | relative_url }})
