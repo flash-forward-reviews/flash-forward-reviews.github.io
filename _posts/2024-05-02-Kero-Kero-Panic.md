@@ -92,10 +92,6 @@ But that soon shifted and I was like:
 Finally, I learned to stop worrying and love the madness. 
 And then… I was like: 
 
-<video width="480" height="320" controls="controls">
-  <source src="/assets/video/ryanvid.mp4" type="video/mp4">
-</video>
-
 {% include video.html id="NB4F4yYXWws" title="" %}
 
 P.S. I eventually did go back and click the right button on the main menu and it CLOSED THE GAME. I win again, Main Menu, bye bye. 
