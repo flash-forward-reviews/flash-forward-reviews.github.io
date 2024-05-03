@@ -50,12 +50,58 @@ He told me it says “your family is dead”.
 
 ## Skeeter's Take:
 
-Sam wrote first. Please Hold...
+Much like Sam, I can’t read or speak Japanese. Unlike Sam, I did NOT have a translator to assist me, so let me tell you this was one of the more challenging parts of the game: 
 
-**Recommend:**
+{% include figure.html image="/assets/img/ryan1.png" caption="" alt="" %}
 
-**Replay Percentage Chance:**
+THE MAIN MENU. I thought about this for longer than I should have. Normally, I would assume the left hand button would be “Play”, but that’s from my American pickled brain perspective, and I’m pretty sure the Japanese read right to left, perhaps their game menus would follow the same logic? Sure, it’s a 50/50, and I could have brute forced my way through, but I wasn’t about to lose to the Main Menu. I took a deep breath, and clicked the left button. 
 
-**Time Played:**
+I had won! I had beaten the main menu and after a short intro video with some Roblox men was over, I was met with this:
+
+{% include figure.html image="/assets/img/ryan2.png" caption="" alt="" %}
+
+I felt accomplished. I could read at least one word on the screen - the American educational system didn’t let me down there. 
+I’m sure somewhere in that short intro video there might have been some explanation of the rules, or the controls, or your goal in this game, but for me I may as well be blindfolded on a roller coaster with no safety bars. 
+From what I can gather, this is a video game adaptation of the hit board game “Mouse Trap”, but the script is flipped, the mice are angry, and have used Rick Moranis’ “Honey-I-Shrunk-the-Kids” machine to get bloody revenge on their owners.
+Moving on for fear that the last reference might have dated me, I ran around controlling 6 people simultaneously in a beautiful synchronized wiggle. We were dodging balls, spinning on moving surfaces, and falling off cliffs. 
+
+At first I was like:
+
+{% include figure.html image="/assets/img/ryan3.png" caption="" alt="" %}
+
+But then I was like:
+
+{% include figure.html image="/assets/img/ryan4.png" caption="" alt="" %}
+
+Soon, I was like:
+
+{% include figure.html image="/assets/img/ryan5.png" caption="" alt="" %}
+
+But then I was like: 
+
+{% include figure.html image="/assets/img/ryan6.png" caption="" alt="" %}
+
+Pretty soon, I was like:
+
+{% include figure.html image="/assets/img/ryan7.png" caption="" alt="" %}
+
+But that soon shifted and I was like:
+
+{% include figure.html image="/assets/img/ryan8.png" caption="" alt="" %}
+
+Finally, I learned to stop worrying and love the madness. 
+And then… I was like: 
+
+<video width="480" height="320" controls="controls">
+  <source src="/assets/video/ryanvid.mp4" type="video/mp4">
+</video>
+
+P.S. I eventually did go back and click the left button on the main menu and it CLOSED THE GAME. I win again, Main Menu, bye bye. 
+
+**Recommend: I had no idea what was happening, but I had fun in the confusion. Maybe you’ll have fun too. It’s free, so why not. (You may get more distance out of this if you can read Japanese)**
+
+**Replay Percentage Chance: 25%**
+
+**Time Played: 12 and ¼ minutes**
 
 {% include button.html text="Link to game" link="https://thestrangest.itch.io/kero-kero-panic" %}
