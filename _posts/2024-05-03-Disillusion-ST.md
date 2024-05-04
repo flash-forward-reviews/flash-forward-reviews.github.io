@@ -54,12 +54,92 @@ It seems like the devs are on a rough monthly update schedule, and I absolutely 
 
 ## Skeeter's Take:
 
-Sam wrote first. Please hold...
+I hear Sam’s criticism of the lack of direction, and I totally understand his want for some prod in a direction - any direction really. However, I do not share the same sentiment. 
+I did not know this was for a game jam based on LSD: Dream Emulator, but reading that on his review really put the pieces together. 
+My very first thought after starting the game was, “Wow, this reminds me so much of Yumme Nikki.”
 
-**Recommend:**
+Well, actually, if I’m being fair, my first thought was, “Wow, this reminds me of those old Windows Maze Screensavers.”
 
-**Replay Percentage Chance:**
+{% include figure.html image="/assets/img/rhall.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/rtrip.png" caption="" alt="" %}
 
-**Time Played:**
+Then my second thought was how much it reminded me of Yumme Nikki. For those not familiar with Yumme Nikki - it’s a game where you play as a girl who explores her dreams (or rather, a dream world) by interacting with doors that take her to different realms.
+
+{% include figure.html image="/assets/img/yumi1.jpg" caption="" alt="" %}
+{% include figure.html image="/assets/img/yumi2.jpg" caption="" alt="" %}
+
+You are dropped into a bizzaro world with crazy creatures, surreal backgrounds, and wild dreamscapes. You aren’t given any direction, but occasionally in these dream doors you will find a creature or an object that you can interact with that will give you a new “appearance” or “cosmetic” you can equip. These appearances give you different powers or effects (Bike OP) and sometimes these appearances can unlock areas previously inaccessible without them. Those discoveries are so few and far between, but just walking around the different worlds is interesting and entertaining enough that when you do eventually run into something significant, it really feels significant (if that makes sense?) I have never beat the game, nor am I sure if there even is a way to beat it, and I don’t feel like that’s the point. 
+Yumme Nikki clearly took inspiration from LSD: Dream Emulator, which if you remember is the basis of the game jam that Disillusion ST is based on. 
+I won’t get too deep into explaining LSD: Dream Emulator, but I think it’s important to understand what this game is to really understand Disillusion ST. 
+
+LSD: Dream Emulator is barely a game. It’s more of a visual art experience wrapped up into a walking simulator. There is actually no goal other than to explore and experience the dream worlds it drops you in (though I have heard there is a way to technically “beat” the game?). You walk around crazy surrealist dreamscapes, experience some wild music, some strange ever changing visuals, and occasionally encounter beings, animals, monsters, and other unexplainable things. 
+The main mechanic is you can “interface” with objects, walls, characters - pretty much anything you can run into that has a hitbox, you can “interface” with it. Interfacing simply teleports you to another dream realm or another area. What’s cool is there is a set number of areas of which the general layout doesn’t really change, but the textures and character spawns do. So, you kind of get to learn the world, but never feel comfortable or familiar with it. 
+The main “goal” of LSD: Dream Emulator, Yumme Nikki, and I would argue to a certain degree Disillusion ST, is to experience it. Now I know that might not be everyone’s cup of tea, but I love that shit. I love seeing things I have never thought of or seen in the real world. Things I would never even come up with in my imagination. I love that feeling of confusion, the feeling of awe, the feeling of getting lost in a world you aren’t really supposed to understand. 
+
+ Oddly enough, I was the one who picked the game today - I just thought the art looked cool and didn’t read into it at all, so it was a complete accident that we are playing this off the heels of me recently playing through some LSD: Dream Emulator myself (I only went through day 40 or something, for those curious). 
+
+Disillusion ST actually has a lot more to grab onto than these other games, while still giving me that same dreamlike sense as Yumme, and LSD. 
+
+At its very center, the bones of this game are a dungeon crawler where you navigate a confusing maze, talk to characters, and find doors that teleport you to different realms or areas. The door mechanic harkening back to Yumme Nikki’s room of doors that take you to each dream realm. 
+As Sam stated, there’s enough there to make you think you might be able to piece something together. My playthrough seems to have been very different from his, perhaps it’s because I chose “Combat Mode” but as far as I can tell, Combat Mode just lets you smack what the game calls “Cute Things” around with a sword. They hardly even attack:
+
+{% include figure.html image="/assets/img/rcute.png" caption="" alt="" %}
+
+From what I can gather, and as Sam said, it feels like we are just scratching the surface of this game. There is some blue suited anime waifu that wants to try to help bring people's favorite objects back to them in this dream realm. The odd characters you run across talk about some strange man running around trying to harness the power of human emotion or something using those same objects. The game has some Buddhist undertones running through it, with some characters talking about living in the moment, or their past lives. I’m wondering if this is more of a spiritual realm rather than an actual dream. A dream reality, perhaps? My Buddist knowledge is not that deep, so someone better versed in the religion may be able to piece more of that together.
+
+{% include figure.html image="/assets/img/rtext.png" caption="" alt="" %}
+
+{% include figure.html image="/assets/img/rbot.png" caption="" alt="" %}
+
+Speaking of characters, boy howdy do I love the character design in this. They are freaky, bizarre, and just so fun. The whole art style is just right up my alley. I love the crunchy, pixelated graphics. The music sets a nice dream-like ambient tone. Here’s a small gallery of some of my favorite characters I saw on my journey. I could not stop taking screenshots. 
+
+{% include figure.html image="/assets/img/creature1.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/creature2.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/creature3.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/creature4.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/creature5.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/creature6.png" caption="" alt="" %}
+
+All these characters really had a sense of personality to them. The mushroom man was afraid of me. The red-head girl thought her blue-haired friend was possibly bullying her and brought me along to see if I noticed anything out of the ordinary. The grudge lady can’t really remember anything except that she is supposed to waste someone’s time. It really gives these characters a sense of life. 
+
+I want to talk about one character to end this, but before we get there, I need to mention the little cat man I found who had me play a card game with him, of which the rules I understand about as well as I do Caravan from Fallout: New Vegas. 
+
+{% include figure.html image="/assets/img/cathands.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/cardgame.png" caption="" alt="" %}
+
+Naturally, he wiped the floor with me:
+
+{% include figure.html image="/assets/img/fail.png" caption="" alt="" %}
+
+Alright, onto the main attraction. I entered a door that took me to this room: 
+
+{% include figure.html image="/assets/img/nottree.png" caption="" alt="" %}
+
+I was greeted by the individual in the center of the screen. He apologized for his appearance and stated that he had been beaten and tortured many times, and that was the reason he looked as he did. On the right side near the tree sat an audience, as the game described them. The left, a burning bush that seemed to have something inside it. 
+
+{% include figure.html image="/assets/img/madsad.png" caption="" alt="" %}
+
+This man, or thing, or monster, or whatever it was had many visitors, but none of them ever ended up staying. It seems they were driven off by his appearance, though I would wager his state of eternal torture probably had something to do with their uncomfortableness. 
+He welcomed me to stay if I so desired. Then he made a bit of a strange request. 
+
+He wanted to see his reflection. He requested I find a mirror for him so he could finally understand why everyone was so put off by him. He claimed he had never seen his own reflection. 
+That’s when our little companion lady pulled me aside and said she felt something off about this creature, and that she thought it was a bad idea to give him a mirror. “Nonsense!” I thought, “She’s probably just another person put off by him.” I didn’t really stop to think why anyone would leave him in eternal torture, but that’s neither here nor there. 
+Before leaving, I decided to check with the burning bush one more time, and much like Moses, it spoke with me. It said: 
+
+{% include figure.html image="/assets/img/moarwords.png" caption="" alt="" %}
+
+I now had a strong sense of direction. I HAD to find this mirror for this man, for it is my destiny.
+I left the room, filled with determination, wondering where in the world I am going to find a mirror in this madhouse dream maze. 
+
+That’s where I left it for the night. 
+But the very fact I had a goal, something to look for in the world, and even a decision to make on whether or not to show this thing it’s reflection should I find the mirror is exactly what sets this game apart from its influences. It gives you some meat to chew, some direction to push you, which I am all here for. I cannot wait to explore further, meet some more characters, and get lost in the cozy madness that is this game. 
+
+And of course get my friend a nice shiny mirror. 
+
+**Recommend:I only played 40 minutes and I loved it. Please check this out if you are into the surreal or have played any of the other games I’ve mentioned. It’s doing something unique. And it’s not even finished.**
+
+**Replay Percentage Chance:100%**
+
+**Time Played:42 Minutes**
 
 {% include button.html text="Link to game" link="https://disillusionst.itch.io/disillusion-st?download" %}
