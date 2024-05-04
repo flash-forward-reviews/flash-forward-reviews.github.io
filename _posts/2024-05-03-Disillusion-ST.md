@@ -61,7 +61,7 @@ My very first thought after starting the game was, “Wow, this reminds me so mu
 Well, actually, if I’m being fair, my first thought was, “Wow, this reminds me of those old Windows Maze Screensavers.”
 
 {% include figure.html image="/assets/img/rhall.png" caption="" alt="" %}
-{% include figure.html image="/assets/img/rtrip.png" caption="" alt="" %}
+{% include figure.html image="/assets/img/rtrip.jpg" caption="" alt="" %}
 
 Then my second thought was how much it reminded me of Yumme Nikki. For those not familiar with Yumme Nikki - it’s a game where you play as a girl who explores her dreams (or rather, a dream world) by interacting with doors that take her to different realms.
 
