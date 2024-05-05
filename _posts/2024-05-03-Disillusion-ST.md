@@ -136,10 +136,10 @@ But the very fact I had a goal, something to look for in the world, and even a d
 
 And of course get my friend a nice shiny mirror. 
 
-**Recommend:I only played 40 minutes and I loved it. Please check this out if you are into the surreal or have played any of the other games I’ve mentioned. It’s doing something unique. And it’s not even finished.**
+**Recommend: I only played 40 minutes and I loved it. Please check this out if you are into the surreal or have played any of the other games I’ve mentioned. It’s doing something unique. And it’s not even finished.**
 
-**Replay Percentage Chance:100%**
+**Replay Percentage Chance: 100%**
 
-**Time Played:42 Minutes**
+**Time Played: 42 Minutes**
 
 {% include button.html text="Link to game" link="https://disillusionst.itch.io/disillusion-st?download" %}

@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 4: [Pig]({{ "/day-4" | relative_url }})
 - Day 3: [Disillusion ST]({{ "/day-3" | relative_url }})
 - Day 2: [Kero Kero Panic]({{ "/day-2" | relative_url }})
 - Day 1: [Blood and Bacon]({{ "/day-1" | relative_url }})

@@ -2,7 +2,7 @@
 title: "Day 2 - Kero Kero Panic"
 layout: post
 categories:
-- Single Player
+- Immersive Sim
 - Nightmare Fuel
 - WTF
 feature_image: "/assets/banner-flash-forward.png"
