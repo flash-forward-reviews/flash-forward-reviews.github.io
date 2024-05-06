@@ -56,7 +56,7 @@ If only I could be so lucky.
 
 ## Sam's Take:
 
-I read through all the devlogs. In August, this guy was [talking about moving on from this game](https://shoodigity.itch.io/baby-shooter/devlog/418412/final-update){:target="_blank"} and making a non-shitpost game. Then, in January of 2023 [he was talking about remaking this game](https://shoodigity.itch.io/baby-shooter/devlog/481375/baby-shooter-remake){:target="_blank"} because it’s his most played.. I’ve got two pieces of advice for you Shoodigity:
+I read through all the devlogs. In August, this guy was [talking about moving on from this game](https://shoodigity.itch.io/baby-shooter/devlog/418412/final-update){:target="_blank"} and making a non-shitpost game. Then, in January of 2023 [he was talking about remaking this game](https://shoodigity.itch.io/baby-shooter/devlog/481375/baby-shooter-remake){:target="_blank"} because it’s his most played. I’ve got two pieces of advice for you Shoodigity:
 
 1. MOVE THE FUCK ON
 
