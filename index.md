@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 8: [Off-Peak]({{ "/day-8" | relative_url }})
 - Day 7: [Samuri Shaver]({{ "/day-7" | relative_url }})
 - Day 6: [No Players Online (Demo)]({{ "/day-6" | relative_url }})
 - Day 5: [Baby Shooter]({{ "/day-5" | relative_url }})
