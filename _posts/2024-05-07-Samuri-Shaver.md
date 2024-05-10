@@ -2,7 +2,7 @@
 title: "Day 7 - Samuri Shaver"
 layout: post
 categories:
-- Rhythem Game
+- Rhythm Game
 - Nudity
 - Bangers
 feature_image: "/assets/banner-flash-forward.png"
