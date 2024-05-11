@@ -124,7 +124,7 @@ But it does have some interesting ideas it’s toying around with, and isn’t t
 
 {% include figure.html image="/assets/img/moon9.jpg" caption="" alt="" %}
 
-{% include figure.html image="/assets/img/moon10.jpg" caption="" alt="" %}
+{% include figure.html image="/assets/img/moon10.png" caption="" alt="" %}
 
 **Recommend: Only if you are a die-hard fan of the genre and are looking for some new ideas within it. Hell, these might not even be new ideas as I’m not as versed in this as I am a genre like… Oh, let’s say “survivor type”. I can say that I wouldn’t recommend it to me, or my friends.**
 
