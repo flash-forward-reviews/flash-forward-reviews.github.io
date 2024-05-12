@@ -10,7 +10,7 @@ permalink: /day-7
 comments: true
 ---
 
-{% include figure.html image="/assets/img/samucover.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/samucover.png?raw=true" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -21,16 +21,16 @@ This game is simple, but I had so much fun with it. Like any good rhythm game, t
 Your goal is to shave all the hairy dudes that have come to see you for the world's most dangerous haircut. 
 You follow along to the beat, and slash in time - an initial tracker will show you the rhythm pattern, and then it’s time to slash. Thankfully, the odd hair patches on these men are perfectly lined up to the rhythm(how convenient):
 
-{% include figure.html image="/assets/img/samulearn.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/samulearn.png?raw=true" caption="" alt="" %}
 
 A successful shave leads to a hairless man, and a satisfyingly cheerful “Yaaaaaaaay!” out of their mouths. 
 But be careful, one off-beat slash and the results can be fatal: 
 
-{% include figure.html image="/assets/img/samubleed.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/samubleed.png?raw=true" caption="" alt="" %}
 
 After all, we aren’t playing with training swords here. There is no way to lose - you are only trying to get as many perfect shaves as possible, but my favorite feature has to be the end screen which shows you all the people who have come through your door that day, and the results of their shaves: 
 
-{% include figure.html image="/assets/img/samudone.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/samudone.png?raw=true" caption="" alt="" %}
 
 I go by the “Demon Barber of Amidaike-Suji Street” now.
 
@@ -50,7 +50,7 @@ For as simple as this game is, there are some more subtle hints that this DDRKir
 
 Second, to make their very fun pencil sketch aesthetic work, the visual cues for timing your hits aren’t super clear. This could have been solved with lines going across the screen to denote quarter steps, or replacing the hair tufts with more defined square areas, but of course that would destroy the style. They work around the restriction of their visual style by having each body be a short 3 to 10 note challenge, and giving you an auditory preview beforehand. The short preview beforehand is really what you’re following. To prove this point, I got a perfect score on the first level with my eyes closed (not a joke, I actually did this):
 
-{% include figure.html image="/assets/img/samuperfect.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/samuperfect.png?raw=true" caption="" alt="" %}
 
 With audio doing heavy lifting in terms of gameplay, the visuals are freed up to be a little more stylized at the cost of functionality. The result is a simple cool looking game with a funny concept and some snazzy tunes.
 

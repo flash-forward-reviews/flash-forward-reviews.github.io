@@ -10,7 +10,7 @@ permalink: /day-10
 comments: true
 ---
 
-{% include figure.html image="/assets/img/moontitle.jpg" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moontitle.jpg?raw=true" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -20,14 +20,14 @@ Yes, Night of Full Moon is a roguelite deckbuilder, and as unfair as it is, it�
 
 But to get there and see those depths, I have to play tens of hours of Slay the Spire. Luckily when it came out, there was nothing like it (or at least nothing popular enough to break into the mainstream so my dumb ass could hear about it). It had no competition, it was novel, and the progression was good, so I kept playing and slowly could explore what the game had to offer.
 
-{% include figure.html image="/assets/img/moon1.jpg" caption="Night of Full Moon" alt="" %}
-{% include figure.html image="/assets/img/moon2.jpg" caption="Slay the Spire" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon1.jpg?raw=true" caption="Night of Full Moon" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon2.jpg?raw=true" caption="Slay the Spire" alt="" %}
 
 My point is that NoFM could have that sort of depth. It might very well have tons of viable builds. Maybe the other characters really spice things up, maybe once you memorize the abilities of the monsters you fight, choosing your battles wisely becomes a satisfying practice. There is clearly effort put into creating different builds. Just from my one run I saw cards for an armor defense build, a low health revenge build, and a max health double attack build (which I went with). The issue is that Slay the Spire exists now, and so the start has to be so interesting that it pulls me away, and as unfair as the comparison is, NoFM just isn’t Slay the Spire.
 
 Even on my first run there was a pretty basic issue. There were several draw spells that cost no resources. Anyone who knows Yu-Gi-Oh probably equates 0 resource draw spells with “[Pot of Greed](https://yugioh.fandom.com/wiki/Pot_of_Greed){:target="_blank"}”, one of the most famously broken cards in any trading card game. I took all of them, and every turn drew and played my whole deck. That might sound cool, but I didn’t have to be clever to get there. It wasn’t big-brain. Anyone who has played card games like these knows that drawing cards for free is busted, which on first impression makes me wonder if these devs have played many card games before...
 
-{% include figure.html image="/assets/img/moon3.jpg" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon3.jpg?raw=true" caption="" alt="" %}
 
 This is why I bring up Slay the Spire. If there wasn’t a dominant game to compare to, I might be willing to assume that card draw gets weaker at higher difficulties, or more enemies punish card draw, or maybe I was just playing the baby-mode character, and the meaty challenge is actually playing the mage. If I wasn’t doing a review a day, maybe I could take the time to really give this game a long enough go to speak on the game’s balance and depth.
 
@@ -35,7 +35,7 @@ To hook me away from Slay the Spire though, you gotta come in strong. Recently [
 
 The second way Balatro hooked me was by being so different that it’s hard to even compare to Slay the Spire. If Spire is primarily about building a deck, Balatro is about building a scoring system. Yes, you eventually want to remove/copy cards to morph your deck, but the first key to success in any Balatro run is to obtain cards that boost your score when specific cards are played. You change the parameters of the game, then build your deck to fit those parameters. Where Slay the Spire emphasizes being prepared and overcoming challenges like a chess puzzle, Balatro is an exercise not in minor optimizations, but in tearing down whole systems and saying “no, you’re playing my game now”.
 
-{% include figure.html image="/assets/img/moon4.png" caption="Plasma Deck is CRACKED" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon4.png?raw=true" caption="Plasma Deck is CRACKED" alt="" %}
 
 NoFM has differences to Slay the Spire in mechanics, but not in philosophy. You can choose between a few monsters to fight, which is different from the semi-randomness of Slay the Spire, but it’s really just a minor twist on Spire’s branching path map. NoFM doesn’t have a mana system like Spire (at least not for all characters) but that just makes your resource the number of cards you draw (hence card draw being overpowered). When push comes to shove, both games have starting decks where you can slowly add and remove cards and try to keep your deck on the power level of slowly escalating enemy power. They aren’t the same game, but it’s not busting the whole genre open like Balatro. NoFM is just another deckbuilder and unfortunately, that’s like being a shooting guard on the Chicago Bulls while Michael Jordan was on the team. Maybe you were good, we will never know.
 
@@ -88,7 +88,7 @@ The problem with NoFM (I’m just going to steal Sam’s abbreviation here), is 
 
 That’s not to say it doesn’t have some fun ideas. To start, instead of the typical Slay the Spire path you follow, you get a choice of three decisions on how you want to proceed:
 
-{% include figure.html image="/assets/img/moon5.jpg" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon5.jpg?raw=true" caption="" alt="" %}
 
 After you clear a battle, that card (the game calls them “papers”) gets replaced by another random card. Shops stick around, but don’t refresh. Same goes for card upgrade shops, healing encounters etc. You have the choice to remove the non-battle papers (oh god, I’m saying it now) to refresh that card slot and roll again. 
 I think this is a neat mechanic. I found myself at one point with a full heal, a card upgrade shop, and a card removal shop and had to make the hard decision of which I wanted to remove so I could continue the game. You’ll notice in the screenshot above there are a certain number of papers you need to get through before you hit the boss. I thought this was different and fun and not something I had seen in this type of game before. 
@@ -109,12 +109,12 @@ Sam already talked about the card playing system and how card draw seems broken,
 
 I also didn’t like this guy:
 
-{% include figure.html image="/assets/img/moon7.jpg" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon7.jpg?raw=true" caption="" alt="" %}
 
 I’m playing Red Riding Hood - a child. This absolute creep snuck out of the woods, carrying a red rose and tried to hit on me. 
 “Maybe he didn’t know your age!” I can hear some of the wispy mustachioed individuals grunting out there. And to that I say:
 
-{% include figure.html image="/assets/img/moon8.jpg" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon8.jpg?raw=true" caption="" alt="" %}
 
 OH REALLY? He only said he wasn’t interested after I bashed his skull in after the fight. 
 
@@ -122,14 +122,16 @@ All jokes aside, and to bring this back around to the Vampire Survivors rant:
 This game isn’t revolutionary in the genre. It’s not going to be the Vampire Survivors of its genre, or even the Boneraiser Minions of its genre. 
 But it does have some interesting ideas it’s toying around with, and isn’t trying to be a 1:1 to Slay the Spire. It’s not likely something that casual fans of the genre are going to come back to when there are other options out there. To compare it to food - if you’ve been eating a 3 star Michelin meal every night at the highest rated restaurant in town and are starting to get bored of the same old thing, perhaps try out the restaurant down the street with a “C” from the health inspector posted proudly in their window. You just might find a few new flavors from the menu you really like. 
 
-{% include figure.html image="/assets/img/moon9.jpg" caption="" alt="" %}
-
-{% include figure.html image="/assets/img/moon10.png" caption="" alt="" %}
-
 **Recommend: Only if you are a die-hard fan of the genre and are looking for some new ideas within it. Hell, these might not even be new ideas as I’m not as versed in this as I am a genre like… Oh, let’s say “survivor type”. I can say that I wouldn’t recommend it to me, or my friends.**
 
 **Replay Percentage Chance: 10% I’d be down to actually see if this has depth, but we got a lot of games to get to, and Sam would have to be real into it.**
 
 **Time Played: 60 minutes BAYBAYYY**
+
+P.S. - Is that fucking TREANT PROTECTOR???
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon9.jpg?raw=true" caption="" alt="" %}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon10.png?raw=true" caption="" alt="" %}
 
 {% include button.html text="Link to game" link="https://store.steampowered.com/app/769560/_Night_of_Full_Moon/" %}

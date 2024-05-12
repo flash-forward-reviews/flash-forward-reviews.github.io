@@ -10,7 +10,7 @@ permalink: /day-5
 comments: true
 ---
 
-{% include figure.html image="/assets/img/babytitle.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/babytitle.png?raw=true" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -27,8 +27,8 @@ I don’t think any of those words belong in a sentence together, and furthermor
 
 After the countdown, you are immediately met with the following: 
 
-{% include figure.html image="/assets/img/bs1.png" caption="" alt="" %}
-{% include figure.html image="/assets/img/bs2.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bs1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bs2.png?raw=true" caption="" alt="" %}
 
 Man, it felt like coming home to Newgrounds. JPGs floating and bouncing around the screen of a static, pixelated background. There’s a certain coziness to it now. 
 
@@ -43,12 +43,12 @@ Perhaps that’s where the babies come from? I don’t really know, they made me
 
 After a total of about 3 seconds I lost:
 
-{% include figure.html image="/assets/img/urded.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/urded.png?raw=true" caption="" alt="" %}
 If only I could be so lucky. 
 
 **Recommend: I’ll give you guys a visual guide on navigating the main menu**
 
-{% include figure.html image="/assets/img/dontplay.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dontplay.png?raw=true" caption="" alt="" %}
 
 **Replay Percentage Chance: I had to restart the game like 4 times just to get some screenshots that didn’t read “You’re Dead” but I don’t think that counts. 0%**
 
@@ -61,7 +61,7 @@ I read through all the devlogs. In August, this guy was [talking about moving on
 1. MOVE THE FUCK ON
 
 2. If you have to type this:
-{% include figure.html image="/assets/img/shitpost.png" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/shitpost.png?raw=true" caption="" alt="" %}
 Then it isn’t a good shitpost bud.
 
 **Recommend: Nope**
