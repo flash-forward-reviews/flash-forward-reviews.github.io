@@ -1,5 +1,5 @@
 ---
-title: "Day 7 - Samuri Shaver"
+title: "Day 7 - Samurai Shaver"
 layout: post
 categories:
 - Rhythm Game
