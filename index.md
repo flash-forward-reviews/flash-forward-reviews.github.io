@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 13: [Octoquest]({{ "/day-13" | relative_url }})
 - Day 12: [Infinite Fusion]({{ "/day-12" | relative_url }})
 - Day 11: [Giraffe]({{ "/day-11" | relative_url }})
 - Day 10: [Night of Full Moon]({{ "/day-10" | relative_url }})

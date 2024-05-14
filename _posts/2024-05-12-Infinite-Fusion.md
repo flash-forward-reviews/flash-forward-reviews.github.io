@@ -123,7 +123,7 @@ Ok, I think you probably understand the fusion mechanic and why I adore it so mu
 You might sigh the first time loading into the game as you are dropped right into Pallet Town yet again thinking “Oh man, cool. Kanto again.” Maybe it’s just me feeling the Kanto fatigue. 
 While Infinite Fusion uses the Kanto region, it expands on it also. The story doesn’t follow the original Red story, and instead decides to tell a new story that relates directly with the core mechanic and revolves around Team Rocket trying to triple fuse extremely powerful Pokemon to take over the world. 
 
-[SAM NOTE: Skeeter had a family emergency while writing. He has more to say and will finish this review later!]
+[SAM NOTE: Skeeter had a family emergency while writing. Everyone is okay, but he has lots more to say, so he will be finishing this review over the weekend.]
 
 **Recommend: Yes**
 
