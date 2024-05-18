@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 18: [The Ratchelor]({{ "/day-18" | relative_url }})
 - Day 17: [Toiletrooms]({{ "/day-17" | relative_url }})
 - Day 16: [Which Family Guy Character Are You?]({{ "/day-16" | relative_url }})
 - Day 15: [Dread Delusion - Review Part 2]({{ "/day-15" | relative_url }})
