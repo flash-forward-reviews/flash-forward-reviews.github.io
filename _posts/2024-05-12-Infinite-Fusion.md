@@ -120,10 +120,34 @@ My Porygon/Mimikyu cross is a good example of the pop culture references I was t
 
 Ok, I think you probably understand the fusion mechanic and why I adore it so much. 
 
-You might sigh the first time loading into the game as you are dropped right into Pallet Town yet again thinking “Oh man, cool. Kanto again.” Maybe it’s just me feeling the Kanto fatigue. 
-While Infinite Fusion uses the Kanto region, it expands on it also. The story doesn’t follow the original Red story, and instead decides to tell a new story that relates directly with the core mechanic and revolves around Team Rocket trying to triple fuse extremely powerful Pokemon to take over the world. 
+You might sigh the first time loading into the game as you are dropped right into Pallet Town yet again thinking “Oh man, cool. Kanto again.” Is it just me feeling the Kanto fatigue? 
+While Infinite Fusion uses the Kanto region, it expands on it also. The story doesn’t follow the original Red story, and instead decides to tell a new story that relates directly with the core mechanic and revolves around Team Rocket trying to triple fuse extremely powerful Pokemon to take over the world. The game even opens up allowing you to explore Johto and the Sevii Islands. Johto has a fun gimmick where you start in Goldenrod and have to track the gym leaders down throughout the world (You find Jasmine on vacation in the Sevii Islands, for example). All this helps add some much needed variety to a couple regions we’ve seen reiterated a ton of times by now. 
 
-[SAM NOTE: Skeeter had a family emergency while writing. Everyone is okay, but he has lots more to say, so he will be finishing this review over the weekend.]
+There are also new ideas added, such as quests: 
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok1.png?raw=true" caption="" alt="" %}
+
+This nerd wanted me to help deliver a letter to the girl he liked, but love is for losers so I told him I couldn’t help out. You get some rewards for completing a quests and these quests get added to your Quest Journal. After completing a certain amount of quests, you hit milestones that give better rewards. Yes, it’s simple. But I’m glad it’s there. 
+
+Lastly, the game offers a variety of ways you can play:
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok2.png?raw=true" caption="" alt="" %}
+
+Classic is the standard, boilerplate experience for Pokemon Fusion. 
+Randomized allows you to randomize the game, obviously. Adding 200,000 different pokemon to the game makes for a really interesting randomized run, turns out. The game allows you some control over how these encounters spawn, if trainers will also have random Pokemon, and even if you want your items to be randomized: 
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok3.png?raw=true" caption="" alt="" %}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok4.png?raw=true" caption="" alt="" %}
+
+Modern mode adds more of a focus on newer generation pokemon, and you will see Pokemon from the most recent generations spawn in the wild/be used by trainers. 
+Expert Mode makes the game more difficult, but I’m not sure how it varies from the difficulty modifier the games gives you when picking any of the other available modes. 
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok5.png?raw=true" caption="" alt="" %}
+
+Look, I could go on longer about all the little details and ideas in this game. I didn’t even mention the wonder trade (there isn’t online connectivity, but you can still wondertrade with the engine), the black market that only opens its doors at night where you can buy sad, stolen Pokemon from Team Rocket, or the fact that you can catch every Legendary Pokemon in the game. I know you Legendary freaks were foaming at the mouth for that - yes you can catch every legendary (Not sure about Scarlet/Violet pokemon though - there may have been some updates that added those lizards in). I’ve grown to like Legendary Pokemon less as I’ve grown older. The luster of these supposedly super unique and rare Pokemon gets sort of lost on me when everyone is guaranteed one in the game, and you see any kid you compete with using a team full of the same legendaries as the last kid you battled with. Yes, I see your really cool Rayquaza - I saw that same Rayquaza the last 4 battles, you freaking nerds. You know what I haven’t seen? Luvdisc. Luvdisc is more rare of a sight than any of the Legendary Pokemon - I mean, who would willingly want to use this: 
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pok6.png?raw=true" caption="" alt="" %}
 
 **Recommend: Yes**
 
