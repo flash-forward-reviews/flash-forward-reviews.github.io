@@ -50,12 +50,25 @@ But like... not romantically loved. Obviously.
 
 ## Skeeter's Take:
 
-Sam wrote first, Skeeter is still at work, his review will be up later. LOL SKEETER XD.
+I don’t know how Sam played through this whole game - it’s riddled with typos! 
+Don’t worry, wilbefast, I made some edits I thought would help!
 
-**Recommend: ?**
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby6.png?raw=true" caption="" alt="" %}
 
-**Replay Percentage Chance: ?**
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby7.png?raw=true" caption="" alt="" %}
 
-**Time Played: ?**
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby8.png?raw=true" caption="" alt="" %}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby9.png?raw=true" caption="" alt="" %}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby10.png?raw=true" caption="" alt="" %}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby11.png?raw=true" caption="" alt="" %}
+
+**Recommend: Cake**
+
+**Replay Percentage Chance: 2% milk**
+
+**Time Played: 6 minutes**
 
 {% include button.html text="Link to game" link="https://wilbefast.itch.io/just-be-yourself" %}

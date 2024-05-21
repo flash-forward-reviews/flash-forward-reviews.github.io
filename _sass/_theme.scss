@@ -1,7 +1,38 @@
+:root{
+  // Background colours
+  --backgroundColour: #ffffff;
+  --codeBackgroundColour: #fafafa;
+  --featureBackgroundColour: #f9fafa;
+  --headingColour: #242e2b;
+  --bodyColour: #384743;
+  --linkColour: #05bf85;
+  --hoverColour: #008000;
+  --focusColour: #fa407a;
+  --captionColour: #a8adac;
+  --accentColour: #05bf85;
+  --white: #ffffff;
+  }
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root{
+  // Background colours
+--backgroundColour: #000000;
+--codeBackgroundColour: #050505;
+--featureBackgroundColour: #050606;
+--headingColour: #dbd1d4;
+--bodyColour: #c7b8bc;
+--linkColour: #fa407a;
+--hoverColour: #ff7fff;
+--focusColour: #05bf85;
+--captionColour: #575253;
+--accentColour: #fa407a;
+--white: #000000;
+  }
+}
 // Structural elements
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+  background: var(--backgroundColour);
+  color: var(--bodyColour);
   height: 100%;
   display: flex;
   @include flex-direction(column);
@@ -47,7 +78,7 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
+  background: var(--featureBackgroundColour);
   background-size: cover;
   background-position: center;
   .container {
@@ -81,17 +112,17 @@ body {
 
 .small {
   padding-top: .8rem;
-  color: $captionColour;
+  color: var(--captionColour);
   display: inline-block;
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: var(--headingColour);
+  color: var(--captionColour);
   a {
-    color: $captionColour;
+    color: var(--captionColour);
     &:hover {
-      color: $backgroundColour;
+      color: var(--backgroundColour);
     }
   }
   .container {
@@ -107,7 +138,7 @@ body {
 .nav--paginator {
   @include flexbox;
   @include justify-content(space-between);
-  color: $captionColour;
+  color: var(--captionColour);
   text-align: center;
 }
 
@@ -198,7 +229,7 @@ body {
   }
   &--current {
     a {
-      color: $captionColour;
+      color: var(--captionColour);
     }
   }
 }
@@ -278,7 +309,7 @@ video {
   position: relative;
   &__legend {
     font-style: italic;
-    color: $captionColour;
+    color: var(--captionColour);
     position: absolute;
     overflow: hidden;
     right: 0;
@@ -313,8 +344,8 @@ button,
 .button {
   cursor: pointer;
   display: inline-block;
-  color: $backgroundColour;
-  background: $accentColour;
+  color: var(--backgroundColour);
+  background: var(--accentColour);
   transition: box-shadow .1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -332,14 +363,14 @@ button,
     display: none;
   }
   background: none;
-  color: $linkColour;
+  color: var(--linkColour);
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
   &:hover,
   &:focus {
     box-shadow: none;
-    color: $hoverColour;
+    color: var(--hoverColour);
   }
 }
 
@@ -351,7 +382,7 @@ textarea,
 select {
   &:focus,
   &:hover:focus {
-    outline: solid .12rem $focusColour;
+    outline: solid .12rem var(--focusColour);
     outline-offset: -.12rem;
   }
 }
@@ -367,14 +398,14 @@ input[type="color"],
 textarea,
 select {
   width: 100%;
-  border: 1px solid $captionColour;
+  border: 1px solid var(--captionColour);
   &:hover {
-    border-color: $bodyColour;
+    border-color: var(--bodyColour);
   }
 }
 
 select {
-  background: $codeBackgroundColour;
+  background: var(--codeBackgroundColour);
 }
 
 textarea {
@@ -387,7 +418,7 @@ label {
 
 code {
   padding: .12rem .2rem;
-  color: $headingColour;
+  color: var(--headingColour);
 }
 
 pre code {
@@ -412,8 +443,8 @@ pre code {
 }
 
 ::selection {
-  background: $headingColour;
-  color: $backgroundColour;
+  background: var(--headingColour);
+  color: var(--backgroundColour);
   text-shadow: none;
 }
 
@@ -427,12 +458,12 @@ pre code {
   button {
     background-image: none;
     text-shadow: none;
-    color: $backgroundColour;
+    color: var(--backgroundColour);
     &:hover,
     &:active,
     &:focus {
       background-image: none;
-      color: $backgroundColour;
+      color: var(--backgroundColour);
     }
   }
   hr {

@@ -1,23 +1,4 @@
 // Background colours
-$backgroundColour: #ffffff !default;
-$codeBackgroundColour: #fafafa !default;
-$featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
-
-// Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
-$captionColour: #a8adac !default;
-$white: #ffffff !default;
-
-
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  :root{
-  // Background colours
 $backgroundColour: #000000 !default;
 $codeBackgroundColour: #050505 !default;
 $featureBackgroundColour: #050606 !default;
@@ -31,8 +12,6 @@ $hoverColour: #ff7fff !default;
 $focusColour: #05bf85 !default;
 $captionColour: #575253 !default;
 $white: #000000 !default;
-  }
-}
 
 // Typography
 $bodytype: (
