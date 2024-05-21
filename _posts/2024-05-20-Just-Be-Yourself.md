@@ -1,5 +1,5 @@
 ---
-title: "Day 20 - Plumber"
+title: "Day 20 - Just Be Yourself"
 layout: post
 categories:
 - Dating Sim
