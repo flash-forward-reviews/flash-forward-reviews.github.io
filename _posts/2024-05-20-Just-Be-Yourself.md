@@ -65,7 +65,7 @@ Don’t worry, wilbefast, I made some edits I thought would help!
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/jby11.png?raw=true" caption="" alt="" %}
 
-**Recommend: Cake**
+**Recommend: Naw**
 
 **Replay Percentage Chance: 2% milk**
 
