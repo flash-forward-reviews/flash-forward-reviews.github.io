@@ -27,6 +27,7 @@ title: 'Flash Forward Reviews'
 description: 'Great Reviews for Attractive People'
 permalink: pretty
 logo: /assets/logos/logo-flash-forward.png
+logodark: /assets/logos/logo-flash-forward-grey.png
 source-code: https://github.com/flash-forward-reviews/penguin
 
 disqus:
