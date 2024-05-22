@@ -81,4 +81,4 @@ But hey, it’s free?
 
 **Time Played: 20 Minutes**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/1707040/OctoQuest/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/1707040/OctoQuest/" %}

@@ -67,4 +67,4 @@ Guuuuyyyyyyyyyyyyyyyyyyy
 
 **Time Played: My whole life**
 
-{% include button.html text="Link to game" link="https://xbenichi.itch.io/which-family-guy-character-are-you" %}
+{% include button.html text="Link to Game" link="https://xbenichi.itch.io/which-family-guy-character-are-you" %}

@@ -146,4 +146,4 @@ Keep making it.
 
 **Time Played: New Version: 90 Minutes, Old Version: 15 Minutes, TF2: 7 Minutes**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/2701800/No_Players_Online/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/2701800/No_Players_Online/" %}

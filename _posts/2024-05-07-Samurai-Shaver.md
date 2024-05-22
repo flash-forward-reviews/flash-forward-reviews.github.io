@@ -62,4 +62,4 @@ A few days ago when reviewing Baby Shooter, I commented on the developer’s exc
 
 **Time Played: 15 minutes**
 
-{% include button.html text="Link to game" link="https://ddrkirbyisq.itch.io/samurai-shaver" %}
+{% include button.html text="Link to Game" link="https://ddrkirbyisq.itch.io/samurai-shaver" %}

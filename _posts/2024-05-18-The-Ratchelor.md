@@ -170,4 +170,4 @@ Oh wow. Wowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowo
 
 **Time Played: 14 Minutes**
 
-{% include button.html text="Link to game" link="https://algorat.club/ratchelor1/" %}
+{% include button.html text="Link to Game" link="https://algorat.club/ratchelor1/" %}

@@ -71,4 +71,4 @@ Don’t worry, wilbefast, I made some edits I thought would help!
 
 **Time Played: 6 minutes**
 
-{% include button.html text="Link to game" link="https://wilbefast.itch.io/just-be-yourself" %}
+{% include button.html text="Link to Game" link="https://wilbefast.itch.io/just-be-yourself" %}

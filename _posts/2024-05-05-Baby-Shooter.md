@@ -70,4 +70,4 @@ Then it isn’t a good shitpost bud.
 
 **Time Played: 2 mins**
 
-{% include button.html text="Link to game" link="https://shoodigity.itch.io/baby-shooter" %}
+{% include button.html text="Link to Game" link="https://shoodigity.itch.io/baby-shooter" %}

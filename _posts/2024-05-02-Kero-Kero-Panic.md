@@ -102,4 +102,4 @@ P.S. I eventually did go back and click the right button on the main menu and it
 
 **Time Played: 12 and ¼ minutes**
 
-{% include button.html text="Link to game" link="https://thestrangest.itch.io/kero-kero-panic" %}
+{% include button.html text="Link to Game" link="https://thestrangest.itch.io/kero-kero-panic" %}

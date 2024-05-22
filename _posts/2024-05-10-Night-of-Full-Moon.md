@@ -134,4 +134,4 @@ P.S. - Is that fucking TREANT PROTECTOR???
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/moon10.png?raw=true" caption="" alt="" %}
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/769560/_Night_of_Full_Moon/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/769560/_Night_of_Full_Moon/" %}

@@ -155,4 +155,4 @@ Look, I could go on longer about all the little details and ideas in this game. 
 
 **Time Played: Countless hours**
 
-{% include button.html text="Link to game" link="https://www.reddit.com/r/PokemonInfiniteFusion/comments/wydpah/game_download_and_other_important_links/" %}
+{% include button.html text="Link to Game" link="https://www.reddit.com/r/PokemonInfiniteFusion/comments/wydpah/game_download_and_other_important_links/" %}

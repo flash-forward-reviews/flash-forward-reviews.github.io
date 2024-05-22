@@ -116,4 +116,4 @@ All in all, I’m really having fun with this game, and I am excited to explore 
 
 **Time Played: 3 Hours**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/1574240/Dread_Delusion/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/1574240/Dread_Delusion/" %}

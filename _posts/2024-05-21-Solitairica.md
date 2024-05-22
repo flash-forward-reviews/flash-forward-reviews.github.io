@@ -91,4 +91,4 @@ Solitairica made me realize that I was more than fair to Night of Full Moon, and
 
 **Time Played: 54 Minutes**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/463980/Solitairica/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/463980/Solitairica/" %}

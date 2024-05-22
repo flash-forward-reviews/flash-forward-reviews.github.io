@@ -134,4 +134,4 @@ All in all, I’ve played around an hour and only got through “tutorial island
 
 **Time Played: 70 minutes**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/1574240/Dread_Delusion/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/1574240/Dread_Delusion/" %}

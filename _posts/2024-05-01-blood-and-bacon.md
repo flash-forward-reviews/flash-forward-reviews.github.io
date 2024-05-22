@@ -63,4 +63,4 @@ Sorry, old habits die hard.
 
 **Time Played: 27 mins**
 
-{% include button.html text="Link to game" link="https://store.steampowered.com/app/434570/Blood_and_Bacon/" %}
+{% include button.html text="Link to Game" link="https://store.steampowered.com/app/434570/Blood_and_Bacon/" %}

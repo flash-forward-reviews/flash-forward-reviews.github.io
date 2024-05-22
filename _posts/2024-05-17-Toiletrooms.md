@@ -109,4 +109,4 @@ I’m sorry, but would you wake this boy up?
 
 **Time Played: 5 Minutes**
 
-{% include button.html text="Link to game" link="https://kenforest.itch.io/toiletrooms" %}
+{% include button.html text="Link to Game" link="https://kenforest.itch.io/toiletrooms" %}

@@ -142,4 +142,4 @@ And of course get my friend a nice shiny mirror.
 
 **Time Played: 42 Minutes**
 
-{% include button.html text="Link to game" link="https://disillusionst.itch.io/disillusion-st?download" %}
+{% include button.html text="Link to Game" link="https://disillusionst.itch.io/disillusion-st?download" %}
