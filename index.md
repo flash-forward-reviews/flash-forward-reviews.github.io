@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 23: [Topple!]({{ "/day-23" | relative_url }})
 - Day 22: [Infinite Craft]({{ "/day-22" | relative_url }})
 - Day 21: [Solitairica]({{ "/day-21" | relative_url }})
 - Day 20: [Just Be Yourself]({{ "/day-20" | relative_url }})

@@ -92,4 +92,4 @@ Okay I’m done.
 
 **Time Played: 1 Hour**
 
-{% include button.html text="Link to Game" link=" https://neal.fun/infinite-craft/" %}
+{% include button.html text="Link to Game" link="https://neal.fun/infinite-craft/" %}
