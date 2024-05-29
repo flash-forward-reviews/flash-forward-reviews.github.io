@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 28: [Dungeons & Degenerate Gamblers (Demo)]({{ "/day-28" | relative_url }})
 - Day 27: [M. Stain]({{ "/day-27" | relative_url }})
 - Day 26: [The Fight Before Christmas]({{ "/day-26" | relative_url }})
 - Day 25: [Space]({{ "/day-25" | relative_url }})
