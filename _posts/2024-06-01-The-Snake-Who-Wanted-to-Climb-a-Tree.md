@@ -44,13 +44,13 @@ Nothing matters. We all die. Make your own fun, but the best way to do that woul
 
 I sure hope I edit this later, because YEESH. 
 
-Billie Jean is not my lover.\ 
+Billie Jean is not my lover.\
 She’s just a girl who claims I AM THE ONE\
 But the KIID IS NOT MY SON\
 Bew bew ebwwww\
 Bew ebwbewwww\
 Bewbewbweww\
-Dudnnndundddundn\ 
+Dudnnndundddundn\
 OOOEeee werewolves of london\
 OOOOOWEEEEEE\
 SOS I NEED TO SOBER UP SEND A MEDIC WITH A DRIP IV\
@@ -68,7 +68,7 @@ SHE’S JUST A GIRL WHO CLAIMS IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 
 
 **Time Played: Technically played it**
 
-BILLIE JEAN\ 
+BILLIE JEAN\
 IS NOT MY LOVER
 
 {% include button.html text="Link to Game" link="https://strook.itch.io/snake-game" %}
