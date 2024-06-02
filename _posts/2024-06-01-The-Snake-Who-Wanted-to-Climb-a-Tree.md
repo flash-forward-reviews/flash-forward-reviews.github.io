@@ -38,12 +38,37 @@ Good enough.
 
 ## Skeeter's Take:
 
-Skeeter had to meet with FAMILY and will write his review LATER. We should sue him.
+Hey guys, I’m back from a wedding and drunk. I made it to the first birds nest and I can wholeheartedly say I have no desire to continue playing. Is it the alcohol? Who knows, but I didn’t have fun slinging my snake up a tree. I don’t care about this snake. Why should I care about this snake? I shouldn’t. There’s no reason. The game doesn’t give you a reason and we are collectively teetering on the brink of WWIII so what does it matter if someone makes a simple snake jumping game? It doesn’t. Why does it matter if I review this game? It doesn’t. This review is shit. All my reviews are shit. As Barry McGuire once said, can’t you see, we are on the Eve of Destruction.
+Man, I have ingested too much alcohol to be putting these drunk thoughts out into the internet just willy nilly. 
+Nothing matters. We all die. Make your own fun, but the best way to do that would be to not play snake jump ravioli special. 
 
-**Recommend:Skeeter**
+I sure hope I edit this later, because YEESH. 
 
-**Replay Percentage Chance:Skeeter**
+Billie Jean is not my lover. 
+She’s just a girl who claims I AM THE ONE
+But the KIID IS NOT MY SON
+Bew bew ebwwww
+Bew ebwbewwww
+Bewbewbweww
+Dudnnndundddundn 
+OOOEeee werewolves of london
+OOOOOWEEEEEE
+SOS I NEED TO SOBER UP SEND A MEDIC WITH A DRIP IV
+Sam Hi
+Hi Sam
+Hi 
 
-**Time Played:Skeeter**
+Please cut this out why am I still typing. 
+BILLIE JEAN IS - NOT MY LOVER
+SHE’S JUST A GIRL WHO CLAIMS IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII AM THE 
+
+**Recommend: NO**
+
+**Replay Percentage Chance: NO**
+
+**Time Played: Technically played it**
+
+BILLIE JEAN 
+IS NOT MY LOVER
 
 {% include button.html text="Link to Game" link="https://strook.itch.io/snake-game" %}
