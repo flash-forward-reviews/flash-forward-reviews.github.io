@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 34: [Mammoth Hunting]({{ "/day-34" | relative_url }})
 - Day 33: [Courage: The Videogame]({{ "/day-33" | relative_url }})
 - Day 32: [The Snake That Wanted to Climb a Tree]({{ "/day-32" | relative_url }})
 - Day 31: [Soup]({{ "/day-31" | relative_url }})
