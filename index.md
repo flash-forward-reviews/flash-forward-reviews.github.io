@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 36: [Nate Ball]({{ "/day-36" | relative_url }})
 - Day 35: [Mammoth Hunting - Review Part 2]({{ "/day-35" | relative_url }})
 - Day 34: [Mammoth Hunting]({{ "/day-34" | relative_url }})
 - Day 33: [Courage: The Videogame]({{ "/day-33" | relative_url }})
