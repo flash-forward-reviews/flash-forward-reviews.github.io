@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 38: [Bloons TD 6]({{ "/day-38" | relative_url }})
 - Day 37: [Himmlisch Card Maker]({{ "/day-37" | relative_url }})
 - Day 36: [Nate Ball]({{ "/day-36" | relative_url }})
 - Day 35: [Mammoth Hunting - Review Part 2]({{ "/day-35" | relative_url }})

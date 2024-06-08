@@ -4,7 +4,7 @@ layout: post
 categories:
 - Deckbuilder
 - Rougelite
-- Gambling
+- Youtube Game
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-28
 comments: true

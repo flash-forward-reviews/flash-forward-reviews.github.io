@@ -35,7 +35,7 @@ That being said, this lacks some polish, and has some strange bugs and issues. T
 
 ## Sam's Take:
 
-I usually don’t agree with criticism that a game is just a “worse version of x” but like... there are so many other better ones available if you just google “make fake Magic cards. It’s not the worst tool I’ve ever seen, but it has actually zero value. Sorry Himmlisch.
+I usually don’t agree with criticism that a game is just a “worse version of x” but like... there are so many other better ones available if you just google "make fake Magic cards". It’s not the worst tool I’ve ever seen, but it has actually zero value. Sorry Himmlisch.
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtgm3.png?raw=true" caption="I also had to add the art myself because the uploader didn’t work" alt="" %}
 
