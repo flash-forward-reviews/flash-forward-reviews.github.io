@@ -66,7 +66,7 @@ Instead of thinking, “Oh, cool, can't wait to check this out and dive into the
 Here’s the tough thing about these reviews; often we are playing games that, like this one (or Off Peak), are genuinely good games. But like this game (and Off Peak), they fall into a genre I am not really all that interested in, or they don’t click with me, or I just don’t enjoy it. 
 
 The self-imposed rubric we have set in place here is, “Would I recommend this game?”. 
-For me, for Fish Fillet 2, 9/10 that answer would be “no”. 
+For me, for Fish Fillets 2, 9/10 that answer would be “no”. 
 
 That 1/10 time would be me recommending this to Sam.
 
