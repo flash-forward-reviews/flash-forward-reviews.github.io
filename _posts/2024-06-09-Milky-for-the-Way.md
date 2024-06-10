@@ -18,7 +18,7 @@ You move a ship and press the mouse button to abduct cows. The only good thing a
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky2.png?raw=true" caption="" alt="" %}
 
-Other than providing me with my new laptop background, this game doesn’t have much value. It was made in 72 hours for a game jam, so credit where credit was due, it’s playable. Like all of these game jam games, it wasn’t meant to be reviewed in this way. This is my fault.
+Other than providing me with my new laptop background, this game doesn’t have much value. It was made in 72 hours for a game jam, so credit where credit is due, it’s playable. Like all of these game jam games, it wasn’t meant to be reviewed in this way. This is my fault.
 
 **Recommend: No**
 
