@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 41: [Redfall]({{ "/day-41" | relative_url }})
 - Day 40: [Milky for the Way]({{ "/day-40" | relative_url }})
 - Day 39: [Fish Fillets 2]({{ "/day-39" | relative_url }})
 - Day 38: [Bloons TD 6]({{ "/day-38" | relative_url }})
