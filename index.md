@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 43: [Scare Girl]({{ "/day-43" | relative_url }})
 - Day 42: [No Game No Life]({{ "/day-42" | relative_url }})
 - Day 41: [Redfall]({{ "/day-41" | relative_url }})
 - Day 40: [Milky for the Way]({{ "/day-40" | relative_url }})
