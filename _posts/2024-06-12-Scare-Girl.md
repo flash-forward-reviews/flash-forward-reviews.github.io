@@ -2,7 +2,7 @@
 title: "Day 43 - Scare Girl"
 layout: post
 categories:
-- Muliplayer
+- Multiplayer
 - Horror
 - Creepypasta
 feature_image: "/assets/banner-flash-forward.png"
