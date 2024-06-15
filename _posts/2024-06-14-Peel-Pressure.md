@@ -76,7 +76,7 @@ For real, getting this ending was actually kind of hard:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/peel5.png?raw=true" caption="" alt="" %}
 
-I’m afraid Skeeter might starve to death for not being able to read the Mr. Yuck sticker on his laundry detergent.
+I’m afraid Skeeter might die due to not being able to read the Mr. Yuck sticker on his laundry detergent.
 
 **Recommend: Yes, very cool game** 
 
