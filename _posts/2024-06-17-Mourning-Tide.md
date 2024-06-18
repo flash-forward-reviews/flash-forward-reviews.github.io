@@ -1,5 +1,5 @@
 ---
-title: "Day 48- Mourning Tide"
+title: "Day 48 - Mourning Tide"
 layout: post
 categories:
 - Sports
