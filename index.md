@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 48: [Mourning Tide]({{ "/day-48" | relative_url }})
 - Day 47: [Jumb]({{ "/day-47" | relative_url }})
 - Day 46: [Re-Spawn]({{ "/day-46" | relative_url }})
 - Day 45: [Peel Pressure]({{ "/day-45" | relative_url }})
