@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 51: [Jesus in Aspen]({{ "/day-51" | relative_url }})
 - Day 50: [50]({{ "/day-50" | relative_url }})
 - Day 49: [Fortnite2]({{ "/day-49" | relative_url }})
 - Day 48: [Mourning Tide]({{ "/day-48" | relative_url }})
