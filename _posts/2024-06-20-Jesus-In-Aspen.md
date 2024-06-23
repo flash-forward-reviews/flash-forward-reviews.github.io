@@ -47,7 +47,7 @@ There are no bells and whistles on this game. Hell, there’s not even a game ov
 
 **Recommend: Sure, but just one game, don’t go too hard** 
 
-**Replay Percentage Chance: The other 1.11%**
+**Replay Percentage Chance: 1.11%**
 
 **Time Played:** 
 
