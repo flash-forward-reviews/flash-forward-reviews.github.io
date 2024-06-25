@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 55: [Arson Frog 2]({{ "/day-55" | relative_url }})
 - Day 54: [Dota2Guessr]({{ "/day-54" | relative_url }})
 - Day 53: [Disney Speedstorm]({{ "/day-53" | relative_url }})
 - Day 52: [fun doom bootleg]({{ "/day-52" | relative_url }})
