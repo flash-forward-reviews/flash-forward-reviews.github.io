@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 56: [Pachinkremental]({{ "/day-56" | relative_url }})
 - Day 55: [Arson Frog 2]({{ "/day-55" | relative_url }})
 - Day 54: [Dota2Guessr]({{ "/day-54" | relative_url }})
 - Day 53: [Disney Speedstorm]({{ "/day-53" | relative_url }})
