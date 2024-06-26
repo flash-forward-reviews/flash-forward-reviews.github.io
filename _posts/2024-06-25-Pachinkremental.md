@@ -78,9 +78,9 @@ And the best part? The game has an honest to God ending! You can stop! No dumbas
 
 Pachinkremental is a REAL FUCKER and I played it for four hours HELP ME GOD.
 
-Set me freeeee why don’t cha baaabe
-GET OUT OF MY LIFE why don’t cha baaabe
-‘Cause you don’t really loooove meeeee
+Set me freeeee why don’t cha baaabe\
+GET OUT OF MY LIFE why don’t cha baaabe\
+‘Cause you don’t really loooove meeeee\
 You just KEEP ME HANGIN’ OOOOOOOOOOONNNNNNNNNNNNNNNN
 
 **Recommend: There’s a second board after you max out the first one fuuuuuuu**
