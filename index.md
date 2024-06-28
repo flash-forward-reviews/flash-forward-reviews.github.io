@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 58: [fun doom bootleg re-review]({{ "/day-58" | relative_url }})
 - Day 57: [Fisk]({{ "/day-57" | relative_url }})
 - Day 56: [Pachinkremental]({{ "/day-56" | relative_url }})
 - Day 55: [Arson Frog 2]({{ "/day-55" | relative_url }})
