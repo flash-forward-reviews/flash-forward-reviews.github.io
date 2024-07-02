@@ -28,7 +28,7 @@ Not to mention, she also has the enhanced cybernetic ability to shoot photo lase
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/HTGP5.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-So, again I pose the question - WHAT DOES SHE NEED HELP WITH? SHE’S GOT IT ALL, BABY! There’s nothing more this girl could possibly want for. “HelP THE GIRL”? She should be helping me! 
+So, again I pose the question - WHAT DOES SHE NEED HELP WITH? SHE’S GOT IT ALL, BABY! There’s nothing more this girl could possibly want for. “HElP THE GIRL”? She should be helping me! 
 
 “HElP THE GIRL PLEASE” also forgot to capitalize the “L” in “HELP”, which is ironic since that’s  the very thing it is - an L.
 
