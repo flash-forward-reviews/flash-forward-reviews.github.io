@@ -2,9 +2,9 @@
 title: "Day 61 - Coloring Book"
 layout: post
 categories:
-- Shitpost
+- Nightmare Fuel
 - WTF
-- Pee pee fart
+- Nudity
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-61
 comments: true

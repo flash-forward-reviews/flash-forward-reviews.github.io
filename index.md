@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 62: [HElP THE GIRL PLEASE]({{ "/day-62" | relative_url }})
 - Day 61: [Coloring Book]({{ "/day-61" | relative_url }})
 - Day 60: [Tiger]({{ "/day-60" | relative_url }})
 - Day 59: [Holbrook Hotel]({{ "/day-59" | relative_url }})
