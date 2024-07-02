@@ -22,7 +22,7 @@ She’s got everything she needs already! Convenient rank-like wheel feet (espec
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/HTGP3.png?raw=true" caption="Me? Oh, just hanging around" alt="" %}{:target="_blank"}
 
-Not to mention, she also has the enhanced cybernetic ability to shoot photo lasers from the swinging door hatch on her belly, and she can form a cool soap bubble around herself:
+Not to mention, she also has the enhanced cybernetic ability to shoot photon lasers from the swinging door hatch on her belly, and she can form a cool soap bubble around herself:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/HTGP4.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
