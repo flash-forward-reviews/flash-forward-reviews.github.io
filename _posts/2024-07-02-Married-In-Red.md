@@ -43,7 +43,7 @@ Look... I’ve done so many insult Skeeter posts at this point... but I kinda fe
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mired7.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-Now it’s easy to make fun of him here. There are maybe seven or eight screens in this whole game, and Skeeter spent fifty minutes looking for one of them. This is so funny, and I want to destroy him, but let’s look at this a different way. Skeeter couldn’t find a room, and instead of giving up, spent 50 minutes actively searching and sending me frantic angry Discord messages. This is dedication folk. Skeeter has written a review a day for sixty-two days and STILL has the energy to make zero progress for almost an hour. God Bless you Skeeter. So in his honor, I will write a normal review of Married in Red without ever once calling Skeeter a fake gamer.
+Now it’s easy to make fun of him here. There are maybe seven or eight screens in this whole game, and Skeeter spent fifty minutes looking for one of them. This is so funny, and I want to destroy him, but let’s look at this a different way. Skeeter couldn’t find a room, and instead of giving up, spent 50 minutes actively searching and sending me frantic angry Discord messages. This is dedication folks. Skeeter has written a review a day for sixty-two days and STILL has the energy to make zero progress for almost an hour. God Bless you Skeeter. So in his honor, I will write a normal review of Married in Red without ever once calling Skeeter a fake gamer.
 
 With that out of the way, on to the review proper.
 
