@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 64: [Golf Sunday]({{ "/day-64" | relative_url }})
 - Day 63: [Married in Red]({{ "/day-63" | relative_url }})
 - Day 62: [HElP THE GIRL PLEASE]({{ "/day-62" | relative_url }})
 - Day 61: [Coloring Book]({{ "/day-61" | relative_url }})
