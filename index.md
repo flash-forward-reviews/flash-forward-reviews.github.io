@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 65: [American Dad (PC EMULATOR)]({{ "/day-65" | relative_url }})
 - Day 64: [Golf Sunday]({{ "/day-64" | relative_url }})
 - Day 63: [Married in Red]({{ "/day-63" | relative_url }})
 - Day 62: [HElP THE GIRL PLEASE]({{ "/day-62" | relative_url }})
