@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 69: [Heaven Will Be Mine]({{ "/day-69" | relative_url }})
 - Day 68: [Poop'em All !!]({{ "/day-68" | relative_url }})
 - Day 67: [Pinball]({{ "/day-67" | relative_url }})
 - Day 66: [How to Make Part 2]({{ "/day-66" | relative_url }})

@@ -97,7 +97,7 @@ My best time is 33.78 seconds (actually an insane time, and my only sub-1 minute
 
 **Recommend: Only if you’re attempting to beat my death% record** 
 
-**Replay Percentage Only if we compete to be my death% record**
+**Replay Percentage Chance: Only if we compete to be my death% record**
 
 **Time Played: 15 Minutes** 
 
