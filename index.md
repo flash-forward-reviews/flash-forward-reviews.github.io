@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 72: [I MUST EAT CHILI OIL]({{ "/day-72" | relative_url }})
 - Day 71: [Monkey Business]({{ "/day-71" | relative_url }})
 - Day 70: [Fluoroantimonic]({{ "/day-70" | relative_url }})
 - Day 69: [Heaven Will Be Mine]({{ "/day-69" | relative_url }})
