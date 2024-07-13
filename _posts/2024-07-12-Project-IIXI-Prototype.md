@@ -54,7 +54,7 @@ Stare into the void and the void stares back.
 
 I’m on a beach vacation with my family reviewing Project IIXI Prototype.
 
-**Recommend: Yes. If you played it right after you read “yes then you got PUNKED. My real answer is no.** 
+**Recommend: Yes. If you played it right after you read "yes" then you got PUNKED. My real answer is no.** 
 
 **Replay Percentage Chance: 00000000000%**
 
