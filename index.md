@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 74: [Puppy Dogs Tails]({{ "/day-74" | relative_url }})
 - Day 73: [Project IIXI Prototype]({{ "/day-73" | relative_url }})
 - Day 72: [I MUST EAT CHILI OIL]({{ "/day-72" | relative_url }})
 - Day 71: [Monkey Business]({{ "/day-71" | relative_url }})
