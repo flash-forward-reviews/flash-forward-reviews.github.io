@@ -73,6 +73,6 @@ I said bacon, so I can use the pig game tag. Thank God.
 
 **Replay Percentage Chance: 2%**
 
-**Time Played: 2 Minutea** 
+**Time Played: 2 Minutes** 
 
 {% include button.html text="Link to Game" link="https://onlineambassador.itch.io/puppy-dogs-tails" %}
