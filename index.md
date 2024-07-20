@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 80: [Lomka]({{ "/day-80" | relative_url }})
 - Day 79: [Mario Kart Mobile test]({{ "/day-79" | relative_url }})
 - Day 78: [Bread]({{ "/day-78" | relative_url }})
 - Day 77: [Evolve]({{ "/day-77" | relative_url }})
