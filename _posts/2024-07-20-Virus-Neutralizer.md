@@ -38,9 +38,11 @@ Wait, “for medical students”? What is this some sort of study guide game for
 
 Nope, turns out it's a shooter. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/virusn4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/virusn5.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
 
-That pink ball with yellow glowing tentacles is the players’ character. They control the cellular structure around a 3D space. A bunch of other floating medicine/cell/virus (I don't know man, I got a degree in Theatre arts, I have no idea what I'm looking at) objects populate the space with the player. The player can shoot some of these objects, which will destroy them and advance the player to the next level. The virus you are supposed to shoot changes each round. I even had covid once.
+That pink ball with yellow glowing tentacles is the players’ character. They control the cellular structure around a 3D space. A bunch of other floating medicine/cell/virus (I don't know man, I got a degree in Theatre arts, I have no idea what I'm looking at) objects populate the space with the player. The player can shoot some of these objects, which will destroy them and advance the player to the next level. The virus you are supposed to shoot changes each round. I even had covid once:
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/virusn4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
 
 And that's sort of it? There's a bunch of different resources and collectibles up at the top of the screen, but I have no idea what they do. I don't understand how this game could be for medical students, other than its theme. I suppose the enemies being viruses could help students recognize the structures of them, but is this really made for med students?
 You could take the objects and replace them with anything, and claim it's made for those students.
