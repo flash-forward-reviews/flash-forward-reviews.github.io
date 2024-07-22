@@ -51,7 +51,7 @@ For example, if you wanted to make this game for theatre students, the player wo
 
 I was bored, I'm jealous Sam didn't have to play it. Maybe med students would find this a riot and I'm just the wrong audience.
 
-**Recommend:  Hell to the naw, to the naw naw naw** 
+**Recommend: Hell to the naw, to the naw naw naw** 
 
 **Replay Percentage Chance: 0%**
 
