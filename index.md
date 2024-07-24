@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 84: [Strip Tubes]({{ "/day-84" | relative_url }})
 - Day 83: [Clickolding]({{ "/day-83" | relative_url }})
 - Day 82: [Type the Alphabet]({{ "/day-82" | relative_url }})
 - Day 81: [Virus Neutralizer]({{ "/day-81" | relative_url }})
