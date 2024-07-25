@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 85: [Camel of Fortune: Operation Gold2th]({{ "/day-85" | relative_url }})
 - Day 84: [Strip Tubes]({{ "/day-84" | relative_url }})
 - Day 83: [Clickolding]({{ "/day-83" | relative_url }})
 - Day 82: [Type the Alphabet]({{ "/day-82" | relative_url }})
