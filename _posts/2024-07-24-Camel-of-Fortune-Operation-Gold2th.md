@@ -113,11 +113,11 @@ For the meantime, I can recommend sitting on the main menu and listening to the 
 
 {% include video.html id="kVx6EdwOy3I" title="" %}
 
-**Recommend:  I’ve been trapped inside with covid for a week now** 
+**Recommend: I’ve been trapped inside with covid for a week now** 
 
 **Replay Percentage Chance: I did the song in Audacity, please send help**
 
-**Time Played:  AHHHHHHHHHHHHHHHHHHHHHHHHHHH**
+**Time Played: AHHHHHHHHHHHHHHHHHHHHHHHHHHH**
 
 *(Sam Note: I sent this game to Dicegame on Discord and he said something so potent that I asked him if I could use it as a review. So I present to you...)*
 

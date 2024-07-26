@@ -4,7 +4,7 @@ layout: post
 categories:
 - Point and Click
 - Bangers
-- WTF
+- Duck Game
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-44
 comments: true
