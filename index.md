@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 88: [Lethal Baboon]({{ "/day-88" | relative_url }})
 - Day 87: [Stock Market Simulator]({{ "/day-87" | relative_url }})
 - Day 86: [Ducky's Office]({{ "/day-86" | relative_url }})
 - Day 85: [Camel of Fortune: Operation Gold2th]({{ "/day-85" | relative_url }})
