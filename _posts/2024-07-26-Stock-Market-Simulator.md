@@ -30,14 +30,22 @@ This is at best, a passable school coding project. I’ve never seen a game more
 
 ## Skeeter's Take:
 
-Skeeter still don’t got service, so this review will be filled in later. See the previous review for more details.
+Well, Sam, I hope you had a good time playing Stock Market Simulator. Because I could not. I could not play this game. I should have known when the download button for the  "Android" version  of this game was also the same download button for the Windows, Mac, and Linux versions. I should have been tipped off when my phone notified me that the zip file had finished its download instead of the expected .apk file. I was so ignorant.
 
-Stinky Skeeter.
+I unzipped the file and there's just an .exe to run the game from. I don't think it's fair to claim this as an android compatible game when it's really not.
 
-**Recommend: Yes!** 
+In hindsight, I really should have tested these before I left… 
+
+Anyway, here's a mobile screenshot for you:
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/stonk3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+**Recommend: Yes** 
 
 **Replay Percentage Chance: 100%**
 
 **Time Played: 17 Hours**
+
+**Did it Work on My Phone: No**
 
 {% include button.html text="Link to Game" link="https://theattdede.itch.io/stock-market-simulator" %}

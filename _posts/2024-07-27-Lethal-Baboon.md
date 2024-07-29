@@ -54,7 +54,13 @@ Sorry I couldn’t play Lethal Baboon.
 
 ## Skeeter's Take:
 
-Skeeeeeeeter don’t got internet, but the review will be here tomorrow I bet!
+All we need is a bit of Unity, which is good, because all we have is Unity.
+
+I can't get past the “Made with Unity“ launch screen.
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab5.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+After reading Sam's review, it seems like I could have saved him some time by pre-screening any of these games. But in hindsight maybe it's a good thing that Lethal Baboon happened - or rather didn't happen. If it ran like a game should, we wouldn't have Sam's Cyberpunk review, and we would have had to actually play Lethal Baboon.
 
 **Recommend: Pee** 
 
