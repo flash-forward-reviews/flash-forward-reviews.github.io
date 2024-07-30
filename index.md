@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 90: [Mad Libs Randomized Birthday Card Game]({{ "/day-90" | relative_url }})
 - Day 89: [-DON'T CLICK THE CRAB-]({{ "/day-89" | relative_url }})
 - Day 88: [Lethal Baboon]({{ "/day-88" | relative_url }})
 - Day 87: [Stock Market Simulator]({{ "/day-87" | relative_url }})
