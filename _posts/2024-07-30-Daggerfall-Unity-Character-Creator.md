@@ -126,7 +126,7 @@ Except for the bonus points.
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/daggerfall25.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-You can roll more points for your stats then save that roll and try again hoping for a better roll. You may ask if you get infinite rolls. The answer is yes. You may ask again, why don’t they just give you a lot of points, since you can roll for as many as you want and then redistribute. I can not answer this for you. Either way, prepare to spam “reroll until you get the GOD ROLL and can finally move on.
+You can roll more points for your stats then save that roll and try again hoping for a better roll. You may ask if you get infinite rolls. The answer is yes. You may ask again, why don’t they just give you a lot of points, since you can roll for as many as you want and then redistribute. I can not answer this for you. Either way, prepare to spam "reroll" until you get the GOD ROLL and can finally move on.
 
 Add a few points to your skills:
 
