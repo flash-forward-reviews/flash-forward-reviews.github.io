@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 92: [Idle Breakout]({{ "/day-92" | relative_url }})
 - Day 91: [Daggerfall Character Creator (Unity Version)]({{ "/day-91" | relative_url }})
 - Day 90: [Mad Libs Randomized Birthday Card Game]({{ "/day-90" | relative_url }})
 - Day 89: [-DON'T CLICK THE CRAB-]({{ "/day-89" | relative_url }})
