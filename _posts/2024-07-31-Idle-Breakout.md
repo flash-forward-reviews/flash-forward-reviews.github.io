@@ -14,7 +14,7 @@ comments: true
 
 ## Sam's Take:
 
-Unless I’m forgetting one, this is the fifth idle game we’ve reviewed (Giraffe, 50, Pachinkremental, and Evolve). I’ve said before in our Pachinkremental review,
+Unless I’m forgetting one, this is the fifth idle game we’ve reviewed ([Giraffe](https://flash-forward-reviews.github.io/day-11){:target="_blank"}, [50](https://flash-forward-reviews.github.io/day-50){:target="_blank"}, [Pachinkremental](https://flash-forward-reviews.github.io/day-56){:target="_blank"}, and [Evolve](https://flash-forward-reviews.github.io/day-77){:target="_blank"}). I’ve said before in our Pachinkremental review,
 
 *"There are only two things that separate the chickens from the REAL FUCKERS: Constant things to click on, and a whole lot of bright-ass colors"*
 
@@ -32,7 +32,7 @@ There are some bells and whistles on this game too, including achievements. I wa
 
 My main gripe with this game is, unlike Pachinkremental, there is no end. You can keep starting over with higher multipliers using the prestige mechanic, but progression naturally slows down after a while and you end the game once the dopamine drip doesn’t hit your personal threshold, so you always leave on a mildly sour note.
 
-All these paragraphs say, it’s another idle game. It’s flashy and eventually devolves into madness, which is what we’re looking for.
+All these paragraphs just to say, it’s another idle game. It’s flashy and eventually devolves into madness, which is what we’re looking for.
 
 I played it in the background my whole work day, so I’m willing to consider it a success.
 
