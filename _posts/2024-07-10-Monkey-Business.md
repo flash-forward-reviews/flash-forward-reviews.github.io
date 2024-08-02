@@ -16,7 +16,7 @@ comments: true
 
 Monkey Business is one of many bad platformers we’ve played over both of our review gauntlets. These types of games tend to bleed together, but sometimes a little nugget stands out. This game has two such nuggets, a two note music loop that plays throughout the whole game, and the jump sound effect.
 
-While neither of these things are interesting enough to recommend the game on its own, I does provide me with two more things to add to the Flash-Forward-Doom-Mod-Monster(tm):
+While neither of these things are interesting enough to recommend the game on its own, It does provide me with two more things to add to the Flash-Forward-Doom-Mod-Monster(tm):
 
 {% include video.html id="sqRuM4A4t00" title="" %}
 
