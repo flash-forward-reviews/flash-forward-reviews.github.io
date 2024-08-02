@@ -72,7 +72,7 @@ As much as I do appreciate the shadowy image being the same as the one in the mi
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook12.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-I can not figure out the tone of this game and even if I could, none of the weird inconsistencies in logic make sense for horror or for comedy. Everything about Holbrook Hotel is flimsy. The plot has too many logical leaps for me to feel grounded in the situation, the tone switches back and forth between horror and comedy in a confusing and unsatisfying way, and the ending twist serves no purpose other than being like other referencing other endings where you were the bad guy all along.
+I can not figure out the tone of this game and even if I could, none of the weird inconsistencies in logic make sense for horror or for comedy. Everything about Holbrook Hotel is flimsy. The plot has too many logical leaps for me to feel grounded in the situation, the tone switches back and forth between horror and comedy in a confusing and unsatisfying way, and the ending twist serves no purpose other than referencing other endings where you were the bad guy all along.
 
 An honest effort here. Certainly a finished product, but I really don’t know what BareBones was attempting with their story here. It seems to me like the only goal was to make a 3D horror game. A fine and worthwhile goal, but unfortunately doesn’t tend to lead to games that I can recommend.
 
