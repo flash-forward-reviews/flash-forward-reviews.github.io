@@ -46,7 +46,7 @@ Dive into the twisted world “What if they kissed…?” - Available now in sto
 
 ## Sam's Take:
 
-I think I’ve stumbled into two separate instances of accidental thievery today. **What if They Kissed* is remarkably similar to another game we played in our last review series, *[How Do You Do It](https://store.steampowered.com/app/353360/how_do_you_Do_It/){:target="_blank"}*.
+I think I’ve stumbled into two separate instances of accidental thievery today. *What if They Kissed* is remarkably similar to another game we played in our last review series, *[How Do You Do It](https://store.steampowered.com/app/353360/how_do_you_Do_It/){:target="_blank"}*.
 
 Both have a young protagonist coming to terms with their sexuality by picking two things up and shoving them together. Both even have controls unique to each hand.
 
