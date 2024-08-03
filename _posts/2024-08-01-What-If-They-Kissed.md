@@ -81,7 +81,7 @@ I FEEL NOTHING BUT JOY
 
 {% include video.html id="biCzb-PaDWE" title="" %}
 
-**Recommend:  No, but check out How Do You Do It** 
+**Recommend: No, but check out How Do You Do It** 
 
 **Replay Percentage Chance: 2%**
 
