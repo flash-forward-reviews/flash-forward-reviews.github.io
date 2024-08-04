@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 95: [Karaoke on a Monday Afternoon]({{ "/day-95" | relative_url }})
 - Day 94: [Blaster Meltdown]({{ "/day-94" | relative_url }})
 - Day 93: [What if They Kissed]({{ "/day-93" | relative_url }})
 - Day 92: [Idle Breakout]({{ "/day-92" | relative_url }})
