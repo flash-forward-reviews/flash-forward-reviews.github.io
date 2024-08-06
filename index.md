@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 97: [Please, Touch The Artwork 2]({{ "/day-97" | relative_url }})
 - Day 96: [Duality]({{ "/day-96" | relative_url }})
 - Day 95: [Karaoke on a Monday Afternoon]({{ "/day-95" | relative_url }})
 - Day 94: [Blaster Meltdown]({{ "/day-94" | relative_url }})
