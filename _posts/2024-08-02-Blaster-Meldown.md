@@ -28,7 +28,7 @@ This was going to be my full review of Blaster Meltdown... until I saw the leade
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/blasmel3.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-I looked at my time, and it was in the ballpark. If I hadn’t gotten a penalty for not killing every enemy, I would actually have been on the board. So I thought, “why not” and booted the game back up. Suddenly, the game was fun. Being forced to move fast kept me constantly on the edge of death. Every bullet was suddenly and actually risk, a balance between the clock and my life. I zoomed past enemies, turned around to kill while backpedaling... I was having fun.
+I looked at my time, and it was in the ballpark. If I hadn’t gotten a penalty for not killing every enemy, I would actually have been on the board. So I thought, “why not” and booted the game back up. Suddenly, the game was fun. Being forced to move fast kept me constantly on the edge of death. Every bullet was suddenly an actual risk, a balance between the clock and my life. I zoomed past enemies, turned around to kill while backpedaling... I was having fun.
 
 It made me wish that the time was somehow incorporated into the game. Doom also keeps time, but it’s very fun and challenging even without it. Not every game can be as good as Doom, but there is fun to be had with Blaster Meltdown if you go for the speedrun. Which I did... AND I AM THE TOP RUNNER OF THE GAME BAYBEEEE
 
