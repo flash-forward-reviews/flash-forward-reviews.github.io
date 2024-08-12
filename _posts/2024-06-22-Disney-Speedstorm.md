@@ -4,7 +4,7 @@ layout: post
 categories:
 - Driving
 - Nightmare Fuel
-- Nudity
+- Disney Trash
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-53
 comments: true

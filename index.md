@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 103: [Zapped: Listen & Obey]({{ "/day-103" | relative_url }})
 - Day 102: [Spongebob Squarepants Deep Sea Surgeon]({{ "/day-102" | relative_url }})
 - Day 101: [101 Dalmatians: Match and Dash]({{ "/day-101" | relative_url }})
 - Day 100: [Pink Alien Transplant]({{ "/day-100" | relative_url }})

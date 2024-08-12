@@ -4,7 +4,7 @@ layout: post
 categories:
 - Arcade
 - Puzzle
-- Nudity
+- Disney Trash
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-101
 comments: true
