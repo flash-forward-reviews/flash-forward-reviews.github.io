@@ -71,7 +71,7 @@ Unfortunately, I am not drunk, and did not forget what we were supposed to do. I
 
 So I will now talk about the moment I fell in love with the September 2000 smash hit Deus Ex.
 
-My first playthrough of Deus Ex, while fun was a bit of a struggle. The controls are clunky and unintuitive by modern standards, and the nature of having a million mechanics all working together in unexpected ways means that the first half of a game like Deus Ex is just figuring out what you’re even allowed to do. Some places you can kill anyone, other times story characters are invincible. Some doors can be blown up by mines, others can not. There are a multitude of unexplained rules that can only be figured out through experimentation.
+My first playthrough of Deus Ex, while fun, was a bit of a struggle. The controls are clunky and unintuitive by modern standards, and the nature of having a million mechanics all working together in unexpected ways means that the first half of a game like Deus Ex is just figuring out what you’re even allowed to do. Some places you can kill anyone, other times story characters are invincible. Some doors can be blown up by mines, others can not. There are a multitude of unexplained rules that can only be figured out through experimentation.
 
 The process of adapting to the game’s age and learning these little rules meant that it wasn’t until the second half of the game when I really felt comfortable. I was understanding how enemy detection works, I was getting used to how these designers convey different pathways through level design. I understood that dialogue doesn’t end until you’ve initiated conversation a thousand times and heard all their unique lines. I was finally playing Deus Ex. I was ready to ascend.
 
