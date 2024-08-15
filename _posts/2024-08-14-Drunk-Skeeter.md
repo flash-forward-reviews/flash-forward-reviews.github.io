@@ -91,7 +91,7 @@ This process of checking a static map, recognizing my point, orienting myself co
 
 Upon playing Deus Ex a second time, I ran into a hundred metaphorical walls and threw a hundred metaphorical grenades. I’ve played many games since that have gifted me this open and freeing sensation, but this was the moment where everything clicked into place. Where I did not just understand, but felt the philosophy and meaning behind the most poorly named genre in video game history.
 
-I finally understood what makes a game an “immersive sim”. A wall, a goal, and a grenade.
+I finally internalized what makes a game an “immersive sim”. A wall, a goal, and a grenade.
 
 **Recommend: I recommend Deus Ex SO FUCKING HARD**
 
