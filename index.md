@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 107: [[REDACTED]]({{ "/day-107" | relative_url }})
 - Day 106: [I'm drunk I forgot what we were supposed to do I think it was deadlock as a joke but mayb that was later idk here you go i wrote something]({{ "/day-106" | relative_url }})
 - Day 105: [Taxi Driver - Cyberpunk 2077]({{ "/day-105" | relative_url }})
 - Day 104: [the race]({{ "/day-104" | relative_url }})
