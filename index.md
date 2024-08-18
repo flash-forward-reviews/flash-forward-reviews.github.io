@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 109: [Too Late]({{ "/day-109" | relative_url }})
 - Day 108: [[REDACTED]]({{ "/day-108" | relative_url }})
 - Day 107: [[REDACTED]]({{ "/day-107" | relative_url }})
 - Day 106: [I'm drunk I forgot what we were supposed to do I think it was deadlock as a joke but mayb that was later idk here you go i wrote something]({{ "/day-106" | relative_url }})
