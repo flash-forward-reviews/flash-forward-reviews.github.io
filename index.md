@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 115: [Glow N' Grow]({{ "/day-115" | relative_url }})
 - Day 114: [Bad Game]({{ "/day-114" | relative_url }})
 - Day 113: [Pineapple on Pizza]({{ "/day-113" | relative_url }})
 - Day 112: [Wuhu Island Explorer]({{ "/day-112" | relative_url }})
