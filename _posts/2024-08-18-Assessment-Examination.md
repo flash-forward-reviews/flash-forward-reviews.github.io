@@ -114,9 +114,9 @@ We got more OLD SCHOOL GRAMPHIKS! We got more BLACK AND WHITE AESTHETICS, we got
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex20.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-It gets much more complicated, but I would say that if you enjoyed the uncanny, but also dryly funny vibes of Assessment Examination, then I feel fairly confident you’d get a lot out of Where’s Lila as well. This game deserves a full write up, and one day I’ll get there, but for now I’ll just mention it here as a footnote of a review that Skeeter already hard-carried.
+It gets much more complicated, but I would say that if you enjoyed the uncanny, but also dryly funny vibes of Assessment Examination, then I feel fairly confident you’d get a lot out of Who’s Lila as well. This game deserves a full write up, and one day I’ll get there, but for now I’ll just mention it here as a footnote of a review that Skeeter already hard-carried.
 
-Assessment Examination reminded me of a bite-sized Where’s Lila, and that is a pretty massive compliment coming from me.
+Assessment Examination reminded me of a bite-sized Who’s Lila, and that is a pretty massive compliment coming from me.
 
 **Recommend: Absolutely**
 
