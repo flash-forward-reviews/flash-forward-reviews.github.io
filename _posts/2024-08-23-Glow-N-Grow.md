@@ -33,12 +33,22 @@ Glow N’ Grow has less humanity than a [Pink Alien](https://flash-forward-revie
 
 ## Skeeter's Take:
 
-SKEETER IS ON A TRIP AND LATE, LET'S ALL MAKE FUN OF SKEETER!
+Well, I suppose this is part of the dangers of pre-selecting an android game without previewing it.
 
-**Recommend: Skeeter**
+I managed to make it to this screen:
 
-**Replay Percentage Chance: Is**
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glowgrow3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Time Played: Stinky**
+But I could not proceed further. I tapped the circle in the center, but nothing happened. I was able to click the music and SFX tabs on the left hand of the screen on and off, so I know the game is technically functioning,but I cannot progress past the main menu.
+
+Guess ill never be able to glow N grow.
+
+**Recommend: uhh, I guess not**
+
+**Replay Percentage Chance: 0%**
+
+**Time Played: N/A**
+
+**Did it Work on Mobile: Hardly!**
 
 {% include button.html text="Link to Game" link="https://the-only-ph.itch.io/glow-n-grow" %}
