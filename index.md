@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 119: [Da Hood]({{ "/day-119" | relative_url }})
 - Day 118: [Roblox]({{ "/day-118" | relative_url }})
 - Day 117: [The Last NuMetal Concert]({{ "/day-117" | relative_url }})
 - Day 116: [Shooter]({{ "/day-116" | relative_url }})
