@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 122: [Crime Kitchen]({{ "/day-122" | relative_url }})
 - Day 121: [Be NPC or Die]({{ "/day-121" | relative_url }})
 - Day 120: [Dress to Impress]({{ "/day-120" | relative_url }})
 - Day 119: [Da Hood]({{ "/day-119" | relative_url }})
