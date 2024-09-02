@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 124: [The Interview]({{ "/day-124" | relative_url }})
 - Day 123: [(OMG!) Hungry Mouse]({{ "/day-123" | relative_url }})
 - Day 122: [Crime Kitchen]({{ "/day-122" | relative_url }})
 - Day 121: [Be NPC or Die]({{ "/day-121" | relative_url }})
