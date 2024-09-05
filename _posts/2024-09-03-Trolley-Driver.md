@@ -32,7 +32,7 @@ I didn’t love Trolley Driver, but I have to say that it was a breath of fresh 
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/trolley5.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Recommend: N0**
+**Recommend: NO**
 
 **Replay Percentage Chance: 6%**
 
