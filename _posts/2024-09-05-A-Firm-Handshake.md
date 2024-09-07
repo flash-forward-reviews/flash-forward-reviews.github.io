@@ -87,7 +87,7 @@ We will be checking out [Torfi’s](https://torfi.itch.io/){:target="_blank"} ot
 
 **Recommend: Absolutely**
 
-**Replay Percentage Chance:  Probably not this game, but def their other games%**
+**Replay Percentage Chance: Probably not this game, but def their other games%**
 
 **Time Played: 15 Minutes**
 

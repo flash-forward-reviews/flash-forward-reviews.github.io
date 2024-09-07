@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 129: [Mad Libs Randomized Birthday Card Game Re-review]({{ "/day-129" | relative_url }})
 - Day 128: [A Firm Handshake]({{ "/day-128" | relative_url }})
 - Day 127: [Evolution]({{ "/day-127" | relative_url }})
 - Day 126: [Trolley Driver]({{ "/day-126" | relative_url }})
