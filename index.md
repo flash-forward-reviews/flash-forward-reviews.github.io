@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 131: [Tsuna Lost His Underwear]({{ "/day-131" | relative_url }})
 - Day 130: [Drunk Guy]({{ "/day-130" | relative_url }})
 - Day 129: [Mad Libs Randomized Birthday Card Game Re-review]({{ "/day-129" | relative_url }})
 - Day 128: [A Firm Handshake]({{ "/day-128" | relative_url }})
