@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 132: [Buck Bumble Bumps]({{ "/day-132" | relative_url }})
 - Day 131: [Tsuna Lost His Underwear]({{ "/day-131" | relative_url }})
 - Day 130: [Drunk Guy]({{ "/day-130" | relative_url }})
 - Day 129: [Mad Libs Randomized Birthday Card Game Re-review]({{ "/day-129" | relative_url }})
