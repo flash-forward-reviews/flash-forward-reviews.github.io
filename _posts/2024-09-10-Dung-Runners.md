@@ -30,11 +30,11 @@ So, Dung Runners is almost unplayable. You cannot see what is coming ahead of yo
 
 Is this another metaphor for life? 
 
-**Recommend:**
+**Recommend: No**
 
-**Replay Percentage Chance:**
+**Replay Percentage Chance: 0%**
 
-**Time Played: Played:**
+**Time Played: Played: 4 minutes**
 
 ## Sam's Take:
 
