@@ -3,7 +3,7 @@ title: "Day 133 - Dung Runners"
 layout: post
 categories:
 - Toilet Humor
-- Pee pee Fart
+- Pee pee fart
 - No Music
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-133

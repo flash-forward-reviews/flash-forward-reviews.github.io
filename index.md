@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 135: [Bug Brawl]({{ "/day-135" | relative_url }})
 - Day 134: [Bug Biomes]({{ "/day-134" | relative_url }})
 - Day 133: [Dung Runners]({{ "/day-133" | relative_url }})
 - Day 132: [Buck Bumble Bumps]({{ "/day-132" | relative_url }})
