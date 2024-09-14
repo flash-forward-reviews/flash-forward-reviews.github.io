@@ -26,9 +26,9 @@ AFTER A BLOOD SOAKED BATTLE IN THE SKIES, HERE’S WHAT THE PEOPLE HAVE TO SAY!!
 
 ## Skeeter's Take:
 
-Getting Buggy with it (nah nah nah nah nah nah nah)
-Getting Buggy with it (nah nah nah nah nah nah nah)
-Getting Buggy with it (nah nah nah nah nah nah nah)
+Getting Buggy with it (nah nah nah nah nah nah nah)\
+Getting Buggy with it (nah nah nah nah nah nah nah)\
+Getting Buggy with it (nah nah nah nah nah nah nah)\
 Getting Buggy with it (nah nah nah nah nah nah nah)
 
 **Recommend:**
