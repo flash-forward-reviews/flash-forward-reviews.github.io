@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 138: [Slots Mania]({{ "/day-138" | relative_url }})
 - Day 137: [Path-O-Logic]({{ "/day-137" | relative_url }})
 - Day 136: [Bug Brawl Re-review]({{ "/day-136" | relative_url }})
 - Day 135: [Bug Brawl]({{ "/day-135" | relative_url }})
