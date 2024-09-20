@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 143: [Wedding Fight]({{ "/day-143" | relative_url }})
 - Day 142: [Plane Jam]({{ "/day-142" | relative_url }})
 - Day 141: [Slide in the Woods]({{ "/day-141" | relative_url }})
 - Day 140: [3D Pinball for Windows - Space Cadet Pinball]({{ "/day-140" | relative_url }})
