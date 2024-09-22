@@ -38,14 +38,18 @@ I don’t recommend you play some young dev’s unfinished RPG maker project, bu
 
 ## Skeeter's Take:
 
-Sam is in Ohio, jet-lagged as all hell. and probably fell asleep before Skeeter posted his review.
+Pack Dragon has some rough art that I really enjoy:
 
-Sam will update this once he wakes up tomorrow.
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/packd5.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Recommend:**
+I much prefer this to some pre-made assets that look nice, but often make the games that use them feel “samey” (see any of the PS1 inspired horror games we’ve played recently). Sure, it might not look the best, technically speaking, but this shows the dev put the time in to make this game look unique. It’s like when a kid draws you a picture. You might not be able to tell exactly what you’re looking at, but you are happy because they tried their best and made something for you. 
 
-**Replay Percentage Chance:**
+Same goes with the rest of this game. There’s a clear effort put in, but this isn’t finished. Also, it’s just personal taste, but I found myself really bored. I think it’s something about RPG Maker games that gives me an instant distaste. I hope the dev continues to work on games. 
 
-**Time Played:**
+**Recommend: No**
+
+**Replay Percentage Chance: 0%**
+
+**Time Played: 10 mins**
 
 {% include button.html text="Link to Game" link="https://cassettedream.itch.io/pack-dragon" %}
