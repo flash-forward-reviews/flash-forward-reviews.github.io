@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 146: [Spin to Win]({{ "/day-146" | relative_url }})
 - Day 145: [The Lion King]({{ "/day-145" | relative_url }})
 - Day 144: [Pack Dragon]({{ "/day-144" | relative_url }})
 - Day 143: [Wedding Fight]({{ "/day-143" | relative_url }})
