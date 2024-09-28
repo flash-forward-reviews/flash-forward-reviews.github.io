@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 150: [IT201_Quiz2_AmreenKaur_Bhatia]({{ "/day-150" | relative_url }})
 - Day 149: [Fart Party]({{ "/day-149" | relative_url }})
 - Day 148: [Scary 3am Game]({{ "/day-148" | relative_url }})
 - Day 147: [Go Ham!]({{ "/day-147" | relative_url }})
