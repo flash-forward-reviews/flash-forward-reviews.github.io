@@ -1,5 +1,5 @@
 ---
-title: "Day 138 - Path-O-Logic"
+title: "Day 138 - Slots Mania"
 layout: post
 categories:
 - Nightmare Fuel
