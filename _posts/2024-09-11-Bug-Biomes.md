@@ -1,5 +1,5 @@
 ---
-title: "Day 134 - Dung Runners"
+title: "Day 134 - Bug Biomes"
 layout: post
 categories:
 - Immersive Sim
