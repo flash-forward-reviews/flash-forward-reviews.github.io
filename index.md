@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 154: [Halloween Graveyard Ride]({{ "/day-154" | relative_url }})
 - Day 153: [The Grim Reaper Meets Computer Land OD2]({{ "/day-153" | relative_url }})
 - Day 152: [TCG Card Shop Simulator]({{ "/day-152" | relative_url }})
 - Day 151: [The Professional]({{ "/day-151" | relative_url }})
