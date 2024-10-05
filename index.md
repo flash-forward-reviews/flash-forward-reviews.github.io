@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 158: [How Fish is Made]({{ "/day-158" | relative_url }})
 - Day 157: [Ethereal Vail: Arcane Phases]({{ "/day-157" | relative_url }})
 - Day 156: [Sprunki BetterIcons (READ DESC)]({{ "/day-156" | relative_url }})
 - Day 155: [Mad Libs Randomized Birthday Card Game Re-Re-Review]({{ "/day-155" | relative_url }})
