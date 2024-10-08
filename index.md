@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 161: [Jumpscare]({{ "/day-161" | relative_url }})
 - Day 160: [Late Night Mop]({{ "/day-160" | relative_url }})
 - Day 159: [How Fish is Made Re-Review]({{ "/day-159" | relative_url }})
 - Day 158: [How Fish is Made]({{ "/day-158" | relative_url }})
