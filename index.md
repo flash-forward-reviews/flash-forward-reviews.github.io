@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 164: [Spiko's Scary Spooky Story]({{ "/day-164" | relative_url }})
 - Day 163: [Jeff the Killer Dress-Up]({{ "/day-163" | relative_url }})
 - Day 162: [Creature Packets]({{ "/day-162" | relative_url }})
 - Day 161: [Jumpscare]({{ "/day-161" | relative_url }})
