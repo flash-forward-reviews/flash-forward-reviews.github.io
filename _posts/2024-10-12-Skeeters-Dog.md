@@ -32,6 +32,8 @@ UPDATE: She is available around Nov. 5th. I think she’s a cutie, but I agree t
 
 My dog is... I don't know. I haven't met her. I hope she is cute and intelligent and a sweetheart but I've never met her.
 
+UPDATE: She is available around Nov. 5th. I think she’s a cutie, but I agree that she does look terrified of the camera. She’s a Toy Aussie. 
+
 **Recommend: Yes** 
 
 **Replay Percentage Chance: DOG**
