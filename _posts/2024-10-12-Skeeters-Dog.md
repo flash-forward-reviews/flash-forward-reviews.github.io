@@ -18,7 +18,7 @@ Skeeter is without computer again, so he tried to get a bunch of mobile games to
 
 Skeeter has not met the dog, but they put down the deposit. I think he looks cute and terrified.
 
-UPDATE: She is available around Nov. 5th. I think she’s a cutie, but I agree that she does look terrified of the camera. She’s a Toy Aussie. 
+UPDATE: She is available around Nov. 5th. I think she’s a cutie, but I agree that she does look terrified of the camera. She’s a Toy Aussie.
 
 **Recommend: Yes**
 

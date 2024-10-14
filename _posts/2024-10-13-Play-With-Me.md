@@ -54,7 +54,7 @@ It feels like there needs to be something else to get us attached to the other p
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pwm9.png?raw=true" caption="Don’t worry Skeeter, I got the shot" alt="" %}{:target="_blank"}
 
-Also on my computer the simon game cut out part way through the sequence multiple times, making the later notes blind guesses. So one third of the minigames don’t really work for me, but hey, the dev made three minigames and built a little narrative around it. Fine practice, nothing to be embarrassed about, but not topping our horror game list for this project.
+Also on my computer the simon game cut out part way through the sequence multiple times, making the later notes blind guesses. So one third of the minigames don’t really work for me, but hey, the dev made three minigames and built a little narrative around it. Fine practice, nothing to be embarrassed about, but not topping our horror game list for this project. 
 
 **Recommend: Nah** 
 
