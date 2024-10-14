@@ -30,7 +30,7 @@ Play With Me gives you three little creatures you have to feed and play with. Ea
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pwm7.png?raw=true" caption="And Rainbow Girl Collecting Fruit" alt="" %}{:target="_blank"}
 
-{% include video.html id="Yk30sSbnwEw" title="" %}
+{% include video.html id="Sgsq6pLIcgY" title="" %}
 
 As you play, a different critter that looks like a cat will pop up on screen and say “Play With Me” (Not pictured - I failed my Snipping Tool Pokemon Snap quicktime event. Prof. Oak is going to be so pissed)
 
