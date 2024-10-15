@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 167: [Exmortis]({{ "/day-167" | relative_url }})
 - Day 166: [Play With Me]({{ "/day-166" | relative_url }})
 - Day 165: [Skeeter's Dog]({{ "/day-165" | relative_url }})
 - Day 164: [Spiko's Scary Spooky Story]({{ "/day-164" | relative_url }})
