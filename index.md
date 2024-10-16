@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 168: [Slenderclown: Be Afraid Of It!]({{ "/day-168" | relative_url }})
 - Day 167: [Exmortis]({{ "/day-167" | relative_url }})
 - Day 166: [Play With Me]({{ "/day-166" | relative_url }})
 - Day 165: [Skeeter's Dog]({{ "/day-165" | relative_url }})
