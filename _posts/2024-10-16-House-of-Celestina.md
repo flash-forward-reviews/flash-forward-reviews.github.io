@@ -75,7 +75,7 @@ I’m not sure how I’m supposed to die in this game. Like, I know not pressing
 
 Maybe if there was atmosphere that’d be something, but it’s all wood walls, floors, ceilings, and... that’s it. Oh! Except this painting:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/celestina7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/celestina8.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
 Sorry, I just spoiled the most interesting thing in the game! My bad!
 
