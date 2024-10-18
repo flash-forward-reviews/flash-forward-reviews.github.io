@@ -124,13 +124,13 @@ I’m enjoying it and I think caiys makes some really great games. Check them ou
 
 Sam and I are planning on discussing this at a later date, but I’m putting it on your radar NOW! NOW! NOW! 
 
-Mouthwashing is from the same minds that brought us How Fish Is Made. I think it’s really something special. It’s very character and narrative focused and I found something refreshing about that, as far as the genre goes.
+Mouthwashing is from the same minds that brought us [How Fish is Made](https://flash-forward-reviews.github.io/day-158){:target="_blank"}. I think it’s really something special. It’s very character and narrative focused and I found something refreshing about that, as far as the genre goes.
 
 We will return for this at a later date. 
 
 I’ve also been playing Hearthstone: Battlegrounds, but I don’t like admitting I play a Blizzard game. 
 
-I’ve also been playing some No Man’s Sky. That crazy ass team will not stop updating the game, and I love it. You can modularly build your own spaceship now. 
+I’ve also been playing some [No Man’s Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/){:target="_blank"}. That crazy ass team will not stop updating the game, and I love it. You can modularly build your own spaceship now. 
 
 I’m not sure how to end this, so I think I’m just going to Lil Jon it out. 
 Yeah!!
