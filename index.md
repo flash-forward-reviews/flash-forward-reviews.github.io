@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 171: [Scary Stories!]({{ "/day-171" | relative_url }})
 - Day 170: [Pathologic 2 But Also Games Skeeter is Playing]({{ "/day-170" | relative_url }})
 - Day 169: [House of Celestina]({{ "/day-169" | relative_url }})
 - Day 168: [Slenderclown: Be Afraid Of It!]({{ "/day-168" | relative_url }})
