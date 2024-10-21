@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 173: [Five Nights at Rowdy's]({{ "/day-173" | relative_url }})
 - Day 172: [Scary Baby Kids in House 2]({{ "/day-172" | relative_url }})
 - Day 171: [Scary Stories!]({{ "/day-171" | relative_url }})
 - Day 170: [Pathologic 2 But Also Games Skeeter is Playing]({{ "/day-170" | relative_url }})
