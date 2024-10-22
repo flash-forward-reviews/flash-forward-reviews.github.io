@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 174: [LiDAR Exploration Program]({{ "/day-174" | relative_url }})
 - Day 173: [Five Nights at Rowdy's]({{ "/day-173" | relative_url }})
 - Day 172: [Scary Baby Kids in House 2]({{ "/day-172" | relative_url }})
 - Day 171: [Scary Stories!]({{ "/day-171" | relative_url }})
