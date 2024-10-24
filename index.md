@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 176: [The Dollhouse]({{ "/day-176" | relative_url }})
 - Day 175: [Scanner Sombre]({{ "/day-175" | relative_url }})
 - Day 174: [LiDAR Exploration Program]({{ "/day-174" | relative_url }})
 - Day 173: [Five Nights at Rowdy's]({{ "/day-173" | relative_url }})
