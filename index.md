@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 177: [Save the word game: with shreak]({{ "/day-177" | relative_url }})
 - Day 176: [The Dollhouse]({{ "/day-176" | relative_url }})
 - Day 175: [Scanner Sombre]({{ "/day-175" | relative_url }})
 - Day 174: [LiDAR Exploration Program]({{ "/day-174" | relative_url }})
