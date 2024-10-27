@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 179: [Get The Cheesy Puffs!]({{ "/day-179" | relative_url }})
 - Day 178: [Pager (Demo)]({{ "/day-178" | relative_url }})
 - Day 177: [Save the word game: with shreak]({{ "/day-177" | relative_url }})
 - Day 176: [The Dollhouse]({{ "/day-176" | relative_url }})
