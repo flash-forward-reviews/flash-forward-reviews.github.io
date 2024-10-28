@@ -4,7 +4,7 @@ layout: post
 categories:
 - Mobile Trash
 - Shooter
-- Immersive Sim
+- VIRUS
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-81
 comments: true
