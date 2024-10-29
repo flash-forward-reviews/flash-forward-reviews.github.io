@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 181: [Dead Detention #1 (Rescribbled)]({{ "/day-181" | relative_url }})
 - Day 180: [Turn Off The Lights]({{ "/day-180" | relative_url }})
 - Day 179: [Get The Cheesy Puffs!]({{ "/day-179" | relative_url }})
 - Day 178: [Pager (Demo)]({{ "/day-178" | relative_url }})
