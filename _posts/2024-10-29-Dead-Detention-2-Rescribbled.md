@@ -11,7 +11,7 @@ comments: true
 ---
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet1.png?raw=true" caption="" alt="" %}{:target="_blank"}
-
+ 
 ## Skeeter's Take:
 
 I had a fun time with the real-time format for yesterday, and since this is the second installment in the series I’m going to let it ride again today. 
