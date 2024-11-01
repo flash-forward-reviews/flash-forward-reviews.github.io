@@ -28,7 +28,7 @@ The author makes it pretty clear that this isn’t a finished piece, so maybe th
 
 Honestly, they wrote some characters that have personality, they implied a world bigger than what we see in the game, it’s not a bad start. Obviously it’s unfinished, and it does not look great, but the idea of a dragon living among humans after seeing their bones scattered around their cave is a cute idea. You could go the “dragon learns humans are neat and doesn’t want to kill them anymore” route. You could go full cutesy murder for slasher-comedy purposes. This isn’t the worst intro to a game I’ve seen.
 
-I don’t recommend you play some young dev’s unfinished RPG maker project, but I do dec are this dev “not hopeless”. Big congrats.
+I don’t recommend you play some young dev’s unfinished RPG maker project, but I do declare this dev “not hopeless”. Big congrats.
 
 **Recommend: No**
 
