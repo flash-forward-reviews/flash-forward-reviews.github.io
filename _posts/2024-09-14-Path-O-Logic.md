@@ -80,7 +80,7 @@ So what is it that makes Pathologic so impenetrable? It’s a game about a chara
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pathologic15.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
 
-Seems simple enough, but the problem is sleeping makes you hungry, eating makes you sleepy. Infection drains your health, taking immunity boosters drain your health. Most things drain your health. Want to drink water? Great idea! Enjoy losing 1 point of hunger and gaining 4 points of exhaustion. No, in order to manage these stats properly, you’re going to have to learn the economy. Sell what you don’t need, get some money doing favors for the townsfolk, then buy some DELICIOUS MEAT 330 coins.
+Seems simple enough, but the problem is sleeping makes you hungry, eating makes you sleepy. Infection drains your health, taking immunity boosters drain your health. Most things drain your health. Want to drink water? Great idea! Enjoy losing 1 point of hunger and gaining 4 points of exhaustion. No, in order to manage these stats properly, you’re going to have to learn the economy. Sell what you don’t need, get some money doing favors for the townsfolk, then buy some DELICIOUS MEAT for 330 coins.
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pathologic16.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
