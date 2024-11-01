@@ -1,5 +1,5 @@
 ---
-title: "Day 144 - Wedding Fight"
+title: "Day 144 - Pack Dragon"
 layout: post
 categories:
 - RPG
