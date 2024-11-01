@@ -34,7 +34,7 @@ YO! THEY EDITED IT TO HAVE THE TITLE HYYYYPE:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/itquiz6.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Recommend: Only if your AmreenKaur_Bhatia’s professor**
+**Recommend: Only if you're AmreenKaur_Bhatia’s professor**
 
 **Replay Percentage Chance: 0%**
 
