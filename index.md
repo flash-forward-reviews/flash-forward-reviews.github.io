@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 187: [Boom you coputer]({{ "/day-187" | relative_url }})
 - Day 186: [Tiny Truck Racing]({{ "/day-186" | relative_url }})
 - Day 185: [Webfishing]({{ "/day-185" | relative_url }})
 - Day 184: [Dead Detention #4 (Rescribbled)]({{ "/day-184" | relative_url }})
