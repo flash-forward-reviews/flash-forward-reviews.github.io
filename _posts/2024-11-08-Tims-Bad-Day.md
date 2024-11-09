@@ -52,6 +52,6 @@ Everything Skeeter has said is correct, but I would also like to add that the mu
 
 **Time Played: 2min**
 
-SKEETER EDIT: Edit: Holy shit, I accidentally played the game with the tab muted. The music is phenomenal. 10/10 game
+SKEETER EDIT: Holy shit, I accidentally played the game with the tab muted. The music is phenomenal. 10/10 game
 
 {% include button.html text="Link to Game" link="https://joshyoshkenoshi.itch.io/tims-bad-day" %}
