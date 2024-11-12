@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 195: [Seth's Escape!]({{ "/day-195" | relative_url }})
 - Day 194: [Snow Flow]({{ "/day-194" | relative_url }})
 - Day 193: [Doggoland]({{ "/day-193" | relative_url }})
 - Day 192: [Tim's Bad Day]({{ "/day-192" | relative_url }})
