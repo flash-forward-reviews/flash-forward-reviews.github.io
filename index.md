@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 196: [Line Miner]({{ "/day-196" | relative_url }})
 - Day 195: [Seth's Escape!]({{ "/day-195" | relative_url }})
 - Day 194: [Snow Flow]({{ "/day-194" | relative_url }})
 - Day 193: [Doggoland]({{ "/day-193" | relative_url }})
