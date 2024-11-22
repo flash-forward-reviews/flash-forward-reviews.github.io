@@ -36,12 +36,25 @@ DID I START ACTUAL WORLD WAR 3?!
 
 ## Skeeter's Take:
 
-SKEETER WAS SLEEPY AND FORGOT PLS 4GIV HIM
+Sorry, I fell asleep yesterday and FORGOT to do one of the things I do daily (these reviews). 
 
-**Recommend:**
+I played The European War. I read Sam’s breakdown of The European War. I do not feel closer to understanding the point of The European War. I know this is the demo, so maybe there will be some player interaction added later. Currently, it feels like I’m watching a digital Witch try to scry through the veil to predict the next global conflict. 
 
-**Replay Percentage Chance:**
+I’ve decided I’m just going to use this as a European travel guide. 
 
-**Time Played:**
+So far, I’m heading to Portugal and Spain. I just need to start a little war between them. 
+Thankfully, Geography is on my side. I’ll just need to utilize a quick Wikipedia search to find out how I can heighten tensions between the two countries.
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/eurow4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+
+Oh, God Damnit. 
+
+**Recommend: PORTUGAL**
+
+**Replay Percentage Chance: SPAIN**
+
+**Time Played: YES**
+
+**WAR**
 
 {% include button.html text="Link to Game" link="https://tuppp.itch.io/the-european-war-demo" %}
