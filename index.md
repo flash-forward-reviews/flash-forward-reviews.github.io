@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 206: [Chose An Arrows]({{ "/day-206" | relative_url }})
 - Day 205: [The European War (DEMO)]({{ "/day-205" | relative_url }})
 - Day 204: [Juice Galaxy]({{ "/day-204" | relative_url }})
 - Day 203: [Boobs, Butt, or Shoulder?]({{ "/day-203" | relative_url }})
