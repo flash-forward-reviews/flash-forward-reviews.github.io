@@ -101,7 +101,7 @@ Oh... I believe that rounds up to.. 50% BAYBEEE
 
 WE DID IT BOYS, WE BALANCED CHOSE AN ARROWS!
 
-Unfortunately, this would not make the game good. In fact I’m not even sure it’d make the game better. It’s a single player game, balance isn’t super important. It’s just two games and one of them is harder. I don’t really have a point to this one, I just enjoyed playing the game 1,000,000 times in Python. I certainly enjoyed it more than playing Chose An Arrows.
+Unfortunately, this would not make the game good. In fact I’m not even sure it’d make the game better. It’s a single player game, balance isn’t super important. It’s just two games and one of them is harder. I don’t really have a point to this one, I just enjoyed playing the game 1,000,000 times in Python. I certainly enjoyed it more than playing Chose An Arrows once normally.
 
 **Recommend: No**
 
