@@ -47,7 +47,7 @@ It’s basically a simplified version of the Mario Party minigame “Look Away�
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/anarrows8.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-So I’m sure everyone is thinking exactly what I’m thinking right now, doesn’t that seem a bit unbalanced? I feel the person trying to guess 3 is at a significant disadvantage, especially since the computer picks its directions randomly, so there is no way to play mind games. Now there is a way to calculate the probability, but it unfortunately involves binomial coefficients, which I absolutely do not remember and never will. Therefore we are left with only one other option: BRUTE FORCE:
+So I’m sure everyone is thinking exactly what I’m thinking right now, doesn’t that seem a bit unbalanced? I feel the person trying to guess 3 is at a significant disadvantage, especially since the computer picks its directions randomly, so there is no way to play mind games. Now there is a way to calculate the probability, but it unfortunately involves binomial coefficients, which I absolutely do not remember and never will. Therefore we are left with only one other option: BRUTE FORCE!
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/anarrows9.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
