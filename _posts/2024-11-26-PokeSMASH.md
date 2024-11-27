@@ -24,7 +24,7 @@ comments: true
 
 ## Sam's Take:
 
-{% include video.html id="8TlzzJCXf3c" title="" %}
+{% include video.html id="wciTVSTVgrk" title="" %}
 
 **Recommend: No**
 
