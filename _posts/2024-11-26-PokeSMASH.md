@@ -18,7 +18,7 @@ comments: true
 
 **Recommend: No**
 
-**Replay Percentage Chance: 0%?**
+**Replay Percentage Chance: 0%**
 
 **Time Played: 5 minutes** 
 
@@ -28,7 +28,7 @@ comments: true
 
 **Recommend: No**
 
-**Replay Percentage Chance: 0%?**
+**Replay Percentage Chance: 0%**
 
 **Time Played: 5 minutes** 
 
