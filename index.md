@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 212: [Chicken Clicker]({{ "/day-212" | relative_url }})
 - Day 211: [Bok Choy Ahoy!]({{ "/day-211" | relative_url }})
 - Day 210: [PokeSMASH]({{ "/day-210" | relative_url }})
 - Day 209: [Mouthwashing Part 2]({{ "/day-209" | relative_url }})
