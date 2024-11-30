@@ -2,7 +2,7 @@
 title: "Day 212 - Chicken Clicker"
 layout: post
 categories:
-- IIdle Clicker
+- Idle Clicker
 - No Music
 - WTF
 feature_image: "/assets/banner-flash-forward.png"
