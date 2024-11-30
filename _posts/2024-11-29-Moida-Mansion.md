@@ -40,12 +40,28 @@ Honestly, I might have stopped playing after my initial confusion, had I not not
 
 ## Skeeter's Take:
 
-Skeeter posted too late, and I fell asleep. Get ready for his review tomorrow!
+This style of game isn’t really my cup of tea. Moida Mansion is very well made and hits the handheld gaming feeling perfectly. Like Sam, I too was initially very confused on how the gameplay was supposed to work. Once I figured out how the Monsta works (leave the room if the monster is there and re-enter and repeat until it’s not), I was still confused on what exactly I was supposed to be doing. I searched enough objects with zero results that the game decided to pause and remind me that I shouldn’t be searching randomly. 
 
-**Recommend:**
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/moida6.png?raw=true" caption="Scrolling Text Screenshot WOW!" alt="" %}{:target="_blank"}
 
-**Replay Percentage Chance:**
+I saw this screen a lot. It kept popping up, like a dead high school bully that kept rising from the grave to laugh at me again and again. Clearly the initial humiliation wasn’t enough to satiate its sorrows from its ghostly problems at home. 
 
-**Time Played:** 
+I feel like I’m missing something - I managed to save one kid on my first run and they gave me the hint to follow the ghost to find the next kid. I proceeded to run into the ghost and die. 
+
+That one’s on me though. 
+My next run, I found some kid hiding in a storage closet. They gave me the very helpful tip of “Search the Mansion for Secrets”. Thanks kid. I got them to hold one of the buttons and went on my way . I found a key in a mouse hole and spent the next 10 minutes trying to find a locked door. 
+
+I did not find a locked door. 
+I found a spider that ran away when I searched it. I tried to find it again, but didn’t have any luck. 
+
+I ran through the house and looked for any other clues I could. After a few more failed searches and one more “Don’t Search Randomly!” screen. I decided maybe saving Bek was enough and it was fate what befell the other kids. I tried to save them, officer! I swear! They just hid from the monster too well! 
+
+I’m not trying to knock Moida Mansion. I am a sucker for procedural generation that adds replayability. It’s neat loading into a different mansion layout and having varying tasks and hiding spots for the kids. If this was my flavor of game, I might dig it. I feel like I’m just missing something small to progress but am not invested enough to want to figure it out. 
+
+**Recommend: If you like hidden item or point and click games, this might be your cup of tea. It costs nothing. It’s well made. It had me playing for 30 minutes, and that’s more time than I spend on most of these free browser games. It’s not for me.**
+
+**Replay Percentage Chance: 0%**
+
+**Time Played: 35 Minutes** 
 
 {% include button.html text="Link to Game" link="https://dukope.itch.io/moida-mansion" %}
