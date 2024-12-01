@@ -30,7 +30,7 @@ So I was confused at first, then when I figured it out, it was just walking from
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/moida5.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-Honestly, I might have stopped playing after my initial confusion, had I not noticed that this game was made by Lucas Pope, creator of Papers Please and Return of the Obra Dinn. Even after figuring it all out I’m not super thrilled. It’s the best Tiger Electronics game I’ve ever played, yes, but that’s not the highest bar. It seems like Lucas Pope thought “could I make a better game under these restrictions” and the answer was yes. It’s a fine free game, but don’t go in expecting Obra Dinn.
+Honestly, I might have stopped playing after my initial confusion, had I not noticed that this game was made by Lucas Pope, creator of [Papers Please](https://store.steampowered.com/app/239030/Papers_Please/){:target="_blank"} and [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/){:target="_blank"}. Even after figuring it all out I’m not super thrilled. It’s the best Tiger Electronics game I’ve ever played, yes, but that’s not the highest bar. It seems like Lucas Pope thought “could I make a better game under these restrictions” and the answer was yes. It’s a fine free game, but don’t go in expecting Obra Dinn.
 
 **Recommend: Sure**
 

@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 214: [Oreo Ads]({{ "/day-214" | relative_url }})
 - Day 213: [Moida Mansion]({{ "/day-213" | relative_url }})
 - Day 212: [Chicken Clicker]({{ "/day-212" | relative_url }})
 - Day 211: [Bok Choy Ahoy!]({{ "/day-211" | relative_url }})
