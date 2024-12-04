@@ -113,4 +113,4 @@ I’d still like to take a peek at that driver’s license just to be sure.
 
 **Time Played: Fortnite, Bitch** 
 
-{% include button.html text="Link to Game" link=" https://jaelyngames.itch.io/jumpppppppppppppppppp-with-animals" %}
+{% include button.html text="Link to Game" link="https://jaelyngames.itch.io/jumpppppppppppppppppp-with-animals" %}
