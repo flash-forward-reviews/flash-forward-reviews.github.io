@@ -2,7 +2,7 @@
 title: "Day 217 - DUSTRANGER"
 layout: post
 categories:
-- Idle Game
+- Idle Clicker
 - Bangers
 - Driving
 feature_image: "/assets/banner-flash-forward.png"
