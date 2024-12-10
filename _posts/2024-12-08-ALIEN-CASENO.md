@@ -22,7 +22,7 @@ Welcome to the Alien Caseno! These aliens visited earth and loved our casinos so
 
 That’s really all there is to do in the game, but there is this really great whimsical charm that is undeniable. There’s an almost innocence to this game that really makes me like it. The goofy Aliens had me smiling the whole time. My favorite room was the dance floor, by far: 
 
-{% include video.html id="1PvH6gld2tU&ab" title="" %}
+{% include video.html id="1PvH6gld2tU" title="" %}
 
 **Recommend: yeah**
 
