@@ -4,7 +4,7 @@ layout: post
 categories:
 - Shitpost
 - pee pee fart
-- wtf
+- WTF
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-228
 comments: true
