@@ -70,9 +70,9 @@ I agree with Skeeter here that the procedural generation really lets this game d
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki5.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-It’s a shame, because there is a system in place for a level designer to really go ham with. I think an idea has to be good if I (a dumbass) can come up with some sick level ideas while playing it. This game could work as a bonus “endless mode”, but I want a timed speed course with tight turns I need to perfect. I want that course to end with a giant open jump as a reward for tightly dodging cars and walls at full speed. I want a level where I have to control my jumps to go over gaps at the right angle. I want to have to grind on razor thin streets. Proc-gen has to play it safe, so as not to create accidentally impossible scenarios, or scenarios that take practice (functionally impossible in a game where a retry creates a new level. A sunset skateboard riding raccoon wants nothing to do with safe. It wants the extreme thrills that only hand crafted challenges could provide.
+It’s a shame, because there is a system in place for a level designer to really go ham with. I think an idea has to be good if I (a dumbass) can come up with some sick level ideas while playing it. This game could work as a bonus “endless mode”, but I want a timed speed course with tight turns I need to perfect. I want that course to end with a giant open jump as a reward for tightly dodging cars and walls at full speed. I want a level where I have to control my jumps to go over gaps at the right angle. I want to have to grind on razor thin streets. Proc-gen has to play it safe, so as not to create accidentally impossible scenarios, or scenarios that take practice (functionally impossible in a game where a retry creates a new level). A sunset skateboard riding raccoon wants nothing to do with safe. It wants the extreme thrills that only hand crafted challenges could provide.
 
-**Recommend I don’t know. I looked at the full price game, and I think it still uses the procedural generation... try the demo out.**
+**Recommend: I don’t know. I looked at the full price game, and I think it still uses the procedural generation... try the demo out.**
 
 **Replay Percentage Chance: 5%**
 
