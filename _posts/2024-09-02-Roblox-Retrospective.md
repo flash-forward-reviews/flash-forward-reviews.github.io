@@ -34,7 +34,7 @@ I don’t know what causes every game designer to attempt to milk money through 
 
 If we decided to do Roblox for this project instead of mainly Itch, we would not have made it 50 reviews in. If you play Roblox, that’s fine, but you deserve better, and there’s better out there for free. Check out the Itch front page, there’s always cool looking shit on there. Go find a game you like and own with custom game modes, [Garry’s Mod](https://store.steampowered.com/app/4000/Garrys_Mod/){:target="_blank"}, [Minecraft](https://www.minecraft.net/en-us){:target="_blank"}, [Warcraft 3](https://warcraft3.blizzard.com/en-us/){:target="_blank"} if you’re older than dirt, any game where you can create a custom lobby will have a game with the same freeform vibe, but on a better engine and without the popups.
 
-Newgrounds games are terrible, but we played them for a year. We can handle bad games. I can not handle feeling a commodity like this though, I don’t know how y’all do it. Roblox is where creativity goes to die, and I pray that this era of “make real money do what you love on your own time” gig-economy bullshit is just a depressing fad.
+Newgrounds games are terrible, but we played them for a year. We can handle bad games. I can not handle feeling a commodity like this though, I don’t know how y’all do it. Roblox is where creativity goes to die, and I pray that this era of “make real money doing what you love on your own time” gig-economy bullshit is just a depressing fad.
 
 I hate Roblox, and so should you.
 
