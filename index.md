@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 236: [Umm, Your Majesty]({{ "/day-236" | relative_url }})
 - Day 235: [Blob Opera]({{ "/day-235" | relative_url }})
 - Day 234: [Unreal PT 1.0.7]({{ "/day-234" | relative_url }})
 - Day 233: [Tanuki Sunset Classic (Demo)]({{ "/day-233" | relative_url }})
