@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 238: [Different Strokes]({{ "/day-238" | relative_url }})
 - Day 237: [Fishing Simulator]({{ "/day-237" | relative_url }})
 - Day 236: [Umm, Your Majesty]({{ "/day-236" | relative_url }})
 - Day 235: [Blob Opera]({{ "/day-235" | relative_url }})
