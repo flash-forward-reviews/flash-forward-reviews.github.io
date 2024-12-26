@@ -28,12 +28,18 @@ But damn, that’s a pretty slick background!
 
 ## Skeeter's Take:
 
-I am gone for Christmas and will write this review upon my return!
+I felt like the background was a little too busy, so I went through the liberty of simplifying it: 
 
-**Recommend: MAYBE**
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscountagain2.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Replay Percentage Chance: MAYBE**
+Merry Christmas!!!!f
 
-**Time Played: MAYBE** 
+**Recommend: FUCK YES IT’S ONLY -23 HOURS TO CHRISTMAS**
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscountagain3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+
+**Replay Percentage Chance: 100%**
+
+**Time Played: 19 days** 
 
 {% include button.html text="Link to Game" link="https://milkmanissad.itch.io/christmas-countdown" %}
