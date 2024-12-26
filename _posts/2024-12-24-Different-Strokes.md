@@ -34,9 +34,23 @@ There were tons of sick ‘paintings’ and I ran through for about five minutes
 
 ## Skeeter's Take:
 
-I FART
+This game is cool and all, but it wouldn't let me save the penises I drew on other people's artwork.
 
-**Recommend: FART**
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/strokes5.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/strokes6.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/strokes7.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+Which is probably all for the better. I didn't get the opportunity to ruin some great artworks:
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/strokes8.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/strokes9.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+
+I HOPE THIS HURTS
+
+**Recommend: Yes**
 
 **Replay Percentage Chance: FART**
 
