@@ -30,12 +30,14 @@ Can you beat my time? Probably, but you don’t need to. There is a bounce pad i
 
 ## Skeeter's Take:
 
-Sam went to bed before I had written my review! What a pervert!
+EZ
 
-**Recommend:**
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ballcha3.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Replay Percentage Chance:**
+**Recommend: I cheesed using the cool jump pad**
 
-**Time Played:** 
+**Replay Percentage Chance: I also refreshed the page to get a better time**
+
+**Time Played: I don’t even feel bad about it** 
 
 {% include button.html text="Link to Game" link="https://kalinkonta.itch.io/ball-challenge" %}
