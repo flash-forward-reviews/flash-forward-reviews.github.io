@@ -20,7 +20,7 @@ They never quite got the time right:
 
 But damn, that’s a pretty slick background!
 
-**Recommend CHRISTMAS**
+**Recommend: CHRISTMAS**
 
 **Replay Percentage Chance: 5%**
 
