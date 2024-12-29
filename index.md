@@ -8,6 +8,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 242: [Rise of the Rizzlers 4: Revenge of Ohio]({{ "/day-242" | relative_url }})
 - Day 241: [Ball Challenge]({{ "/day-241" | relative_url }})
 - Day 240: [CHRISTMAS COUNTDOWN FOREVER]({{ "/day-240" | relative_url }})
 - Day 239: [Christmas Countdown Again]({{ "/day-239" | relative_url }})
