@@ -1,5 +1,5 @@
 ---
-title: "Day 242 - Ball Challenge"
+title: "Day 242 - Rise of the Rizzlers 4: Revenge of Ohio"
 layout: post
 categories:
 - Platformer
