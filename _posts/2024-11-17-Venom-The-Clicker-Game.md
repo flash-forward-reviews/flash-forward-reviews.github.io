@@ -36,7 +36,7 @@ Also, I made it to 1000 points and couldn’t purchase the second upgrade. Bunk.
 
 I only picked this game because I saw Venom 3 yesterday, without having seen Venom 1 or 2.
 
-I honestly recommend going to a bad movie every now and again. Not a “so bad it’s funny: movies, but you’re forgettable 40% on Rotten Tomatoes shlock. I mostly only watch movies that I hear good things about, so it was nice to see something so... obtainable. I could have written many of these scenes better. I don’t feel egotistical for saying that, honestly you, human being reading this, could probably have also written better dialogue. I’m sure it was all brought down by the Hollywood movie machine. I don’t know what producer approval/rewrites this had to go through, I’m not saying these writers are terrible. There’s a host of things that can lead to a bad script, but if you said “write the 3rd Venom movie” and gave me a few months. I could do this.
+I honestly recommend going to a bad movie every now and again. Not a "so bad it’s funny" movies, but you’re forgettable 40% on Rotten Tomatoes shlock. I mostly only watch movies that I hear good things about, so it was nice to see something so... obtainable. I could have written many of these scenes better. I don’t feel egotistical for saying that, honestly you, human being reading this, could probably have also written better dialogue. I’m sure it was all brought down by the Hollywood movie machine. I don’t know what producer approval/rewrites this had to go through, I’m not saying these writers are terrible. There’s a host of things that can lead to a bad script, but if you said “write the 3rd Venom movie” and gave me a few months. I could do this.
 
 I won’t, but it’s nice to know.
 
