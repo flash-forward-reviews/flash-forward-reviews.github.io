@@ -6,6 +6,8 @@ feature_text:
 
 Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing each game to the hit Children's MMO Club Penguin. Now that both Flash and Club Penguin are dead, Skeeter and Sam are back to try out new games every day for a year and see which ones will stand the test of time.
 
+{% include buttonrand.html text="RANDOM REVIEW" %}
+
 ### List of Reviews:
 
 - Day 245: [NEW YEARS COUNTDOWN]({{ "/day-245" | relative_url }})

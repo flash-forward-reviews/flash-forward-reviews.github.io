@@ -1,0 +1,10 @@
+<a class="button" id="randomButton" href="#" target="_blank" {% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Go to Random URL" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>
+
+<script>
+  document.getElementById('randomButton').addEventListener('click', function(event) {
+    event.preventDefault(); // Prevent the default link behavior
+    var randomNum = Math.floor(Math.random() * {{ site.posts.size }}) + 1; // Generate a random number between 1 and 100
+    var url = "https://flash-forward-reviews.github.io/day-[NUM]".replace("[NUM]", randomNum); // Replace [NUM] with the random number
+    window.open(url, "_blank"); // Open the new URL in a new tab
+  });
+</script>
