@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 246: [Apple Eater]({{ "/day-246" | relative_url }})
 - Day 245: [NEW YEARS COUNTDOWN]({{ "/day-245" | relative_url }})
 - Day 244: [Rise of the Rizzlers 4: Revenge of Ohio 2]({{ "/day-244" | relative_url }})
 - Day 243: [Capybara Bonsai Shop]({{ "/day-243" | relative_url }})
