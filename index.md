@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 249: [Everything is Coots]({{ "/day-249" | relative_url }})
 - Day 248: [Ditoe]({{ "/day-248" | relative_url }})
 - Day 247: [Nightmare Superhighway]({{ "/day-247" | relative_url }})
 - Day 246: [Apple Eater]({{ "/day-246" | relative_url }})
