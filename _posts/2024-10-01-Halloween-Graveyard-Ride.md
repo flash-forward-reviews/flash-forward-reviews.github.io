@@ -1,5 +1,5 @@
 ---
-title: "Day 154 - Halloween Graveyard Rid"
+title: "Day 154 - Halloween Graveyard Ride"
 layout: post
 categories:
 - Mobile Trash
