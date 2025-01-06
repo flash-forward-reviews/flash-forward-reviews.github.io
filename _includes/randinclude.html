@@ -1,4 +1,4 @@
-<a class="text" id="randomButton" href="#" target="_blank" {% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Random Post" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>
+<a class="text" id="randomButton" href="#" target="_blank" {% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Random Review" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>
 
 <script>
   document.getElementById('randomButton').addEventListener('click', function(event) {
