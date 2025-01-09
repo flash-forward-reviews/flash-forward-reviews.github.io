@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 253: [Author's Purpose]({{ "/day-253" | relative_url }})
 - Day 252: [Nest Collector: Big House Cleanup, Graham's Quest]({{ "/day-252" | relative_url }})
 - Day 251: [Human Body]({{ "/day-251" | relative_url }})
 - Day 250: [scaling a mountain using the second amendment]({{ "/day-250" | relative_url }})
