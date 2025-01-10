@@ -3,7 +3,7 @@ title: "Day 146 - Spin to Win"
 layout: post
 categories:
 - Immersive Sim
-- Pee pee fart
+- pee pee fart
 - Nudity
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-146

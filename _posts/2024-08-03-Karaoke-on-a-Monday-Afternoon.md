@@ -3,7 +3,7 @@ title: "Day 95 - Karaoke on a Monday Afternoon"
 layout: post
 categories:
 - Rhythm Game
-- Pee pee fart
+- pee pee fart
 - Typing Tutor
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-95

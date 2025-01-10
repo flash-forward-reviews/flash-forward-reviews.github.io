@@ -2,7 +2,7 @@
 title: "Day 111 - Pee Simulator"
 layout: post
 categories:
-- Pee pee fart
+- pee pee fart
 - Shitpost
 - Nudity
 feature_image: "/assets/banner-flash-forward.png"

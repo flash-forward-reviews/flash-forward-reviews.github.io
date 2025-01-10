@@ -4,7 +4,7 @@ layout: post
 categories:
 - WTF
 - Puzzle
-- Pee pee fart
+- pee pee fart
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-102
 comments: true

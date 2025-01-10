@@ -4,7 +4,7 @@ layout: post
 categories:
 - Mobile Trash
 - Nudity
-- Pee pee fart
+- pee pee fart
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-131
 comments: true
