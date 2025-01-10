@@ -189,4 +189,4 @@ I’ll conclude by saying that I opened Majora’s Mask as a test to play on a l
 
 **Time Played: 2 Hours** 
 
-{% include button.html text="Link to Game" link="https://www.amazon.com/Legend-Zelda-Majoras-Collectors-Nintendo-64/dp/B000JVM256/ref=sr_1_3?crid=2C4TLRBNX03QB&dib=eyJ2IjoiMSJ9.uQbGEbFHfifQ0wHLtoUVtXBmGUT50bs12XnN_NiWNNbRY5mU4ENkIvI1fFpmySZrMg80LcF2bdbrXqSv2pPYntzaWkWxCxJSEmD_gXqTPxsdnNBLVprP9tUHnI8gh2rSoKwHVflYiFw0FtVseY5A_PpWr4WKRlEcU-fib2W15RMnTmRx6mHr_7_pMxNHLxCiQz4nvHl73xlNhhU7LRkjY5zmah915kaewJiDAz6VKV8.N9z04yiCsVTfkhBwOqfM28ELcgkDieCA31iOeZQZn2U&dib_tag=se&keywords=majora%27s+mask+n64&qid=1736488122&s=videogames&sprefix=majora%2Cvideogames%2C168&sr=1-3" %}
+{% include button.html text="Link to Game" link="https://www.amazon.com/s?k=legend+of+zelda+majoras+mask+n64&crid=1QBKXMH6ESJ7J&sprefix=legend+of+zelda+majoras+mask+n64%2Caps%2C170&ref=nb_sb_noss_1" %}
