@@ -189,4 +189,4 @@ I’ll conclude by saying that I opened Majora’s Mask as a test to play on a l
 
 **Time Played: 2 Hours** 
 
-{% include button.html text="Link to Game" link="https://www.amazon.com/s?k=legend+of+zelda+majoras+mask+n64&crid=1QBKXMH6ESJ7J&sprefix=legend+of+zelda+majoras+mask+n64%2Caps%2C170&ref=nb_sb_noss_1" %}
+{% include button.html text="Link to Game" link="https://www.amazon.com/s?k=legend+of+zelda+majoras+mask+n64" %}
