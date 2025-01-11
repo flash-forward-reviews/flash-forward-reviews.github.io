@@ -5,7 +5,7 @@ categories:
 - Nightmare Fuel
 - Bangers
 - Immersive Sim
-feature_image: "/assets/banner-flash-forward.png"
+feature_image: "/assets/majorabanner.png"
 permalink: /day-254
 comments: true
 ---

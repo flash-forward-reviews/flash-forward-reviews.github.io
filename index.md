@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 255: [Majora's Mask: Dawn of The Second Day (48 Hours Remain) - Treasure Chest Game]({{ "/day-255" | relative_url }})
 - Day 254: [The Legend of Zelda: Majora's Mask]({{ "/day-254" | relative_url }})
 - Day 253: [Author's Purpose]({{ "/day-253" | relative_url }})
 - Day 252: [Nest Collector: Big House Cleanup, Graham's Quest]({{ "/day-252" | relative_url }})
