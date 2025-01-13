@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 257: [Majora's Mask: Dawn of the Fourth Day  (-24 Hours Remain) All is Lost. How do we move forward from here? ]({{ "/day-257" | relative_url }})
 - Day 256: [Majora's Mask: Dawn of The Third Day (24 Hours Remain) - Deku Flower Game]({{ "/day-256" | relative_url }})
 - Day 255: [Majora's Mask: Dawn of The Second Day (48 Hours Remain) - Treasure Chest Game]({{ "/day-255" | relative_url }})
 - Day 254: [The Legend of Zelda: Majora's Mask]({{ "/day-254" | relative_url }})
