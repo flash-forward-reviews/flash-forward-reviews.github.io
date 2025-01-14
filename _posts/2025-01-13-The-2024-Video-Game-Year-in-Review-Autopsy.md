@@ -207,7 +207,7 @@ Anyone who has played this game knows I’m leaving so much out, this is the mos
 
 [DEAD DELUSION REVIEW PART 2](https://flash-forward-reviews.github.io/day-15){:target="_blank"}
 
-Besides my previous reviews, I’ll say that I finished this game and while the combat is sub-par, and the world isn’t super cohesive or sensible, this is a game so chock full of little ideas and sub-plots that if you DM a DND campaign, you basically have to play this. There are so many great moments and ideas to take out of context and put into your world. I’m absolutely taking the physical morality scale where you measure if a person is good by having them stand on one side, and the legally appointed goodest person ever stand on the other. Tell me that doesn’t rule?
+Besides my previous reviews, I’ll say that I finished this game and while the combat is sub-par, and the world isn’t super cohesive or sensible, this is a game so chock full of little ideas and sub-plots that if you DM a DND campaign, you basically have to play this. There are so many great moments and ideas to take out of context and put into your world. I’m absolutely taking the physical morality scale where you measure if a person is good by having them stand on one side, and the legally appointed goodest person ever stand on the other. Tell me that doesn’t rule.
 
 -9. [Max Payne 2](https://store.steampowered.com/app/12150/Max_Payne_2_The_Fall_of_Max_Payne/){:target="_blank"}
 
