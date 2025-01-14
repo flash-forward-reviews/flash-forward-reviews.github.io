@@ -122,7 +122,7 @@ How did that story make you feel? Do you want more of that? Do you want way way 
 
 Sayonara Wild Hearts looks like early 2010s Instagram. You have to accept this. 
 
-It also ends with a young adult “getting over her problems” by playing the acoustic guitar in her Kitschy modern bedroom. You have to accept this.
+It also ends with a young adult “getting over her problems” by playing the acoustic guitar in her kitschy modern bedroom. You have to accept this.
 
 Sayonara Wild Hearts is a playable arcade intractable music video, where you free-run your way through levels and try to get a high score. Each level has a different gimmick. There’s one where you’re on a motorcycle that’s always shooting, so you need to position yourself in front of enemies to kill them and stay alive. There’s one where you’re on a screen with a full 2D plane of motion, basically playing advanced Asteroids that’s timed to the beat. The best one is this crazy fuckin thing where you play 3 different levels layered on top of each other that swap to the beat:
 
