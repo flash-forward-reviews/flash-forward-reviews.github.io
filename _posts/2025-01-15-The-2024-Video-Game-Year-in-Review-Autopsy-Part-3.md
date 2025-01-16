@@ -54,6 +54,6 @@ Fuck it, I played and edited a lot of Doom this year. I’ve edited based on spr
 
 **Replay Percentage Chance: Mass Effect 2**
 
-**Time Played: Well over Mass Effect 3** 
+**Time Played: Mass Effect 3** 
 
 {% include button.html text="Link to Game" link="https://store.steampowered.com/app/2124490/SILENT_HILL_2/ " %}
