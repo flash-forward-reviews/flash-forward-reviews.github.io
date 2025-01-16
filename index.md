@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 260: [The 2024 Video Game Year in Review Autopsy (I promise we'll be finished soon)]({{ "/day-260" | relative_url }})
 - Day 259: [The 2024 Video Game Year in Review Autopsy (Continued)]({{ "/day-259" | relative_url }})
 - Day 258: [The 2024 Video Game Year in Review Autopsy]({{ "/day-258" | relative_url }})
 - Day 257: [Majora's Mask: Dawn of the Fourth Day  (-24 Hours Remain) All is Lost. How do we move forward from here? ]({{ "/day-257" | relative_url }})
