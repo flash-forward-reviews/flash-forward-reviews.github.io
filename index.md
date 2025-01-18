@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 262: [Ballies]({{ "/day-262" | relative_url }})
 - Day 261: [Love Story]({{ "/day-261" | relative_url }})
 - Day 260: [The 2024 Video Game Year in Review Autopsy (I promise we'll be finished soon)]({{ "/day-260" | relative_url }})
 - Day 259: [The 2024 Video Game Year in Review Autopsy (Continued)]({{ "/day-259" | relative_url }})
