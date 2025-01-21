@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 265: [Shrek Chases You]({{ "/day-265" | relative_url }})
 - Day 264: [Bryant's Interactive Jungle]({{ "/day-264" | relative_url }})
 - Day 263: [Kill the Healthcare CEO]({{ "/day-263" | relative_url }})
 - Day 262: [Ballies]({{ "/day-262" | relative_url }})
