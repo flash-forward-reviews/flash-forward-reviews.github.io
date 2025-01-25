@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 269: [Stray Cat Fever]({{ "/day-269" | relative_url }})
 - Day 268: [Friction Skill]({{ "/day-268" | relative_url }})
 - Day 267: [Godot 4 3D PinJoint Rope Physics by Palin_drome]({{ "/day-267" | relative_url }})
 - Day 266: [Win-a-Lot]({{ "/day-266" | relative_url }})
