@@ -76,7 +76,7 @@ I should have picked Bublé Boba.
 
 ## Sam's Take:
 
-{% include video.html id="xU5sntXEaEQ" title="" %}
+{% include video.html id="8mD96pe4HVE" title="" %}
 
 **Recommend: No**
 
