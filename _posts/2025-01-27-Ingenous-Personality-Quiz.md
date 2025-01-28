@@ -1,5 +1,5 @@
 ---
-title: "Day 272 - Bubble Oops Re-review"
+title: "Day 272 - Ingenous Personality Quiz"
 layout: post
 categories:
 - pee pee fart
