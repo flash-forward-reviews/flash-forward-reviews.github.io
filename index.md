@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 272: [Ingenous Personality Quiz]({{ "/day-272" | relative_url }})
 - Day 271: [Bubble oops Re-review]({{ "/day-271" | relative_url }})
 - Day 270: [Bubble oops]({{ "/day-270" | relative_url }})
 - Day 269: [Stray Cat Fever]({{ "/day-269" | relative_url }})
