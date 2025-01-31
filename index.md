@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 275: [Night of the Living Date]({{ "/day-275" | relative_url }})
 - Day 274: [World's Crossing Academy]({{ "/day-274" | relative_url }})
 - Day 273: [Polilla]({{ "/day-273" | relative_url }})
 - Day 272: [Ingenous Personality Quiz]({{ "/day-272" | relative_url }})

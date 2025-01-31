@@ -66,7 +66,7 @@ That’s fine, I’ll figure it out, I’ve played games before, I know how stor
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wca11.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-I’m not kidding when I say this goes on for about 20 screens. It is completely unhinged. This dev is more fascinating than any character they could possibly ever write. Before the game has even started I’ve been hit with the self-righteous “don’t judge me for my technically not pedophilia” screen, turned around into “sorry my game suckz 🙁 🙁 🙁 I powwomice it gets better later”, seamlessly into the “YOU FOOLS WON’T EVER UNDERSTAND MY DEEP AND COMPLEX CHARACTERS, ALLOW ME TO SPELL IT OUT FOR YOUR FEEBLE MINDS!!!!”. Finally we end with the final stage of grief, acceptance:
+I’m not kidding when I say this goes on for about 20 screens. It is completely unhinged. This dev is more fascinating than any character they could possibly ever write. Before the game has even started I’ve been hit with the self-righteous “don’t judge me for my technically not pedophilia” screen, turned around into “sorry my game suckz 🙁 🙁 🙁 I powwomice it gets better later”, seamlessly into the “YOU FOOLS WON’T EVER UNDERSTAND MY DEEP AND COMPLEX CHARACTERS, ALLOW ME TO SPELL IT OUT FOR YOUR FEEBLE MINDS!!!!”. At last, we end with the final stage of grief, acceptance:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wca12.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
