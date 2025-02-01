@@ -43,7 +43,7 @@ They have a jump animation where the giant fucking blimps on their asses jump up
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast3.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-It is the most ridiculous thing I’ve ever seen. It’s hard to put into words how floaty the cheeks are - you know when you shake a plastic back out, and as you’re bringing your hands down to fill it with air, it sort of floats down behind them. That’s the cheeks. Picture the plastic bag in your hands as those big ol’ cheeks. 
+It is the most ridiculous thing I’ve ever seen. It’s hard to put into words how floaty the cheeks are - you know when you shake a plastic bag out, and as you’re bringing your hands down to fill it with air, it sort of floats down behind them. That’s the cheeks. Picture the plastic bag in your hands as those big ol’ cheeks. 
 
 The air balloons don’t attack you or pose a threat. They just jump in place so the Hindenburgs will bounce around, which makes it even stranger that the player is supposed to kill them with a Nerf blaster to progress to the other stages. 
 
