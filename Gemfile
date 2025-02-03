@@ -10,5 +10,5 @@ gem "jekyll-feed", "~> 0.15"
 gem "jekyll-commonmark", "~> 1.3.1"
 gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
-gem "jekyll-remote-theme", git: 'https://github.com/Cain-Sam/jekyll-remote-theme', branch: 'master'
+gem "jekyll-remote-theme", "~> 0.3"
 gem 'jekyll-sass-converter', "~> 3.0"
