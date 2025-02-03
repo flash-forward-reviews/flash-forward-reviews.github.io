@@ -12,7 +12,7 @@ comments: true
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos1.png?raw=true" caption="" alt="" %}{:target="_blank"}
  
-## Skeeter's Take: 
+## Skeeter's Take:
 
 Dino Safari is kind of like Pokemon Snap, if the Pokedex only had 8 Pokemon and the game could be completed in 5 minutes.
 The set-up is the volcano on the island containing the only 8 dinosaurs left on the planet is going to blow up in 5 minutes and it’s your job to take a picture and document each one before it blows. 
