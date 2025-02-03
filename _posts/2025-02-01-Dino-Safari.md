@@ -1,5 +1,5 @@
 ---
-title: "Day 277 - Ball Blast (NSFW)"
+title: "Day 277 - Dino Safari"
 layout: post
 categories:
 - Immersive Sim
