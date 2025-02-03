@@ -12,7 +12,7 @@ comments: true
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bgemill1.png?raw=true" caption="" alt="" %}{:target="_blank"}
  
-## Skeeter's Take:
+## Skeeter's Take: 
 
 “BESTGAME EVER MADE I LOVE LIFE” - quite the title for a game about smashing crawling on your face with a hammer:
 
