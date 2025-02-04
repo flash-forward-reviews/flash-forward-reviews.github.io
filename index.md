@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 279: [ugyest game in the solar sistem]({{ "/day-279" | relative_url }})
 - Day 278: [BESTGAME EVER MADE I LOVE LIFE]({{ "/day-278" | relative_url }})
 - Day 277: [Dino Safari]({{ "/day-277" | relative_url }})
 - Day 276: [Ball Blast (NSFW)]({{ "/day-276" | relative_url }})
