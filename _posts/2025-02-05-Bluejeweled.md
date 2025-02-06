@@ -2,9 +2,9 @@
 title: "Day 281 - BLUEJEWELED"
 layout: post
 categories:
-- Shooter
-- Contains Doom
-- Immersive Sim
+- Puzzle
+- Shitpost
+- My Ears Are Bleeding
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-281
 comments: true
