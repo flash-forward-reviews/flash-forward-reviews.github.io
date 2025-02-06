@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 281: [Bluejeweled]({{ "/day-281" | relative_url }})
 - Day 280: [Blaster Power]({{ "/day-280" | relative_url }})
 - Day 279: [ugyest game in the solar sistem]({{ "/day-279" | relative_url }})
 - Day 278: [BESTGAME EVER MADE I LOVE LIFE]({{ "/day-278" | relative_url }})
