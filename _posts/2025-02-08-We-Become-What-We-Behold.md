@@ -46,12 +46,22 @@ It’s a good idea, and the code is completely open to use and copy on his page,
 
 ## Skeeter's Take:
 
-UH OH SKEETER FORGOT! SEND HIM RUDE EMAILS NOW!
+I’m glad the kid who made school shooter Newgrounds games grew up to make something with a message. 
 
-**Recommend: Rude**
+I am merely jesting, my fellow courtsmen. Isn’t that why you hired this clown? I draw the comparison mostly due to the art style and the fact that the game ends in a bloody violent massacre. 
 
-**Replay Percentage Chance: Emails**
+It’s late and I forgot I still had a review to write, so I’ll keep it brief. Also, my computer is having a conniption and refuses to open my snipping tool, and that’s not really an issue I want to figure out right now, so I have no photos and am a hack fraud. 
 
-**Time Played: Now!**
+I think We Become What We Behold does a good job of visually giving you its message and stance on news cycles and the general viral sensationalism we see today. The message is so clear and obvious, the people wearing love hats give one of their love hats to a crazy guy and he calms down and returns to normalcy. After the bloody massacre/riot the love hatted folks are the only people not dead. It’s not subtle. I mention this mainly because my biggest critique of the game is the written responses the player gets when they take a picture of the nice things happening. Responses like “peace is boring. Violence goes viral.” Yes, I understand the point of the game, this extra explanation is not necessary. I get it. You did a great job of showing! Let it stand on its own. I think the cricket chirping is enough to clue the player in without shouting at them “Hey this game is about violence and how the media propagates violence by focusing on it, why are you taking pictures of these heart hat people? They represent love and peace and understanding, and since we are representing the media’s stance on this, we hate love and peace because it doesn’t make us money. We need you to take pictures of the violence, which just so happens to create a cycle of violence but also makes us money. Do you understand? Don’t worry, we’ll explain it again here in a bit so you don’t forget.”
+
+I know, a classic nit pick. It’s all I know how to do. 
+
+I liked the zoom out at the end to reveal the player was simply observing the events through a laptop screen. I felt that was effective.
+
+**Recommend: i guess so**
+
+**Replay Percentage Chance: 0%**
+
+**Time Played: 5 Minutes**
 
 {% include button.html text="Link to Game" link="https://ncase.itch.io/wbwwb" %}
