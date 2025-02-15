@@ -40,7 +40,7 @@ And lest we forget the dry sewage pipe:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/agortstr7.png?raw=true" caption="" alt="" %}{:target="_blank"}
  
-**Recommend: god no **
+**Recommend: god no**
 
 **Replay Percentage Chance: 20%**
 
