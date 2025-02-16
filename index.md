@@ -10,7 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
-- Day 291: [Boxing Arcade Game]({{ "/day-291" | relative_url }})
+- Day 291: [Boxer Arcade Game]({{ "/day-291" | relative_url }})
 - Day 290: [Valentines Away]({{ "/day-290" | relative_url }})
 - Day 289: [anime girls of riven: the sequel to riven]({{ "/day-289" | relative_url }})
 - Day 288: [Super Smash Bros. Crusade]({{ "/day-288" | relative_url }})

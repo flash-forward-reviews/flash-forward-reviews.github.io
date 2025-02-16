@@ -1,5 +1,5 @@
 ---
-title: "Day 291 - Boxing Arcade Game"
+title: "Day 291 - Boxer Arcade Game"
 layout: post
 categories:
 - Fighter
