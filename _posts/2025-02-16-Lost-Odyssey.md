@@ -235,7 +235,7 @@ Wait, is that fucking Puss in Boots??
 
 <br/>
 
-## Guest Writer Dicgame's Take:
+## Guest Writer Dicegame's Take:
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey6.png?raw=true" caption="The Immortal Neuroplasticity Studies" alt="" %}{:target="_blank"}
 
