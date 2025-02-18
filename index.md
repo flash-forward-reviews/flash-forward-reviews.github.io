@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 293: [Speed The Movie The Game]({{ "/day-293" | relative_url }})
 - Day 292: [Lost Odyssey]({{ "/day-292" | relative_url }})
 - Day 291: [Boxer Arcade Game]({{ "/day-291" | relative_url }})
 - Day 290: [Valentines Away]({{ "/day-290" | relative_url }})
