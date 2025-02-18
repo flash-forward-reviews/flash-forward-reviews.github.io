@@ -76,10 +76,10 @@ As someone who has never played a _Final Fantasy_ game and whose primary JRPG ga
 
 What I do feel equipped to do is respond to a few reviews that were written when _Lost Odyssey_ was released in the U.S. in February 2008. Thanks to [The Video Game History Foundation’s Digital Archive](https://archive.gamehistory.org/explore){:target="_blank"} (my librarian/archivist heart is so happy that this project exists), I was able to track down some reviews of _Lost Odyssey_ from several video game magazines. Throughout my own reflections on the game, I decided to respond to the following reviews:
 
-* “_Lost Odyssey_: Lost and found” from [Electronic Gaming Monthly, Issue 227](https://archive.gamehistory.org/item/51a6e967-b795-4653-8dc5-53a97012e7ab){:target="_blank"} (pg. 76-77)
-* “_Lost Odyssey_: Immortal beloved” from [Game Informer, Issue 180](https://archive.gamehistory.org/item/6b886a31-5fae-40f7-b6e8-0b015d8a911e){:target="_blank"} (pg 92)
+* “_Lost Odyssey_: Lost and found” from [_Electronic Gaming Monthly_, Issue 227](https://archive.gamehistory.org/item/51a6e967-b795-4653-8dc5-53a97012e7ab){:target="_blank"} (pg. 76-77)
+* “_Lost Odyssey_: Immortal beloved” from [_Game Informer_, Issue 180](https://archive.gamehistory.org/item/6b886a31-5fae-40f7-b6e8-0b015d8a911e){:target="_blank"} (pg 92)
 * “_Lost Odyssey_: The heart may be strong, but it needs a solid mind to guide it” from [GamePro, Issue 236](https://archive.gamehistory.org/item/531234a9-b59b-438f-8f79-90d23eaaf5b6){:target="_blank"} (pg. 76-77)
-* “_Lost Odyssey_: From here to eternity” from [Official Xbox Magazine, Issue 82](https://archive.gamehistory.org/item/6a62b216-2de3-4ddc-934d-3ba72f938812){:target="_blank"} (pg. 68-69)
+* “_Lost Odyssey_: From here to eternity” from [_Official Xbox Magazine_, Issue 82](https://archive.gamehistory.org/item/6a62b216-2de3-4ddc-934d-3ba72f938812){:target="_blank"} (pg. 68-69)
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey32.png?raw=true" caption="From Gamepro" alt="" %}{:target="_blank"}
 
@@ -119,7 +119,7 @@ I am also grateful that we did not have a single dream novella related to Jansen
 
 I almost focused my entire review on why Jansen sucks as a character. I would have delved into how other video game characters with this ‘womanizer’ archetype are written with so much more complexity and care (e.g., Junpei from _Persona 3_), but alas, I only had one day to write this review and not enough Jansen screenshots to illustrate everything that is wrong with him. 
 
-But I’m at least happy to point out that reviewers were mixed on Jansen, with the Game Informer reviewer writing an excellent caption that reads: “The biggest problem here isn’t the dinosaur headbutt. It’s the fact that Jansen is in the party. You should ditch that Dork of the Year candidate as soon as possible.”
+At least the reviewers were mixed on Jansen, with the _Game Informer_ reviewer writing an excellent caption that reads: “The biggest problem here isn’t the dinosaur headbutt. It’s the fact that Jansen is in the party. You should ditch that Dork of the Year candidate as soon as possible.”
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey35.png?raw=true" caption="From Game Informer" alt="" %}{:target="_blank"}
 
