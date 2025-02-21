@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 296: [Alien Insanity]({{ "/day-296" | relative_url }})
 - Day 295: [Puzzling Wild IQ Test]({{ "/day-295" | relative_url }})
 - Day 294: [Paul Bird Week]({{ "/day-294" | relative_url }})
 - Day 293: [Speed The Movie The Game]({{ "/day-293" | relative_url }})
