@@ -24,12 +24,12 @@ comments: true
 
 ## Skeeter's Take:
 
-Skeeter has been tired. I'm willing to bet he messages me tomorrow saying he fell asleep on his floor at 8:30. He'll do his review tomorrow probably.
+{% include video.html id="Q67odIuLE5k" title="" %}
 
-**Recommend: ???**
+**Recommend: Paul, why?**
 
-**Replay Percentage Chance: ???**
+**Replay Percentage Chance: no**
 
-**Time Played: ???**
+**Time Played: 16 minutes**
 
 {% include button.html text="Link to Game" link="https://store.steampowered.com/app/2078070/Puzzling_Wild_IQ_Test/" %}
