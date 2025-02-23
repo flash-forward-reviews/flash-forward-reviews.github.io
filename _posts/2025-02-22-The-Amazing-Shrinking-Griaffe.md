@@ -24,7 +24,7 @@ comments: true
 
 ## Sam's Take:
 
-{% include video.html id="i1o-QqQjZM" title="" %}
+{% include video.html id="ei1o-QqQjZM" title="" %}
 
 **Recommend: For real, insanely ambitious**
 
