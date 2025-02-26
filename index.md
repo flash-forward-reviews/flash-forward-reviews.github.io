@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 301: [Fuck You Witch]({{ "/day-301" | relative_url }})
 - Day 300: [Wild Animal Racing]({{ "/day-300" | relative_url }})
 - Day 299: [Wild Animal Sports Day]({{ "/day-299" | relative_url }})
 - Day 298: [The Amazing Shrinking Griaffe!]({{ "/day-298" | relative_url }})
