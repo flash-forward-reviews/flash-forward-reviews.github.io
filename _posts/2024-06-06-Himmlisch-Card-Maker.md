@@ -1,5 +1,5 @@
 ---
-title: "Day 37 - Mammoth Hunting"
+title: "Day 37 - Himmlisch Card Maker"
 layout: post
 categories:
 - Dress Up
