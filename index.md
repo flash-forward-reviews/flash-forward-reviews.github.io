@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 305: [A Valentines Greeting]({{ "/day-305" | relative_url }})
 - Day 304: [Trivia Night at Applebees]({{ "/day-304" | relative_url }})
 - Day 303: [On the Road Again]({{ "/day-303" | relative_url }})
 - Day 302: [Marble Race Generator]({{ "/day-302" | relative_url }})
