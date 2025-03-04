@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 307: [Cam dress-up]({{ "/day-307" | relative_url }})
 - Day 306: [Maths with D.Va Clock]({{ "/day-306" | relative_url }})
 - Day 305: [A Valentines Greeting]({{ "/day-305" | relative_url }})
 - Day 304: [Trivia Night at Applebees]({{ "/day-304" | relative_url }})
