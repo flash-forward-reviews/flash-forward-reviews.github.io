@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 310: [A Flying Kokeshi]({{ "/day-310" | relative_url }})
 - Day 309: [A Evening News]({{ "/day-309" | relative_url }})
 - Day 308: [Garry!]({{ "/day-308" | relative_url }})
 - Day 307: [Cam dress-up]({{ "/day-307" | relative_url }})
