@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 313: [Board Pear]({{ "/day-313" | relative_url }})
 - Day 312: [Bunny Game]({{ "/day-312" | relative_url }})
 - Day 311: [Cluster OC - Character Select (concept)]({{ "/day-311" | relative_url }})
 - Day 310: [A Flying Kokeshi]({{ "/day-310" | relative_url }})
