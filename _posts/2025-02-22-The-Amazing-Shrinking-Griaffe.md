@@ -1,5 +1,5 @@
 ---
-title: "Day 298 - The Amazing Shrinking Griaffe"
+title: "Day 298 - The Amazing Shrinking Giraffe"
 layout: post
 categories:
 - Paul Bird Week
