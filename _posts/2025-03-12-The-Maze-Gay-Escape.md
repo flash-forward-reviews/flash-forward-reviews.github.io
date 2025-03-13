@@ -1,12 +1,12 @@
 ---
-title: "Day 315 - The Maze Gay Escape"
+title: "Day 316 - The Maze Gay Escape"
 layout: post
 categories:
 - Mass Effect 3
 - Puzzle
 - Immersive Sim
 feature_image: "/assets/banner-flash-forward.png"
-permalink: /day-315
+permalink: /day-316
 comments: true
 ---
 
