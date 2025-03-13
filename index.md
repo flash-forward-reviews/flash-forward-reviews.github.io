@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 315: [The Maze Gay Escape]({{ "/day-315" | relative_url }})
 - Day 314: [Gravitational Pong]({{ "/day-314" | relative_url }})
 - Day 313: [Board Pear]({{ "/day-313" | relative_url }})
 - Day 312: [Bunny Game]({{ "/day-312" | relative_url }})
