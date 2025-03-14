@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 317: [There Is No Raytracing]({{ "/day-317" | relative_url }})
 - Day 316: [The Maze Gay Escape]({{ "/day-316" | relative_url }})
 - Day 315: [Pestrica's Jugguantlet]({{ "/day-315" | relative_url }})
 - Day 314: [Gravitational Pong]({{ "/day-314" | relative_url }})
