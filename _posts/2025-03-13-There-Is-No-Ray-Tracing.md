@@ -1,5 +1,5 @@
 ---
-title: "Day 317 - The Maze Gay Escape"
+title: "Day 317 - There is No Ray Tracing"
 layout: post
 categories:
 - Contains Doom
