@@ -32,12 +32,24 @@ Oh also the game didn’t work in Chrome for me? So rise up FireFox squad I gues
 
 ## Skeeter's Take:
 
-Skeeter has been taking care of his sad sickly dog, so we won’t make fun of him for forgetting his review today
+I too was thrust through cycling levels much like Sam. I couldn’t figure out what exactly made the level switch, but I noticed that there was a wheel indicator that filled up much like a timer: 
 
-**Recommend: n/a**
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tinrt4.png?raw=true" caption="Second level, faces and lots of blood" alt="" %}{:target="_blank"}
 
-**Replay Percentage Chance: n/a**
+I had started working up a theory that maybe the levels were time based. Unfortunately, the next level I was loaded into was nothing but an empty single square platform: 
 
-**Time Played: n/a**
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tinrt5.png?raw=true" caption="Second level, faces and lots of blood" alt="" %}{:target="_blank"}
+
+I watched my theory go up in smoke as the timer reset numerous times. I was still stuck in the abyss. Not sure how to proceed, I threw myself off the side of the platform and am not stuck eternally in the milky-blue void: 
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tinrt6.png?raw=true" caption="Second level, faces and lots of blood" alt="" %}{:target="_blank"}
+
+Still no idea how this game works. 
+
+**Recommend: Naw**
+
+**Replay Percentage Chance: Raw**
+
+**Time Played: Paw**
 
 {% include button.html text="Link to Game" link="https://coldsolarknight233.itch.io/tinrt" %}
