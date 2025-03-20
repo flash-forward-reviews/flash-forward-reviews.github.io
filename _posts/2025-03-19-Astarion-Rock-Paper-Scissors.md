@@ -32,9 +32,9 @@ PS. I'm pretty sure Skeeter just isn't done with his review yet, but I like that
 
 ## Skeeter's Take:
 
+{% include video.html id="yHpHxSIkG18" title="" %}
 
-
-**Recommend:**
+**Recommend: No**
 
 **Replay Percentage Chance:**
 
