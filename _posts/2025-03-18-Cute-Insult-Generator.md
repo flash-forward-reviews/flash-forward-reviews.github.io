@@ -62,7 +62,7 @@ I really wrote myself into a corner with this one. I certainly hope no adult, le
 
 **Replay Percentage Chance: 0%**
 
-**Time Played:  5 minutes**
+**Time Played: 5 minutes**
 
 ## Sam's Take:
 

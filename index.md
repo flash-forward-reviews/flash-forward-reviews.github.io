@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 323: [Astarion: Rock-Paper-Scissors]({{ "/day-323" | relative_url }})
 - Day 322: [Cute Insult Generator]({{ "/day-322" | relative_url }})
 - Day 321: [St Patrick's Day Fiesta]({{ "/day-321" | relative_url }})
 - Day 320: [King of the Beach]({{ "/day-320" | relative_url }})
