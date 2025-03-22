@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 325: [Balls, Dice, and Stickers]({{ "/day-325" | relative_url }})
 - Day 324: [In the House of Asterion]({{ "/day-324" | relative_url }})
 - Day 323: [Astarion: Rock-Paper-Scissors]({{ "/day-323" | relative_url }})
 - Day 322: [Cute Insult Generator]({{ "/day-322" | relative_url }})
