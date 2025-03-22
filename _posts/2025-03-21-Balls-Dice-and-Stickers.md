@@ -30,9 +30,9 @@ First of all, the game literally tells you what your best shot would be (my gues
 
 Figuring out the number of upgrades you have to fill in functions as your number of lives is a revelation I had later on as well. There are so many hidden mechanics at this game that I do wonder if you can get good enough to win consistently. At the moment, I’m content just clicking and watching the flashing lights, but I do wonder if there’s more to it then I’ve found so far.
 
-BD+S is addictive dopamine nonsense, but I fear it might also actually be good. You can wishlist it on Steam now!!!
+BD+S is addictive dopamine nonsense, but I fear it might also actually be good. You can [wishlist it on Steam now!!!](https://store.steampowered.com/app/3537690/Balls_Dice__Stickers/){:target="_blank"}
 
-**Recommend: https://store.steampowered.com/app/3537690/Balls_Dice__Stickers/**
+**Recommend: Yes**
 
 **Replay Percentage Chance: 50%**
 
