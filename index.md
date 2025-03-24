@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 327: [Red Rock]({{ "/day-327" | relative_url }})
 - Day 326: [Wizard Vs Dragon]({{ "/day-326" | relative_url }})
 - Day 325: [Balls, Dice, and Stickers]({{ "/day-325" | relative_url }})
 - Day 324: [In the House of Asterion]({{ "/day-324" | relative_url }})

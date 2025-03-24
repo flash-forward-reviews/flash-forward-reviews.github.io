@@ -1,5 +1,5 @@
 ---
-title: "Day 325 - In the House of Asterion"
+title: "Day 325 - Balls, Dice, and Stickers"
 layout: post
 categories:
 - Arcade
