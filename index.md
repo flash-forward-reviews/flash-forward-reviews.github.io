@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 329: [Nazi Clown (WIP)]({{ "/day-329" | relative_url }})
 - Day 328: [Bus]({{ "/day-328" | relative_url }})
 - Day 327: [Red Rock]({{ "/day-327" | relative_url }})
 - Day 326: [Wizard Vs Dragon]({{ "/day-326" | relative_url }})
