@@ -42,12 +42,24 @@ I hope I don’t vomit.
 
 ## Skeeter's Take:
 
-I don't know if Skeeter asleep or just late. OOPS!
+UH OH - this is a certified Bababooey Bababooey Kyle Kyle moment!
 
-**Recommend:**
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kylekylerework.gif?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Replay Percentage Chance:**
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/hmbs6.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Time Played:**
+I can only recognize the chiptune backing track for this game due to Kyle singing that song so much. 
+
+I don’t really expect you guys to know who Kyle is, but he’s obsessed with Miku. He was pretty upset when that Japanese man married a Miku hologram. Everything I know about Miku has been forced upon me by Kyle, so it’s impossible for me not associate the two now. 
+
+Since Kyle is the Miku expert, I didn’t feel that it was fair if I gave my opinion/recommendation on this game (well made, but kind of boring!), so I sent it to the resident weeb himself. I’ll update if Kyle ever gets back to me.
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/hmbs7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+
+**Recommend: [Pending]**
+
+**Replay Percentage Chance: 0%**
+
+**Time Played: 3 minutes**
 
 {% include button.html text="Link to Game" link="https://mksf-birdup.itch.io/hatsune-miku-bomb-squad" %}
