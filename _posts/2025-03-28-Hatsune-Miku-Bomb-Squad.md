@@ -56,7 +56,9 @@ Since Kyle is the Miku expert, I didn’t feel that it was fair if I gave my opi
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/hmbs7.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
-**Recommend: [Pending]**
+**Recommend:**
+
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kylekyle.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance: 0%**
 
