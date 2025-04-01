@@ -1,5 +1,5 @@
 ---
-title: "Day 261 - The 2024 Video Game Year in Review Autopsy (I promise we'll be finished soon)"
+title: "Day 261 - Love Story"
 layout: post
 categories:
 - No Music
