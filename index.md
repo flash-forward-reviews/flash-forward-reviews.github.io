@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 336: [Wild West Postal]({{ "/day-336" | relative_url }})
 - Day 335: [Take Care of Mister Rat]({{ "/day-335" | relative_url }})
 - Day 334: [Who's a Good Boy?]({{ "/day-334" | relative_url }})
 - Day 333: [Toad Road]({{ "/day-333" | relative_url }})
