@@ -10,7 +10,7 @@ permalink: /day-337
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/spa1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/spa1.png?raw=true" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
