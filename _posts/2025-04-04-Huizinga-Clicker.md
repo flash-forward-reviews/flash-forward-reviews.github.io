@@ -30,7 +30,7 @@ Not as good as Bazinga.
 
 **Recommend: no**
 
-**Replay Percentage Chance: YEniAH**
+**Replay Percentage Chance: ni**
 
 **Time Played: na**
 
