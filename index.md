@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 342: [Crazy Block Stacking]({{ "/day-342" | relative_url }})
 - Day 341: [Don't Care]({{ "/day-341" | relative_url }})
 - Day 340: [Catty Da Gaem]({{ "/day-340" | relative_url }})
 - Day 339: [Huizinga Clicker]({{ "/day-339" | relative_url }})
