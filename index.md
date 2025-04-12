@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 346: [Balatro like]({{ "/day-346" | relative_url }})
 - Day 345: [RICARDO VS RICARDO]({{ "/day-345" | relative_url }})
 - Day 344: [Ricardo D - juego bala]({{ "/day-344" | relative_url }})
 - Day 343: [TAG APOCALYPSE!]({{ "/day-343" | relative_url }})
