@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 349: [T-Shrek 3D]({{ "/day-349" | relative_url }})
 - Day 348: [Christmas Countdown - wait, what? Again? YOU BET YOUR ASS! I'M GOING TO PLAY 365 DAYS OF CHRISTMAS COUNTDOWN NEXT YEAR AND YOU CANNOT STOP ME ]({{ "/day-348" | relative_url }})
 - Day 347: [Elder Fighter]({{ "/day-347" | relative_url }})
 - Day 346: [Balatro like]({{ "/day-346" | relative_url }})
