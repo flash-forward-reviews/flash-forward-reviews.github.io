@@ -26,7 +26,7 @@ Turns out they REALLY like magicians.
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckmag1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckmag2.png?raw=true" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
