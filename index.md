@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 352: [Fuck Magicians]({{ "/day-352" | relative_url }})
 - Day 351: [Spongus Bob grows hunger]({{ "/day-351" | relative_url }})
 - Day 350: [Wild West Postal Re-Review]({{ "/day-350" | relative_url }})
 - Day 349: [T-Shrek 3D]({{ "/day-349" | relative_url }})
