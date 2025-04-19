@@ -34,6 +34,6 @@ Only alien I would fuck:
 
 **Replay Percentage Chance: I feel like we’ve earned this though**
 
-**Time Played: P Honestly game is pretty good**
+**Time Played: Honestly game is pretty good**
 
 {% include button.html text="Link to Game" link="https://atalyx-games.itch.io/fuck-aliens" %}
