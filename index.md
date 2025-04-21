@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 355: [Sleepi Boi Can't Sleep]({{ "/day-355" | relative_url }})
 - Day 354: [Fuck Everything]({{ "/day-354" | relative_url }})
 - Day 353: [Fuck Aliens]({{ "/day-353" | relative_url }})
 - Day 352: [Fuck Magicians]({{ "/day-352" | relative_url }})
