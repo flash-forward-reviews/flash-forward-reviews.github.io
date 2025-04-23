@@ -3,7 +3,7 @@ title: "Day 355 - Sleepi Boi Can't Sleep"
 layout: post
 categories:
 - Immersive Sim
-- Ricardo
+- Ricardo G
 - Wow, a new tag on day 355
 feature_image: "/assets/banner-flash-forward.png"
 permalink: /day-355
