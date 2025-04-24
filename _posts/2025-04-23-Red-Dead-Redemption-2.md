@@ -20,7 +20,7 @@ comments: true
 
 Red Dead Redemption 2 is a game about buttons. It has more buttons than any game has had before. Right click by your horse, hold that right click to focus. Press B while focusing to brush your horse, press F while focusing to feed your horse. So far I have listed 40% of the horse-focus activities, but I will stop there because this review is not about the horse. It’s about saying hello.
 
-Arthur Morgan, rough-n-tough outlaw and RDR2 protagonist does unspeakably evil things no matter who controls him. There’s no universe in which Arthur does not kill less than fourteen trillion people. There’s no world where he doesn’t strangle the debt out of a few poor men. These things about by and for the story, there is no stopping it, Arthur Morgan is a bad man, but he’s a bad man with buttons. Many, many buttons. Hold right click next to any pedestrian, then press R to say “Hello”.
+Arthur Morgan, rough-n-tough outlaw and RDR2 protagonist does unspeakably evil things no matter who controls him. There’s no universe in which Arthur does not kill less than fourteen trillion people. There’s no world where he doesn’t strangle the debt out of a few poor men. These things are caused by and for the story, there is no stopping it, Arthur Morgan is a bad man, but he’s a bad man with buttons. Many, many buttons. Hold right click next to any pedestrian, then press R to say “Hello”.
 
 {% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr22.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
 
