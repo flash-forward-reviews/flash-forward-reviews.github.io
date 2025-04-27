@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 361: [Oblivion Lock Picking Sim]({{ "/day-361" | relative_url }})
 - Day 360: [Type Gun]({{ "/day-360" | relative_url }})
 - Day 359: [RED DEAD REDEMPTION 2 OBBY]({{ "/day-359" | relative_url }})
 - Day 358: [Red Dead Redemption 2]({{ "/day-358" | relative_url }})
