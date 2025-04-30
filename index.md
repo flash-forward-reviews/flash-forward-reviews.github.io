@@ -10,6 +10,7 @@ Eons ago, Skeeter and Sam reviewed a flash game every day for a year, comparing 
 
 ### List of Reviews:
 
+- Day 364: [The Witcher 2]({{ "/day-364" | relative_url }})
 - Day 363: [Disillusion ST Redux]({{ "/day-363" | relative_url }})
 - Day 362: [Fast Fish]({{ "/day-362" | relative_url }})
 - Day 361: [Oblivion Lock Picking Sim]({{ "/day-361" | relative_url }})
