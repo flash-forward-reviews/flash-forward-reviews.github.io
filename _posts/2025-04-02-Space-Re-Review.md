@@ -18,7 +18,7 @@ THE REAL FANS WILL REMEMBER!
 
 HOLD ONTO YOUR FUCKING HATS Y’ALL, WE PLAYIN’ SPACE AGAIN!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/space1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/space1.png" caption="" alt="" %}{:target="_blank"}
 
 Ninja? Yea he moves with your clicks.
 
@@ -36,9 +36,9 @@ REMEMBER RUND?!
 
 {% include video.html id="n6QcfEHTd5g" title="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/space2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/space2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/space3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/space3.png" caption="" alt="" %}{:target="_blank"}
 
 Hey Alexa, play Space Jam by Jay-Z.
 

@@ -10,7 +10,7 @@ permalink: /day-351
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbgh1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/sbgh1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -23,7 +23,7 @@ I’m not entirely sure why. Perhaps it’s the recognizable IP, or the fact tha
 
 With Mammoth Hunting, I could have never seen the ending coming, but with Spongus grows hunger, as soon as I saw the goal was “Go look for food” and saw Gary sitting there, I knew it was going to end with Spongebob eating Gary: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbgh2.png" caption="I really do like BM bongTextPro’s artstyle, I must say" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/sbgh2.png" caption="I really do like BM bongTextPro’s artstyle, I must say" alt="" %}{:target="_blank"}
 
 I am having trouble getting over what I consider a pretty big logic hurdle with this one - a hurdle that has all but suspended my disbelief. 
 
@@ -39,7 +39,7 @@ I AIN’T BUYING IT
 
 I’m being intentionally pedantic, but it is interesting how throwing something so popular and recognizable into your game immediately switches the whole tone and feel of a joke. Mammoth Hunting had true shock and surprise. The joke was subversive and played on what we expected to happen (caveman kill mammoth). Spongus grows hunger leans heavily on the shock of seeing Spongebob eat Gary. It uses the recognizable characters to set up the expectation it wants to subvert, but doesn’t take the character’s personalities, backstories, or motivations into account. It simply uses them as sock puppets to tell another “shocking” story. You could replace those characters with any other characters and the joke really wouldn’t change that much for me. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbgh3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/sbgh3.png" caption="" alt="" %}{:target="_blank"}
 
 Actually, hold on, maybe BM bongTextPro is on to something… 
 

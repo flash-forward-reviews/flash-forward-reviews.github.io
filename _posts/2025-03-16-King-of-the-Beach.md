@@ -10,13 +10,13 @@ permalink: /day-320
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kotb1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/kotb1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 King of the Beach is a platformer where your goal is to bounce a beach ball on your head and get it to the goal in the level: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kotb2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/kotb2.png" caption="" alt="" %}{:target="_blank"}
 
 The ball is extremely floaty as it needs to descend slow enough for the player to have time to complete the platforming and position themselves under the ball for the next bounce. I found this floaty-ness made the ball pretty hard to control. Might get easier with practice, but thought that was worth mentioning.  
 
@@ -24,15 +24,15 @@ There is something going on here. Outside of the actual levels (which look like 
 
 It feels like there is a PS1/90s vibe trying to be achieved here - for example, you can see the old paper cup design in the background of the level complete screen: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kotb3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/kotb3.png" caption="" alt="" %}{:target="_blank"}
 
 There’s clearly an attempt at style here. I’m just disappointed that a game with a game over screen that looks like this: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kotb4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/kotb4.png" caption="" alt="" %}{:target="_blank"}
 
 Also has a level design and art direction that looks like this: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/kotb5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/kotb5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Not really**
 

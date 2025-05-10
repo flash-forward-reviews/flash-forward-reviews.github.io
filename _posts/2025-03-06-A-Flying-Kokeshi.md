@@ -10,13 +10,13 @@ permalink: /day-310
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/flyk1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/flyk1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 Yet another banger from [Keviny250](https://keviny250.newgrounds.com/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/flyk2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/flyk2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
@@ -26,7 +26,7 @@ Yet another banger from [Keviny250](https://keviny250.newgrounds.com/){:target="
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/flyk3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/flyk3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: ...**
 

@@ -10,11 +10,11 @@ permalink: /day-265
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scy1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/scy1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scy2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/scy2.png" caption="" alt="" %}{:target="_blank"}
 
 You walk. Shrek get u, game start over. No way to win, nothing else to do. I hope Skeeter’s review doesn’t make me uncomfortable.
 
@@ -28,13 +28,13 @@ You walk. Shrek get u, game start over. No way to win, nothing else to do. I hop
 
 Shrek chases you. He chases you through some dark woods. If he touches you, the game restarts. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scy3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/scy3.png" caption="" alt="" %}{:target="_blank"}
 
 I’ve got to disagree, my friend Lordweegie. I think you nailed both Shrek and the penis trees! The resemblance is uncanny! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scy4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/scy4.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scy5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/scy5.png" caption="" alt="" %}{:target="_blank"}
 
 Nice work! I have made zero 3D models myself (you already have me beat), but I assume they are hard work!
 

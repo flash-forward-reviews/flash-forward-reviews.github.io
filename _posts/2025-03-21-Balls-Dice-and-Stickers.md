@@ -10,23 +10,23 @@ permalink: /day-325
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bds1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bds1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 Balls, Dice, and Stickers has a game in it. You have some balls that you aim, and they bounce around and hit dice. The dice give you points. After each shot you can upgrade once face of the die to have a special effect. You can even see the full trajectory of your shot, bounces and all.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bds2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bds2.png" caption="" alt="" %}{:target="_blank"}
 
 The thing about BD+S is that the end game looks more like this:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bds3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bds3.png" caption="" alt="" %}{:target="_blank"}
 
 Is it still aiming shots and shooting? Yea. Could I try to combo my dice in the right order to get a good set of triggers? Maybe, but BD+S is primarily about watching a ball bounce 14 million times while the screen gets covered in sprites. It’s chaos and about 90% devoid of strategy, but there are a few mechanics to give you and edge.
 
 First of all, the game literally tells you what your best shot would be (my guess is most bounces is how this is calculated, but I’m not sure). If you don’t use this knowledge though and shoot at a different angle than your calculated best shot, you get a 15% score bonus. Can you find a second best shot that’s less than 15% worse than your best shot? You also get bonus for each face of the die having the same upgrade on it:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bds4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bds4.png" caption="" alt="" %}{:target="_blank"}
 
 Figuring out the number of upgrades you have to fill in functions as your number of lives is a revelation I had later on as well. There are so many hidden mechanics at this game that I do wonder if you can get good enough to win consistently. At the moment, I’m content just clicking and watching the flashing lights, but I do wonder if there’s more to it then I’ve found so far.
 
@@ -48,7 +48,7 @@ There’s a lot to like about Balls, Dice, and Stickers.  I won’t be going int
 
 **-2.** The fact that you can see the complete trajectory of the ball really adds an element of strategy to the game. It allows the player to pre-meditate their shot for optimal points, which in reality usually culminates in slowly moving the mouse across the screen until the trajectory lines up with all three dice. These are shots no human would ever consider making, and I love it:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bds5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bds5.png" caption="" alt="" %}{:target="_blank"}
 
 I find this a refreshing approach to the “ball bouncing roguelike” genre, as I’ve been playing a lot of [Nubby’s Number Factory](https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/){:target="_blank"} (great game btw), and that game feels like it’s up to chance most of the time. This was an interesting approach that BDS took. 
 

@@ -10,7 +10,7 @@ permalink: /day-316
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/gaymaze1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/gaymaze1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -28,7 +28,7 @@ My first question about this game was “where’s the gay?”, but luckily Skee
 
 My next question is, why is the dev’s itch.io username their social security number, and why are their only games both The Maze Gay Escape, except one doesn’t load?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/gaymaze2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/gaymaze2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

@@ -10,7 +10,7 @@ permalink: /day-267
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ropephys1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/ropephys1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -30,7 +30,7 @@ I do.
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ropephys2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/ropephys2.png" caption="" alt="" %}{:target="_blank"}
 
 I’m honestly at a loss for what more to say. The ropes move sort of like how I would imagine a rope in a game would move, so good job. Where are the ropes in Blaster Meltdown? That’s my question and segway into reminding everyone of my sub 100 second Blaster Meltdown run: 
 

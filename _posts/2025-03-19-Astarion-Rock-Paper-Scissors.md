@@ -10,7 +10,7 @@ permalink: /day-323
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/arps1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/arps1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -18,7 +18,7 @@ Rock Paper Scissors with voice lines from Baulder’s Gate 3. It has a little an
 
 I don’t have much more to say about this game other than “thank God Skeeter didn’t pick the SECOND game that comes up when you type “Astarion” into itch.io search...
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/arps2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/arps2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
@@ -28,7 +28,7 @@ I don’t have much more to say about this game other than “thank God Skeeter 
 
 PS. I'm pretty sure Skeeter just isn't done with his review yet, but I like that he filled in the part he already knew:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/arps3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/arps3.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 

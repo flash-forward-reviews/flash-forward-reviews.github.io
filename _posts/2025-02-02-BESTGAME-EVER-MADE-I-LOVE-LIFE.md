@@ -10,21 +10,21 @@ permalink: /day-278
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bgemill1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bgemill1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take: 
 
 “BESTGAME EVER MADE I LOVE LIFE” - quite the title for a game about smashing crawling on your face with a hammer:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bgemill2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bgemill2.png" caption="" alt="" %}{:target="_blank"}
 
 Hit your eye with the hammer? You lose an eye and the game! Too many ants? Well…
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bgemill3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bgemill3.png" caption="" alt="" %}{:target="_blank"}
 
 Honestly, the itch.io page for this game is more interesting than the game itself. It has a whole atmosphere to it: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bgemill4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/bgemill4.png" caption="" alt="" %}{:target="_blank"}
 
 Wish the game adopted any of this texture and unease. 
 

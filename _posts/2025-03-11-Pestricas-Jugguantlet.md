@@ -10,7 +10,7 @@ permalink: /day-315
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/juggle1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/juggle1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 

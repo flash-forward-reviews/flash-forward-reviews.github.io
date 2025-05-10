@@ -10,13 +10,13 @@ permalink: /day-293
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/stmtg1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/stmtg1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 For a game with such a shitpost title, it’s kind of lit. You have a truck, it moves fast, and you have to make it move faster. Don’t move fast enough, truck explodes. After each round you can buy upgrades to make truck move even more fasterer. Move the fastererest and you win the game. It’s simple, but sometimes I just want to see shit go fast. This is an excellent high-school-computer-lab game. Remember when we all became hackers using proxies to access addictinggames.com?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/stmtg2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/stmtg2.png" caption="" alt="" %}{:target="_blank"}
 
 I was done with my review, but I realized I forgot to mention that the animations are cute!!
 
