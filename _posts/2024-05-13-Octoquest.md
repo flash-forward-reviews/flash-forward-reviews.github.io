@@ -10,7 +10,7 @@ permalink: /day-13
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo1.png" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -20,23 +20,23 @@ Okay after googling, there is actually no information on this game at all, so I�
 
 Octoquest is a clunky platformer with an original NES Zelda overworld, except each temple takes you to a different NES Mario style level.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo2.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo2.jpg" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo3.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo3.jpg" caption="" alt="" %}
 
 It’s possible I’m just being an asshole here, but everything from the amateur music, to the constant drug humor, to the parodying of old classics, to implying some deeper narrative as the game goes on for some reason, just screams school project. 
 
 It has that lol-random humor of someone who doesn’t give a shit:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo4.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo4.jpg" caption="" alt="" %}
 
 But then right after you’ll collect a mushroom and it will try to lore dump about a the story beyond the platforming:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo5.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo5.jpg" caption="" alt="" %}
 
 This flip-floppery between who-cares and I-really-care gives off the strong feeling of something a dev wanted to give full focus to, but several times along the way had to say “fuck-it” and just finish. It’s functional, hell it’s even got a fully fleshed out skill tree system, but all the movement feels excessively sticky. Enough effort was put in to create systems, but not enough to make them feel good.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo6.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo6.jpg" caption="" alt="" %}
 
 All this combined with the immature attempts at being “trippy” make the funny octopus game oddly lack any personality. When we reviewed Pig, that was obviously someone learning to make a game, but even then, the choose-your-own-adventure style silliness lent that little project a tone that I can remember. I feel like I understand the creator of that game a little bit. The only thing I understand about whoever made this game is they’ve played Zelda, they’ve played Mario, and they are not as funny or clever as they think they are.
 
@@ -61,13 +61,13 @@ With the exception of  when you go in caves; then it’s NES Super Mario Brother
 
 Let’s play a couple rounds of spot the difference:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo7.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo7.jpg" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo8.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo8.jpg" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo9.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo9.jpg" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/octo10.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/octo10.png" caption="" alt="" %}
 
 Can you tell me what’s different between these photos? 
 If you said “Octopus” are correct! (I’d give you a couple points if you noticed they moved one of the question mark boxes up and to the right a little bit. Or that they added a sign.)

@@ -10,7 +10,7 @@ permalink: /day-103
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,46 +20,46 @@ Today’s Game, “Zapped: Listen and Obey” is no different, but somehow manag
 
 I’ve never seen or heard of Zapped, and while I didn’t really watch Disney channel as a child, I’m thinking this show was made well after my time. My biggest indicator of this is a young Zendaya:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped2.png?raw=true" caption="If this isn’t Zendaya, I’m going to look like a real putz." alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped2.png" caption="If this isn’t Zendaya, I’m going to look like a real putz." alt="" %}{:target="_blank"}
 
 I’m assuming this must have been a show she worked on before launching into super-stardom. 
 Hell, I’ve also always wondered how Ben Shapiro rose to popularity, but I guess that mystery is solved too:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped3.png?raw=true" caption="If this isn’t Ben Shapiro, I’m going to look like a real putz." alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped3.png" caption="If this isn’t Ben Shapiro, I’m going to look like a real putz." alt="" %}{:target="_blank"}
 
 Before we get into any “gameplay”, Zapped: Listen and Obey has a short backstory section that is not only as concerning as the title of the game itself, but also seems to have been written by some 50 year old dude who was sipping on plastic-bottle brandy at 3 AM the night before this “game” was released:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped4.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped5.png?raw=true" caption="Boys - AMIRITE? How do you do, fellow kids?" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped5.png" caption="Boys - AMIRITE? How do you do, fellow kids?" alt="" %}{:target="_blank"}
 
 Zoey (played by Zendaya, I’m assuming) doesn’t like the stinky boys, she wants the cool boys. Thankfully, her super badass bedazzled pink smartphone comes with a magic app called “Listen and Obey” (no bad implications from that name), which allows her to shoot electroshock therapy orbs at all the gross-ew-gross boys in her school and forcefully change them into her idea of what a cool boy is - “more thoughtful, behaved, and better versions of themselves! We promise this is for their own good!”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped6.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped7.png" caption="" alt="" %}{:target="_blank"}
 
 In Zendaya’s school, there are only a couple variations of boys that roam the halls - we have:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped8.png?raw=true" caption="ipad baby!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped8.png" caption="ipad baby!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped9.png?raw=true" caption="stupid fucking nerd!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped9.png" caption="stupid fucking nerd!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped10.png?raw=true" caption="Mr. BO Head" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped10.png" caption="Mr. BO Head" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped11.png?raw=true" caption="And Stay Golden, Ponyboy!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped11.png" caption="And Stay Golden, Ponyboy!" alt="" %}{:target="_blank"}
 
 There are probably a few different variations of the insipid “boy”, but I didn’t play past “Level 2” so this is what we got!
 
 Thankfully, with the power of electro-shock therapy, Zendaya manages to transform these stinky boys into the ideal school partners! With her magic ability, the lame boys become cool - now we have:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped12.png?raw=true" caption="Book Reader (not a nerd, actually cool)" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped12.png" caption="Book Reader (not a nerd, actually cool)" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped13.png?raw=true" caption="Guy who wears sunglasses indoors! (very cool, look at how much he doesn’t care about wearing sunglasses indoors!)" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped13.png" caption="Guy who wears sunglasses indoors! (very cool, look at how much he doesn’t care about wearing sunglasses indoors!)" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped14.png?raw=true" caption="Uhh… Smile guy? This guy is smiling! Yeah, Smiling is super rad and not uncool! Wow!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped14.png" caption="Uhh… Smile guy? This guy is smiling! Yeah, Smiling is super rad and not uncool! Wow!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped15.png?raw=true" caption="Nausea Man! Is he sick because he rode a really fast roller coaster, flew in a plane, or ate some bad sushi? We’ll never know! But Nausea Man is eternally nauseous now, and that’s super hip and cool!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped15.png" caption="Nausea Man! Is he sick because he rode a really fast roller coaster, flew in a plane, or ate some bad sushi? We’ll never know! But Nausea Man is eternally nauseous now, and that’s super hip and cool!" alt="" %}{:target="_blank"}
 
 Take that boys! Us cool girls aren’t going to tolerate you anymore! Instead, we are going to use magic and Bewitch this shizzle to make these boys more tolerable! I for one love to share a space with someone that’s always on the verge of vomiting!
 
@@ -77,7 +77,7 @@ You click on people as they run by, hit them with a laser and that turns them in
 
 There is one thing I can do that Skeeter can not though, and that is endure trash for an extended period of time. This is me trying to put a positive spin on the fact that I beat Zapped: Listen & Obey.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/zapped16.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/zapped16.png" caption="" alt="" %}{:target="_blank"}
 
 I think this is the best TV-slop game of the 3 we played this week. It’s not dogshit Pack-Man (pun intended) and it’s not Squelch-core Operation, so it’s more by default than anything.
 

@@ -10,7 +10,7 @@ permalink: /day-221
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/blasmel1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/blasmel1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 

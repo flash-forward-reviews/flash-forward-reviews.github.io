@@ -10,7 +10,7 @@ permalink: /day-182
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -26,7 +26,7 @@ I had a fun time with the real-time format for yesterday, and since this is the 
  
 04:30 - Well, this isn’t starting out the way I was expecting. There are two science nerds in a building talking about the virus they unleashed on the city. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet2.png" caption="" alt="" %}{:target="_blank"}
 
 They claim it’s for the “greater good”, but that seems dubious. 
 Blue Hair doctor has the same shade of blue as our protagonist and has a kid that goes to school in the city. There isn’t a shred of doubt in my mind that this is the parent of ABC (which I’m just realizing was supposed to be an acronym for “Annoying Complainy Boy” which would be “ACB” not “ABC”, but it’s too late to change my past. We’re just going to have to move past this).
@@ -35,11 +35,11 @@ Blue Hair doctor has the same shade of blue as our protagonist and has a kid tha
 
 11:57 - We are back where we left off yesterday with the protagonist and her sister running away from a fire the player character (ABC) started. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet3.png" caption="" alt="" %}{:target="_blank"}
 
 17:26 - I failed the Warioware mini-game for this screenshot:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet4.png" caption="" alt="" %}{:target="_blank"}
 
 19:25 - The door is locked lol, they are so fucked. 
 
@@ -49,7 +49,7 @@ Blue Hair doctor has the same shade of blue as our protagonist and has a kid tha
 
 25:00 - ABC doesn’t want to look for a way out of the burning building because of his twisted ankle. I’m flipping to Team Sora. She’s the true voice of the audience: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet5.png" caption="" alt="" %}{:target="_blank"}
 
 27:00 - It seems the janitor closed up early, because every friggin door in this school is locked. 
 
@@ -57,15 +57,15 @@ Blue Hair doctor has the same shade of blue as our protagonist and has a kid tha
 
 30:40 - I’m an idiot, turns out it was just for who was going first.  We all in here. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet6.png" caption="" alt="" %}{:target="_blank"}
 
 32:20 -
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet7.png?raw=true" caption="#TeamSora" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet7.png" caption="#TeamSora" alt="" %}{:target="_blank"}
 
 33:45 - What do you reckon this says?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet8.png" caption="" alt="" %}{:target="_blank"}
 
 “I AM KIRA”? 
 
@@ -79,31 +79,31 @@ Blue Hair doctor has the same shade of blue as our protagonist and has a kid tha
 
 43:25 - CAUSE THIS IS THRILLER, THRILLER NIGHTS. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet9.png" caption="" alt="" %}{:target="_blank"}
 
 45:24 - Badass Bow-Wielding Teacher was not on my bingo list
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet10.png" caption="" alt="" %}{:target="_blank"}
 
 47:05 - Virus started at the school? Wonder if ABC did something unwittingly. 
 
 48:00 - ABC is brainstorming again. Have we learned nothing???
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet11.png" caption="" alt="" %}{:target="_blank"}
 
 49:41 -
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet12.png" caption="" alt="" %}{:target="_blank"}
 
 50:19  - TEACHER GOT BIT. I REPEAT, TEACHER GOT BIT. I THINK WE JUST ACQUIRED A NEW BOW BUT LOST A TEACHER. GOOD TRADE.
 
 51:20 - A roof key?? What about the fucking weapon?? GIVE US THE WEAPON!!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet13.png" caption="" alt="" %}{:target="_blank"}
 
 53:04 - 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet14.png" caption="" alt="" %}{:target="_blank"}
 
 Great. She just created a zombie with a bow. That’s a new genotype of zombie we aren’t ready for. 
 
@@ -125,11 +125,11 @@ I think I found the specific references the main character made yesterday more f
 
 BRO
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet15.png" caption="" alt="" %}{:target="_blank"}
 
 FUCKING HOW?!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet16.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet16.jpg" caption="" alt="" %}{:target="_blank"}
 
 It’s the same game except the minigames are much harder to immediately understand. I had to retry most of them, but it’s not a huge problem. It almost turns it into a puzzle game, which also happens in a chapter of Alula Falling...
 
@@ -139,7 +139,7 @@ The game is still painfully earnest, and I have to respect it for that. I share 
 
 Anyway, here is the funniest line from this episode IMO, said after the teacher pulls out a bow and starts fucking shit up:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet17.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/2dedet17.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Nope**
 

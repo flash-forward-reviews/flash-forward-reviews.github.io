@@ -10,7 +10,7 @@ permalink: /day-276
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -31,7 +31,7 @@ Ladies and Gentlemen of the jury, while I too was tempted by the sins of the fle
 
 That being said, holy shit ,why didn’t we do this sooner? Is this an untapped goldmine? 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast2.png" caption="" alt="" %}{:target="_blank"}
 
 Alright, so you’re probably thinking “What am I looking at?”. And yeah, I agree. 
 
@@ -41,13 +41,13 @@ That’s it! Neat!
 
 They have a jump animation where the giant fucking blimps on their asses jump up and down like those huge Hop Balls: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast3.png" caption="" alt="" %}{:target="_blank"}
 
 It is the most ridiculous thing I’ve ever seen. It’s hard to put into words how floaty the cheeks are - you know when you shake a plastic bag out, and as you’re bringing your hands down to fill it with air, it sort of floats down behind them. That’s the cheeks. Picture the plastic bag in your hands as those big ol’ cheeks. 
 
 The air balloons don’t attack you or pose a threat. They just jump in place so the Hindenburgs will bounce around, which makes it even stranger that the player is supposed to kill them with a Nerf blaster to progress to the other stages. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast4.png" caption="" alt="" %}{:target="_blank"}
 
 I’m just having a hard time wrapping my head around who would find this “sexy” - no shame if you do, like what you like. However, the absurdity of it all had me giggling throughout - the absolutely freakish proportions, the half-inflated balloon jiggle physics. It’s all so from resembling anything human. I have a hard time finding the appeal in something that looks like it had a [Balloon Buddy](https://theballoonbuddy.com/){:target="_blank"} involved in its evolution process. I can’t seem to shake the big asses bobbing up and down from my mind. It’s haunting me. It feels more like a surreal recurring nightmare than a wet dream. I fear I’ve gazed upon something that has left a permanent scar on my memory bank. 
 
@@ -55,11 +55,11 @@ Just remember folks, this is all Sam’s fault, not mine. He hath cast the first
 
 If you have any complaints you can email Sam at skeeteronthemic@gmail.com 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast5.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast6.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast7.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
@@ -71,9 +71,9 @@ If you have any complaints you can email Sam at skeeteronthemic@gmail.com
 
 Bro my gpu was working overtime to render the final boss’ jiggle physics:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast8.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ballblast9.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Yea, great GPU stress test**
 

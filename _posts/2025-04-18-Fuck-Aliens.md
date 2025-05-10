@@ -10,13 +10,13 @@ permalink: /day-353
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 After yesterday’s game, “[Fuck Magicians](https://flash-forward-reviews.github.io/day-352){:target="_blank"}”, I fully know what to expect with “Fuck Aliens”. Listen, I’m a fan of the Mass Effect series, so I’m certainly not above it. Now let’s see what sexy alien xenomorph babes await us in “Fuck Aliens”: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal2.png?raw=true" caption="Oh" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal2.png" caption="Oh" alt="" %}{:target="_blank"}
 
 **Recommend: It’s serviceable, the gameplay is decent, the aliens are sexy, but damn is it super frustrating trying to enter any door horizontally.**
 
@@ -28,7 +28,7 @@ After yesterday’s game, “[Fuck Magicians](https://flash-forward-reviews.gith
 
 Only alien I would fuck:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/fuckal3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: I’m sorry that every review is just an inside joke now**
 

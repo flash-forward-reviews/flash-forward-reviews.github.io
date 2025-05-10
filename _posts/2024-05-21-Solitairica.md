@@ -10,7 +10,7 @@ permalink: /day-21
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -24,14 +24,14 @@ How’s it… How’s it going? (don’t mention Balatro)(don’t mention Balatr
 You start with a deck of cards(DMB) and your goal is to remove all of the enemies cards. It’s much like that game you always see your grandmother run off to play after she asks you to play cribbage with her but you say, “No, I have to go play (DON’T MENTION BALATRO) a video game a day and write about them with my friend, Grandma, gorsh you are making me look so uncool!”
 Anyway, here’s what the board looks like:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol2.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol2.jpg" caption="" alt="" %}
 
 I’ll give you a quick example of play - You can see in the screenshot above me that I have a Jack in front of me. I could use that Jack to remove one of the two Queens, the Queen would be removed from the board and placed into my hand where the Jack was. If I got lucky, there would be a King or another Jack behind the removed Queen, and I would be able to play the Queen I just received on one of those cards, and then use that card to remove the remaining Queen - Hopefully I didn’t lose you here. Let’s just say I’m not the go-to guy for when someone needs a set of board game rules read. If I was unlucky I wouldn’t be able to match the Queen with anything, and would need to draw a card. Each time I draw a card, the enemy gets to take a turn. They can attack, add cards, and mess with the board in various other ways. If they attack too many times and I lose all my health, then the run ends. 
 Some keen-eyed readers may have noticed the symbols underneath each card, I picked a bad example above because nearly every card in the screenshot is gold, but look at the Jack with the Blue Shield. This Shield corresponds to the blue shield in the “mana pool” in the bottom right. Each time I remove a card from the enemy, or play a card from my deck (more on this in a second), that card’s icon will add corresponding mana to my mana pool (Ax symbol gives Orange Ax Mana, Green Boots give Green Boots Mana, etc. etc.) 
 This mana pool allows you to cast your spells (left hand side of the screen) each spell will have a specific color mana cost and usually has its own tactic associated with it. For example, the ax spells tend to remove cards from the enemy board, and the green boot spells tend to give information by revealing hidden cards in your hand or on the enemy board.
 Your goal is to defeat the enemies in your path - you don’t get a choice of path like (don’t mention Slay the Spire) other games, it’s just a static, single path. In between each enemy you can enter the shop and buy items and new powerful spells. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol3.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol3.jpg" caption="" alt="" %}
 
 I actually had a pretty good time with this (don’t mention Balatro). It took me three runs for it to really click, but once it did, I started having some fun. 
 I mean it’s… (don’t mention Balatro)(don’t mention Balatro) not going to be my go to card based Roguelike Deckbuilder (DON’T MENTION BALATRO)(DON’T MENTION BALATRO) but it’s different enough that I could definitely see me playing this on a slow day of work (JUST KIDDING EMPLOYERS). 
@@ -57,7 +57,7 @@ FUCK!
 
 What we lose in depth by reviewing one game a day however, we do gain back in breadth, and playing even just a bit Solitairica really brought the flaws of Night of Full Moon into clearer focus, because to my pleasant surprise, Solitairica gives a great first impression with its gameplay. I did two full runs of Solitaricia. The first was just trying stuff out, my deck didn’t really have a gimmick, but on run number two I saw this spell:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol4.png" caption="" alt="" %}
 
 I thought this looked interesting, so I removed all spells that used willpower, took every item that gave me more willpower and armor, and based my strategy around getting an early cast of this to get a big armor boost early on, letting me be more greedy with future plays.
 
@@ -67,13 +67,13 @@ There’s an interesting mechanic where you can look at what monster you will be
 
 Honestly the biggest point of failure in Solitairica is the presentation. First of all the name sucks. It’s awkward to read and I spell it wrong every time. The music feels very cheap and generic, and the art isn’t terrible, but doesn’t give the game a super clear direction. It seems cute and funny, but the music attempts a more serious grandiosity. It’s a bit confused.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol5.png" caption="" alt="" %}
 
 But strangest of all, while the music plays in shops and menus, the moment the actual card battling starts: no music. None, I’ve never seen (or rather heard (or rather NOT heard)) anything like this. The quiet flipping of cards and spell sound effects sound so empty. It was unsettling enough that I was starting to feel like I have to put on Youtube in the background or something to stay sane. Honestly this is the kind of game where I would eventually mute all music and Youtube to it anyway, so it’s not a deal breaker, but it adds to the cheap feeling of the game’s aesthetics. 
 
 One more petty presentation complaint. On my second more fun run where I purposefully cut willpower spells from my toolkit, I got this popup after every menu:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/sol6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/sol6.png" caption="" alt="" %}
 
 While I appreciate that this is probably a good failsafe warning for most decks, you have a spell designed around an alternate use for willpower, so why is there no setting or “don’t remind me again” checkbox? Lots of strange little quirks that make the game seem like a cheaper product than it really is.
 

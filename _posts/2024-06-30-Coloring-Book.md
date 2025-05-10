@@ -10,15 +10,15 @@ permalink: /day-61
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/coloring1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/coloring1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Here’s a “Before and After” of the coloring I did in Coloring Book:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/coloring2.png?raw=true" caption="Before" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/coloring2.png" caption="Before" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/coloring3.png?raw=true" caption="After" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/coloring3.png" caption="After" alt="" %}{:target="_blank"}
 
 You might notice the empty white and gray spaces all over the colored page. For some unfathomable reason, you cannot color these spots in. Yes, this includes the messy edge job on the right side of the screen, the space inbetween the tubes, and the edge of the backpack. I am so disappointed that in a game who does one thing can’t even get that right. 
 

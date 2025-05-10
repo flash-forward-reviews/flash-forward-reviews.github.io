@@ -10,7 +10,7 @@ permalink: /day-294
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -22,7 +22,7 @@ THEY SAID IT COULDN’T BE DONE
 
 BUT IT’S TIME TO LOOK UPON THE FACE OF GOD:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw2.png" caption="" alt="" %}{:target="_blank"}
 
 Puzzling Wild IQ Test? We’re playing it.
 
@@ -52,11 +52,11 @@ PAUL BIRD WEEK LET’S FUCKING GOOOOOOOOOOOOOOOOOOOOOO!
 
 Uh-oh…
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw3.jpg" caption="" alt="" %}{:target="_blank"}
 
 It’s finally happening… 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/pbw4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: PAUL BIRD WEEK**
 

@@ -10,13 +10,13 @@ permalink: /day-324
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 I’m not too familiar with Greek mythology outside of what Hades taught me (AKA the gods be hot), but I’m able to recognize that “In the House of Asterion” is about that Minotaur fucker who always seems to end my runs: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa2.png" caption="" alt="" %}{:target="_blank"}
 
 The description for this game mentions it’s based on a book by Jorge Luis Borges. I didn’t research further. All I know about the original Greek myth is there is a minotaur in a labyrinth, and Theseus has something to do with it. I think he might have trapped the minotaur in the labyrinth but I honestly have no clue. Theseus also has that ship people won’t shut up about.
 
@@ -24,19 +24,19 @@ The gameplay focuses on the minotaur as he roams the halls of his “home”, wh
 
 However, it didn’t matter that I wasn’t catching every reference. The objects mostly provided insight into our main character, the Minotaur, and his sad, pathetic life. He wanders around the empty labyrinth, waiting for the day for someone to come and visit him again. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa3.png" caption="" alt="" %}{:target="_blank"}
 
 Look what happened to the last visitor: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa4.png?raw=true" caption="NSFW" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa4.png" caption="NSFW" alt="" %}{:target="_blank"}
 
 I just so happened to find the Minotaur to be extremely relatable: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa5.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa6.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa7.png" caption="" alt="" %}{:target="_blank"}
 
 I really felt for this little half-man, half-bull, yellow-pixel creature. He lives such a miserable and pathetic life, but he is either ignorant to it, or trying to make the best of it, and that makes him damn endearing.  Minotaur should get his own movie and kick off a new wave of “Literally Me” cinema — I’d be the first in line.
 
@@ -46,17 +46,17 @@ The screen fades to black.
 
 The player now has control of the visitor, and he follows and gobbles up this big old spaghetti noodle laying on the ground: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa8.png?raw=true" caption="Noodle was later identified as “golden thread”" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa8.png" caption="Noodle was later identified as “golden thread”" alt="" %}{:target="_blank"}
 
 The noodle leads the visitor back to one of the entrance doors, where he says: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa9.png" caption="" alt="" %}{:target="_blank"}
 
 Wait, *that’s* how the story ends?!
 
 NOOOOOOOOOOOOOOOOOOOOOO!!!!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa10.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Maybe yes? Maybe the book it was based on?**
 
@@ -70,7 +70,7 @@ In terms of little games made by some guy that we’ve randomly played for this 
 
 There’s a whole thing about him imagining another version of him that has never seen the house. He excitedly shows this fake other version of himself around, excitedly explaining what happened to the last guy who visited, or how he doesn’t want to go out any of the doors. It’s pathetic. He even mentions that he can leave at any time. He’s trapped mentally, not physically.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ithoa11.png" caption="" alt="" %}{:target="_blank"}
 
 I’m all about the sad bull-man game.
 

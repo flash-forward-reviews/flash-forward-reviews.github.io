@@ -10,15 +10,15 @@ permalink: /day-197
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 I was doing my daily grime-crawl search through the new game section on itch.io when I noticed something peculiar: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets3.png?raw=true" caption="Damn, I think I might have overlooked “My Family Made This Game”. Looks like a banger." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets3.png" caption="Damn, I think I might have overlooked “My Family Made This Game”. Looks like a banger." alt="" %}{:target="_blank"}
 
 That’s right folks - it’s Class Submission time again! This time - we look at three identical projects!
 
@@ -28,21 +28,21 @@ Let’s see how they did!
 
 **Space Pests:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets4.png" caption="" alt="" %}{:target="_blank"}
 
 Did not load in the browser - trying to download currently to see if I can get it running. 
 
 Download worked!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets5.png" caption="" alt="" %}{:target="_blank"}
 
 There are two mobs here. I have no frame of reference for what the original mob was, but since there are two I’ll say “Pass!”. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets6.png" caption="" alt="" %}{:target="_blank"}
 
 Those are technically props! No idea what the hell these things are, but they were definitely added! So, “Props” to that!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets7.png" caption="" alt="" %}{:target="_blank"}
 
 And that is a smoke effect! Good job! Your project isn’t all smoke and mirrors! 
 
@@ -50,17 +50,17 @@ I give Space Pests a “Pass” - good luck on the project!
 
 **3D FPS (by Shy!):**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets8.png" caption="" alt="" %}{:target="_blank"}
 
 Game loaded in browser - bonus points!
 
 As far as I could tell, there was no added music. The song remains the same (Led Zeppelin) as the song in Space Pests. I give this point an “EPIC FAIL”. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets9.png" caption="" alt="" %}{:target="_blank"}
 
 I can’t tell if these are new textures or just different shading. I suppose it does change the game “environment” a bit - I’ll give it a pass. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets10.png" caption="" alt="" %}{:target="_blank"}
 
 I found more of whatever these green octopus things are  - thinking Space Pests didn’t add these as props now. Mistakes are a part of the discovery process! I should retract points, but I’ve already graded. 
 
@@ -72,7 +72,7 @@ I give this project an “EPIC FAIL”. Good luck on your submission!
 
 **3D FPS (by BIGBUCKEYY):**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets15.png" caption="" alt="" %}{:target="_blank"}
 
 There are no new levels. 
 
@@ -84,9 +84,9 @@ I am just now realizing my own idiocy. As I went through these three submissions
 
 That’s when I realized I somehow overlooked a few very important words in two of the descriptions.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets11.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets12.png" caption="" alt="" %}{:target="_blank"}
 
 Ahh, these are intended modifications. These haven’t been implemented yet.
 
@@ -104,11 +104,11 @@ So many questions. Only one answer stands out clearly to me - I shouldn’t ever
 
 Skeeter two days ago:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets13.png" caption="" alt="" %}{:target="_blank"}
 
 Skeeter today:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/spacepets14.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Someone learned to use Unity engine, great for them.**
 

@@ -10,13 +10,13 @@ permalink: /day-40
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky1.png" caption="" alt="" %}
 
 ## Sam's Take:
 
 You move a ship and press the mouse button to abduct cows. The only good thing about this game is if you move past a cow with your tractor beam on (pressing and holding the mouse button) the cow will move towards your ship, but won’t disappear and become fully abducted until it reaches you. This means you can run away from the cows being abducted, which leads to this excellent screenshot:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky2.png" caption="" alt="" %}
 
 Other than providing me with my new laptop background, this game doesn’t have much value. It was made in 72 hours for a game jam, so credit where credit is due, it’s playable. Like all of these game jam games, it wasn’t meant to be reviewed in this way. This is my fault.
 
@@ -31,7 +31,7 @@ Other than providing me with my new laptop background, this game doesn’t have 
 I first played through Milky for the Way without noticing the timer in the upper right corner. I was just wandering around abducting cows and crops wondering what the point of the game was. 
 I was pretty surprised when the game over screen appeared and notified me of the total points in the level:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky3.png" caption="" alt="" %}
 
 Alright, so it’s a time trial game. I did pretty well my first play through, so I figured I would go for the max points and post a screenshot to brag to all my friends. 
 
@@ -45,7 +45,7 @@ I had done it. I had cleared everything.
 
 I excitedly awaited my end screen:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky4.png" caption="" alt="" %}
 
 Wait a second! 4468 points?? 4468? That’s not 4518! What happened? 
 
@@ -57,19 +57,19 @@ I slithered out into the farm, to right my wrongs and put my doubts to rest.
 
 And that’s when I found her: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky5.png" caption="" alt="" %}
 
 The cow that crushed my dreams. 
 
 I did what any sane alien would do in my position, I slowly floated over her stupid black and white body, and hoover-d that heifer right on up.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky6.png" caption="" alt="" %}
 
 Hey, wait a second:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky7.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky7.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky8.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky8.png" caption="" alt="" %}
 
 Ehh, close enough. 
 
@@ -79,6 +79,6 @@ Ehh, close enough.
 
 **Time Played: 28:53**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/milky9.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/milky9.png" caption="" alt="" %}
 
 {% include button.html text="Link to Game" link="https://horneater.itch.io/milky-for-the-way" %}

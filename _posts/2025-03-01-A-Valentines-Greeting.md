@@ -10,7 +10,7 @@ permalink: /day-305
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,11 +18,11 @@ Yesterday, after our last minute panic to get our review out around midnight, Sa
 
 And not just any Game Jam: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree2.png?raw=true" caption="That’s right! We are that uncreative and unoriginal!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree2.png" caption="That’s right! We are that uncreative and unoriginal!" alt="" %}{:target="_blank"}
 
 And it was hosted by none other than Mr. Newgrounds creator himself: Tom Fulp!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree3.png" caption="" alt="" %}{:target="_blank"}
 
 My head cannon is he found a shitty review blog website and somehow felt inspired. I looked through his other jams, and this appears to be the first time he’s used this title for a game jam (as far as I could tell, it was puddle deep research). Plausible? No. But it’s my fantasy and I won’t compromise. 
 
@@ -31,17 +31,17 @@ Which brings us to today's game/animation!
 
 A Valentine’s Greeting starts off with an image of a heart with eyes staring blankly at the player. The heart exclaims “Happy Valentine’s Day!” in its best Microsoft Sam voice.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree4.png?raw=true" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree4.png" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
 
 The heart shrinks into the background as the following text appears on the screen: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree5.png?raw=true" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree5.png" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
 
 The uncanny nature of the soul-staring heart combined with the rough animations and stock sound effects really brings this package together. It’s hard to describe why something is funny, but the unintentional timing really helps drive the accidental joke home.
 
 Is A Valentine’s Day Greeting “good”? How could I even qualify the “good” of something like this? This is clearly an animation somebody used to learn: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree6.png?raw=true" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/valgree6.png" caption="Happy Valentine’s Day!" alt="" %}{:target="_blank"}
 
 How am I supposed to judge when I did nearly the exact same thing to learn some video editing  during our last project 9 years ago? 
 

@@ -10,11 +10,11 @@ permalink: /day-286
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/peengus1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/peengus1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/peengus2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/peengus2.png" caption="" alt="" %}{:target="_blank"}
 
 Look, there’s a lot going on here, but we can just filter it all down. Do you think it’s funny that the dev spelled game “GYAAme” on the loading screen? Do you think it’s funny for the entire minute it takes to load? If not, then you probably won’t think the rest of the game is funny either. I know I didn’t.
 

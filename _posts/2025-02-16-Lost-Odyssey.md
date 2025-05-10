@@ -10,7 +10,7 @@ permalink: /day-292
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -22,13 +22,13 @@ To answer this question, we must first discuss Jansen.
 
 Jansen is a borderline game-ruining trainwreck of a character. If you replaced his character model with Bethesda’s default missing texture and all of his voice lines with antidepressant disclaimers, it would improve the game substantially.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey2.png?raw=true" caption="Ideal Jansen" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey2.png" caption="Ideal Jansen" alt="" %}{:target="_blank"}
 
 Jansen is supposed to represent the trope of an uncaring playboy who learns to love his friends and find redemption. They got halfway there, but forgot about the redemption. He starts the game as a wise cracking pervert, and ends the game as a wisecracking pervert who put a woman to sleep with magic to kidnap her. He feels the need to mumble a shitty joke during every emotional scene, lest we get a little too invested. He’s just shitty comic relief that the writers give everything to. Everyone learns to love him, he gets the girl in the end, and for what? He learns nothing, doesn’t improve and we’re just supposed to not notice.
 
 This leads me to my first qualifier, the ideal _Lost Odyssey_ player, must be a capital G gamer. They must want to be loved and respected without doing the work. They want the love of women, but not think too hard about why women might love them. A smarmy pervert who gets everything they want? Gamer shit. Windlenot (who wrote a review below) just said out loud (sarcastically), “They always make characters for Chads, but what about me?” This is the mindset. This is the way. This is the Gamer.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey3.png?raw=true" caption="GAMER SHIT" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey3.png" caption="GAMER SHIT" alt="" %}{:target="_blank"}
 
 Okay so we’ve narrowed it down to big G gamers, but to file it down more, we must answer the question: what the hell is _Lost Odyssey_, and why didn’t you answer this question before talking about Jansen? I will answer half of that question.
 
@@ -40,7 +40,7 @@ To make use of this system to its fullest, you will have to navigate THE MENUS. 
 
 And thusly we can narrow our _Lost Odyssey_ player a little more. They must be a GAMER and an INTELLECTUAL. The patience to sit through menus, and feel the joy that in three fights, you will obtain the ability to use two items in one turn. The reasoning and resolution to lose a boss fight then calmly say “A-ha, we must move Seth to the back row, and spend all our buffs on Kaim to secure this victory!” The ideal player must, like our playgroup, possess huge and intimidating brains.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey4.png" caption="" alt="" %}{:target="_blank"}
 
 There is yet another element to _Lost Odyssey_ that can help us out in our quest to understand its players, the story. Calling _Lost Odyssey_’s story a mess is both true and unfair. There is more shoved into this game than I could possibly hope to outline in a daily review. There are immortals that are sad because life has no meaning without death. There are mortals that are sad because they have to live in a world with Jansen. There are corrupt governments, wars, a thousand year past told via the medium of text. Sometimes our brooding protagonist Kaim will see something that reminds him of that time he bought shoes or some shit, and we’ll get a short story about the shoemaker’s pathetic life and the fuckin baller shoes they made. 
 
@@ -48,7 +48,7 @@ These short story sections are all over the place. There’s one about Kaim help
 
 The highs are absurdly high, the lows are absurdly low, and so the ideal player must be forgiving of flaws. They need to see the best in something they like and be willing to forgive some extreme narrative jank.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey40.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey40.png" caption="" alt="" %}{:target="_blank"}
 
 So where do we find this forgiving, intellectual gamer? I think the answer is very simple.
 
@@ -81,17 +81,17 @@ What I do feel equipped to do is respond to a few reviews that were written when
 * “_Lost Odyssey_: The heart may be strong, but it needs a solid mind to guide it” from [GamePro, Issue 236](https://archive.gamehistory.org/item/531234a9-b59b-438f-8f79-90d23eaaf5b6){:target="_blank"} (pg. 76-77)
 * “_Lost Odyssey_: From here to eternity” from [_Official Xbox Magazine_, Issue 82](https://archive.gamehistory.org/item/6a62b216-2de3-4ddc-934d-3ba72f938812){:target="_blank"} (pg. 68-69)
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey32.png?raw=true" caption="From Gamepro" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey32.png" caption="From Gamepro" alt="" %}{:target="_blank"}
 
 ### A conventional game with “straightforward gameplay”?
 
 I was honestly shocked at how many reviewers called _Lost Odyssey_ a conventional game. Reviews mention that the game “doesn't attempt to find a middle ground between convention and innovation; it sides with convention all the way” (_Game Informer_) and that it “doesn’t break boundaries” (_Electronic Gaming Monthly_). Reviewers also describe _Lost Odyssey_ as having “straightforward gameplay” (_Official Xbox Magazine_) and “exceedingly traditional combat” (_Electronic Gaming Monthly_).
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey33.png?raw=true" caption="From Electronic Gaming Monthly" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey33.png" caption="From Electronic Gaming Monthly" alt="" %}{:target="_blank"}
 
 I haven’t played a ton of JRPGs, but to me, _Lost Odyssey_ was far from ‘conventional’ and its combat and gameplay seemed pretty innovative. Managing the menus was certainly not a straightforward task (I’m sure Windlenot can attest to this the most as the true capital ‘G’ Gamer who controlled the game during our playthrough).
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey34.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey34.png" caption="" alt="" %}{:target="_blank"}
 
 In terms of innovative gameplay, in _Lost Odyssey_, the immortal characters can adopt the skills of the mortal characters. I’ve never played a game where certain characters can learn skills from other characters in the party. I really liked this fresh take on combat strategy paired with character skill management. This gameplay mechanic also reflects one of the main themes of the game: immortal characters learning lessons from mortal human beings.
 
@@ -121,7 +121,7 @@ I almost focused my entire review on why Jansen sucks as a character. I would ha
 
 At least the reviewers were mixed on Jansen, with the _Game Informer_ reviewer writing an excellent caption that reads: “The biggest problem here isn’t the dinosaur headbutt. It’s the fact that Jansen is in the party. You should ditch that Dork of the Year candidate as soon as possible.”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey35.png?raw=true" caption="From Game Informer" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey35.png" caption="From Game Informer" alt="" %}{:target="_blank"}
 
 But sadly, one of the reviewers from _Electronic Gaming Monthly_ was clearly a Jansen fan. I threw up in my mouth a little when this reviewer referred to Jansen as “a scoundrel with a heart and a weakness for women, any woman.” Too many things about Jansen left a terrible taste in my mouth (like vomit, because I’m still throwing up thinking about him), from his questionable motivations for kidnapping Ming to his overt lack of even an ounce of character growth. We were all rooting for you to be redeemed, Jansen! We thought you had potential, and that is what makes it all worse! 
 
@@ -141,11 +141,11 @@ Gamble deals a random amount of damage to the enemy and it is hilariously overpo
 
 **2: How silly the characters look with their equipped gear during cutscenes**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey36.png?raw=true" caption="Kaim’s adorable cat ears really make this shot." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey36.png" caption="Kaim’s adorable cat ears really make this shot." alt="" %}{:target="_blank"}
 
 **3: Kaim’s toned lower back**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey37.png?raw=true" caption="Three angles of Kaim’s lower back. All glorious." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey37.png" caption="Three angles of Kaim’s lower back. All glorious." alt="" %}{:target="_blank"}
 
 **4: How you can figure out Ming is immortal from a menu screen** 
 
@@ -155,9 +155,9 @@ Because immortal characters can learn skills from mortal characters, we were abl
 
 There is a tutorial for everything, including a tutorial for escaping the sewers, a tutorial for paying respect to Kelolon statues, and at least five separate tutorials for piloting the various ships you acquire throughout the game.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey38.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey38.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey39.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey39.png" caption="" alt="" %}{:target="_blank"}
 
 **6: How much the experience of playing this game is improved by playing it with others** 
 
@@ -175,69 +175,69 @@ Thanks for playing it with me, boys! I doubt I would’ve finished it without yo
 
 Sam linked me to an RPG maker game called _Lost Odyssey_. It’s all in Spanish, of which I know very little. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey8.png" caption="" alt="" %}{:target="_blank"}
 
 So, instead of wasting any more of my already dwindling life on trying to remember words I learned in 11th grade Spanish class, I just looked at more funny Boxer Arcade machines from [primetimeamusements.com](https://primetimeamusements.com/){:target="_blank"}: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey9.png?raw=true" caption="Popeye the Sailor Man Boxer! Perfect for the nursing home!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey9.png" caption="Popeye the Sailor Man Boxer! Perfect for the nursing home!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey10.png?raw=true" caption="Family Friendly “Hit the Green” variant!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey10.png" caption="Family Friendly “Hit the Green” variant!" alt="" %}{:target="_blank"}
 
 Complete with FREE X-Box Kinect advertisement: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey11.png" caption="" alt="" %}{:target="_blank"}
 
 Lose all your money on the slots? Don’t worry, they’ve got just the thing for the gambling addict as well: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey12.png?raw=true" caption="Boxer Video Roulette! Coming to a Casino near you!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey12.png" caption="Boxer Video Roulette! Coming to a Casino near you!" alt="" %}{:target="_blank"}
 
 In fact they’ve got a whole selection no matter the occasion! You are guaranteed to find a Boxer Arcade machine correct for you!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey13.png?raw=true" caption="America!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey13.png" caption="America!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey14.png?raw=true" caption="The “Please-Don’t-Sue-Us-Disney”!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey14.png" caption="The “Please-Don’t-Sue-Us-Disney”!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey15.png?raw=true" caption="S E X E R" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey15.png" caption="S E X E R" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey16.png?raw=true" caption="MMA Boxer machine with green-haired Johnny Bravo and a distinctly “Suicide Squad” color and design theme. Uncle Sam is also there. The real question: Is Johnny Bravo’s hair green to make him more legally distinct, or is it to make him look more like the Joker?" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey16.png" caption="MMA Boxer machine with green-haired Johnny Bravo and a distinctly “Suicide Squad” color and design theme. Uncle Sam is also there. The real question: Is Johnny Bravo’s hair green to make him more legally distinct, or is it to make him look more like the Joker?" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey17.png?raw=true" caption="Guaranteed Tripping Hazard! (AKA “The Lawsuit”)" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey17.png" caption="Guaranteed Tripping Hazard! (AKA “The Lawsuit”)" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey18.png?raw=true" caption="I’m not sure this technically counts as it’s just the kicking portion and lacks any boxing function, but I just had to share what I’m dubbing “Put-Your-Coins-Into-My-Balls”. I’m also considering the name  “The Reverse Goatse.” I’m open to suggestions." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey18.png" caption="I’m not sure this technically counts as it’s just the kicking portion and lacks any boxing function, but I just had to share what I’m dubbing “Put-Your-Coins-Into-My-Balls”. I’m also considering the name  “The Reverse Goatse.” I’m open to suggestions." alt="" %}{:target="_blank"}
 
 Lastly, there’s the collection of creature-esque boxing arcade cabinets for all the freaks out there: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey19.png?raw=true" caption="Bradley_Dragon!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey19.png" caption="Bradley_Dragon!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey20.png?raw=true" caption="The masquerade-magician night sky mask thing!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey20.png" caption="The masquerade-magician night sky mask thing!" alt="" %}{:target="_blank"}
 
 And last, but not least! In the Blue Corner, representing Fort Lauderdale, Florida and weighing in at 254 pounds - You know him, you love him. Pull your punches together for BOXER DOG: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey21.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey21.png" caption="" alt="" %}{:target="_blank"}
 
 Wait, is that fucking Puss in Boots??
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey22.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey22.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey23.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey23.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey24.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey24.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey25.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey25.png" caption="" alt="" %}{:target="_blank"}
 
 **Time Played:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey26.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey26.png" caption="" alt="" %}{:target="_blank"}
 
 <br/>
 
 ## Guest Writer Dicegame's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey6.png?raw=true" caption="The Immortal Neuroplasticity Studies" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey6.png" caption="The Immortal Neuroplasticity Studies" alt="" %}{:target="_blank"}
 
 There are three worst-case scenarios for an immortal: being trapped underground, isolating yourself with  self-obsessed existentialism, and becoming god. _Lost Odyssey_ explores all of these. Seth is left for death in a cave and experiences a christ-like resurrection. A spirit appears and gives her the strength and clairvoyance to escape. Kaim develops the personality of drift-wood. He sells his mercenary labor out of boredom. Work that is constantly underpinned by his un-likeness to those around him. He becomes an agent of shadow only until a plot surrounds him that directly confronts his immortality. Gongora desires god-dom, but unlike the Good Queen Ming (who’s 1000 year reign is never questioned), he uses his powers for . . . what was it again? Unlimited control of the mortal world? So he can play Civilization 7 against himself? It probably has something to do with that goatee.
 
@@ -245,7 +245,7 @@ In any case: it’s probably good that we all have some form of term-limit in th
 
 The Immortal Sorrow Language Of _Lost Odyssey_ is explored mostly by Kaim, who’s lost memories are activated by conversations and actions in the world. Most memories explore some kind of conflict amongst mortals, of which Kaim becomes involved. Although his actions typically affect some change, they are subverted by his internal monologue. Kaim is obsessed with his own immortality. He waxes poetic about his inability to truly empathize or understand mortal lives. His life loses saturation as actions are reduced to drops in an ocean of experience. He becomes unable to exert agency, lacking real motives or goals. He “finds” himself in situations.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey7.png" caption="" alt="" %}{:target="_blank"}
 
 While Kaim is busy with his Skyrim Rogue build, the immortals around him amass power. _Lost Odyssey_ begins within the crescendo of Gongora’s life. As his rise to power presents an existential threat to all mortals, it also presents a solution to Kaim’s immortality. Of course, this solution, no matter how you cut it, is death. Kaim’s death wish isn’t even granted to him within the mechanics of battle. After reaching 0 HP, Kaim simply lays flat for 2 turns until resurrecting. Without spoiling things, _Lost Odyssey_’s plot attempts to color Kaim’s life in a way that may give him real meaning. It forces Kaim, The Thousand Year Drifter, to confront his existentialism and create meaning within his own life. I’m thinking he could’ve just learned an instrument or something! 
 
@@ -281,7 +281,7 @@ Kaim walks past a family sitting on the bench in the magical monorail station an
 
 We read this in a dark basement on a fall night and are overloaded with excitement. This Kaim is different than we had been exposed to yet it felt completely in line with his stoic personality. We know Kaim lost his memories, but now we know that he’s a man that has experienced change. We’re presented with evidence of who he had been and a menu that suggests there are dozens of these stories to find.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey27.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey27.png" caption="" alt="" %}{:target="_blank"}
 
 ———
 
@@ -291,7 +291,7 @@ _Lost Odyssey_ was released in the west in early 2008. If I had played it then, 
 
 My dad played a JRPG before me. Around this time, a student in his speech class constructed such a successful persuasive speech urging the classroom to play _Final Fantasy XII_. At the time, nobody had impressed upon me that this genre would be something that I would enjoy. I had no idea what these games had to offer because I had no interest in them. I saw them in stores and advertisements, but I didn’t have any connections with anybody that wanted to expose me to this world. For a long time, I believed JRPGs just weren’t my thing.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey28.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey28.png" caption="" alt="" %}{:target="_blank"}
 
 By the end of the first disc, maybe twelve hours in, Kaim is introduced to having a wife, a daughter, and grandchildren. He regains memories and openly expresses warmth to the family he’s discovered and sadness for the family he’s lost. A character I expected to carry the unwavering coldness of a man with nothing to lose for the majority of the game was expressing an emotional availability surprisingly quickly.
 
@@ -301,7 +301,7 @@ Kaim is a vessel undergoing constant change and growth. Each story represents a 
 
 While he has primary motivation throughout the story to protect his loved ones and stop the guy that wants to take over the world, all these additional stories contribute to a person acquiring experiences in his life without necessarily having a primary objective. What are the aspirations of a person who can live forever? What is it that Kaim wanted to do with his life? For years Kaim was a man without a clear motivation yet still accumulating bits of knowledge and memories of significance.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey29.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey29.png" caption="" alt="" %}{:target="_blank"}
 
 Ten years after the release of _Lost Odyssey_ and now in my early adulthood I found myself less invested in purely mechanical games and more interested in games that told stories about people. I sought after things that would feel like they would enrich my understanding of something. I wanted things that helped me understand where my motivation comes from.  I played _Persona 4_ and _Dragon Quest XI_. I read _Clannad_ and _White Album 2_. I powered through the by-the-numbers mundane beat-em-up gameplay of _Sakura Wars_ (2019) just so I could unlock the right to hang out with the squad. 
 
@@ -321,7 +321,7 @@ We all worked together to establish action plans on the more complicated fights,
 
 The combat areas brought necessary pacing breaks between the main story and its many text side-stories, but everyone was immediately engaged once story events kicked back in. The character moments I learned to value in these stories were accentuated by my connection to the real people sharing the same level of excitement.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey30.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey30.png" caption="" alt="" %}{:target="_blank"}
 
 Playing through _Lost Odyssey_ was a significant experience at this stage in my life. I’m not old by any means, but I think about my age a lot. I find myself constantly reassessing memories of my past and questioning how they contribute to my present motivations. I think a lot about who I want to be in the future and how I’ll look back on the person I am right now.
 
@@ -329,7 +329,7 @@ Kaim is a great protagonist because the stories of his past and the lessons he l
 
 My appreciation of _Lost Odyssey_ comes from more than just my time playing _Lost Odyssey_. I acquired a new thing I want to share with people and it brought upon a JRPG-like party with friends new and old. It wasn’t my favorite game played in 2024 but it’s more important to me than a “better” game would have. For now, it’s maybe the best I could have asked for in satisfying my desire that “I wish my friends played more visual novels.”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey31.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lostodyssey31.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Play _Lost Odyssey_ if you read my entire review**
 

@@ -10,23 +10,23 @@ permalink: /day-261
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 Love Story is a maze with Taylor Swift lyrics. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory2.png" caption="" alt="" %}{:target="_blank"}
 
 You control the man and the women simultaneously, which isn’t much of a challenge since it’s very easy to run either one of them against the wall due to the fact that they spawn on opposite sides of the map. 
 
 For me, a good majority of the time the “prince” would spawn in a location that was impossible to reach. The game would give me a quick text box that read something along the lines of “the prince couldn’t meet the princess! Oh no!”, then would regenerate another maze where the prince was trapped in the bushes: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory3.png" caption="" alt="" %}{:target="_blank"}
 
 If the player is lucky enough with the spawn and unlucky enough to have played through the end of this game, they are “rewarded” with more Taylor Swift lyrics. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/lovestory4.png" caption="" alt="" %}{:target="_blank"}
 
 Did I just pick this game as an excuse to share one of my favorite YouTube videos of all time? 
 

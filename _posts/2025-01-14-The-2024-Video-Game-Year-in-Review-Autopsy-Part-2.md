@@ -10,7 +10,7 @@ permalink: /day-259
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw1.jpg" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -49,7 +49,7 @@ She sort of convinces him to stay a bit longer, and eventually he gets swept up 
 
 As the game goes on, it becomes increasingly clear that Cloud cares. Cloud really cares. He’s got a good heart, he cares for his friends and wants to see the best for them, but he doesn’t want to show that. He tries to hide his emotions, but he’s terrible at it. He’s such a fun character, especially when juxtaposed against the two main love interests. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw2.jpg" caption="" alt="" %}{:target="_blank"}
 
 Tifa is strong willed, capable, a go-getter, runs her own bar, is clearly interested in Cloud and was a childhood friend of his. She’s kind, good with children, and uses kicks and punches in combat instead of a sword or magic or a gun. She’s fucking badass. It feels like the game is basically telling the player “Hey, check out this cool love interest! Wouldn’t you love to get to know her better?” 
 
@@ -59,7 +59,7 @@ Aerith (pictured right in the above photo) is more kooky and aloof than Tifa. Sh
 
 These are the two major players in the triangle, with the third obviously being Cloud. I appreciate that the game doesn’t do the obvious and have them bicker and fight between themselves over their obvious affection towards Cloud. They actually end up becoming good friends and bond over making Cloud uncomfortable, which they both seem to understand exactly how to get to him:  
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw3.jpg?raw=true" caption="LOOK AT HIS FAAAAAACE" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw3.jpg" caption="LOOK AT HIS FAAAAAACE" alt="" %}{:target="_blank"}
 
 Honestly, Cloud makes this triangle. The fact that he acts like he doesn’t care, but Tifa and Aerith know he cares makes for some great “Let’s fuck with Cloud” moments.
 
@@ -67,7 +67,7 @@ The game knows you are going to fall for one of these characters, but what’s m
 
 Take for instance the most difficult decision I have had to make in a video game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw4.jpg" caption="" alt="" %}{:target="_blank"}
 
 After a tough fought battle, Cloud stands up to find both Tifa and Aerith on the ground. He then has to choose which one to help up first. If you help one, the other looks sort of disappointed that it wasn’t them who Cloud ran to help. Let me tell you, it doesn’t feel great disappointing a video game character you’ve grown to see as a fictional, part time friend. I felt like whatever decision I made was the wrong one because either Tifa or Aerith was going to be let down, and I didn’t want to see that.
 
@@ -79,7 +79,7 @@ Going through this long adventure with these characters that you really get to k
 
 Take Barret (center) for example: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw5.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw5.jpg" caption="" alt="" %}{:target="_blank"}
 
 He’s a gruff and intimidating man hellbent on his mission to stop Shinra. He’s got a Mini-gun instead of his right arm, he shouts at people who he disagrees with on trains, and he’s hot-headed and impulsive. 
 
@@ -88,7 +88,7 @@ He also loves nothing more in the entire world than his daughter and I think he 
 
 But by the end of the game, Barrett sees Cloud for the good man he is, and vice versa. They find a middle ground to stand on, and while they still have different ideas, you can tell they care about each other. It’s such a natural progression. There’s not really a single moment I can think of where Barrett goes “You’re alright, kid!”. It’s woven in more tactfully. As the player, I really didn’t like Barrett at first. I thought he was too extreme and a liability. But I kind of had that same character arc Cloud goes through where I learned to appreciate him. It’s all very well done. I love the characters in this game… Well… most of them: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw6.png?raw=true" caption="NOT YOU" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw6.png" caption="NOT YOU" alt="" %}{:target="_blank"}
 
 There was a single moment in this game that pushed it from “this game is pretty good” to “this game is fucking amazing”. 
 
@@ -100,13 +100,13 @@ Let me tell you, I’ve never been more wrong in my life.
 
 The game makes you painstakingly climb all 63 flights of stairs and it is my favorite part of the game by far. You have Tifa and Barrett with you at this point. The climb starts out pretty normal. There’s some light chatter between the characters as you climb. However, as you get closer to the top of the tower, the characters get progressively more exhausted since, you know, they have to climb 63 fucking flights of stairs. Cloud slows to a slow shuffle, just barely crawling along at a snail's pace. Barrett is breathing so hard and is so exhausted I started to worry that he might not survive the climb. He’s out there fighting for his life.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw7.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw7.jpg" caption="" alt="" %}{:target="_blank"}
 
 Tifa, while winded, is clearly in better shape as she makes it to the top first and shouts down words of encouragement. After ten real life minutes of climbing stairs, you finally reach the top. The gang is absolutely exhausted, and I start to wonder if I really made the right call. Perhaps a few enemies in the elevator might have been easier to handle than the 63 flights of stairs. It’s absolutely incredible, and I’m glad they had the gall to go through with that. I’ve never seen a more entertaining stair climbing sequence in a game. It’s my favorite part, and it’s not even close. It’s in my top ten video game moments for sure. 
 
 But yeah, I love the characters, I love the love triangle, I love the game. It’s got great combat that combines button mashing and turn-based combat. It’s got great world building and so many fun moments. Also, the game looks amazing: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw8.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw8.jpg" caption="" alt="" %}{:target="_blank"}
 
 I never had a moment where I felt like the game was taking itself too seriously. It’s almost Camp. I know I’m like 28 years late on this, but Final Fantasy VII might be a good game! I don’t know, I’ve never played it. I’ve just played Final Fantasy VII Remake Intergrade. 
 
@@ -124,23 +124,23 @@ Well I kinda went through every new game yesterday, so I guess it’s time to go
 
 Oh I got one, did you know that some people have spent well over a decade combining Fallout 3 and Fallout New Vegas into one world connected via train? Did you know that it’s the best way to play both games?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw9.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw9.jpg" caption="" alt="" %}{:target="_blank"}
 
 Tale of Two Wastelands is mostly the only way I play New Vegas, and CERTAINLY the only way I’ll play Fallout 3. Now I’m a Fallout 3 defender. It’s a hard thing to defend sometimes. The main plot is awful, the dialogue is mostly bran-flake tier, and the quest structure seems precisely designed to avoid the most interesting locations in The Capital Wasteland, and if you’re a Fallout 1 fan... I’m sorry for what 3 did (but 2 kinda started it). The good thing about 3 is unfortunately kind of hard to write about (part of why I think it gets over-bashed a bit) and that is its worldspace. Go off in any direction and you’ll find something interesting on the horizon. In that building there will be sick loot, you’ll use the sick loot to fund a trip to the next building. If you want to have fun with Fallout 3, you kind of have to tell the story to go fuck itself and just walk around. Basically it’s a looter shooter with a cool coat of paint, if you play it in the most fun way possible.
 
 The issue is that Fallout 3 does a fucking terrible job of making you explore. I’m going to make a map real quick of where you would go if you followed the main quest in Fallout 3:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw10.png?raw=true" caption="Thanks to this Steam Guide for the map: https://steamcommunity.com/sharedfiles/filedetails/?id=1797246620" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw10.png" caption="Thanks to this Steam Guide for the map: https://steamcommunity.com/sharedfiles/filedetails/?id=1797246620" alt="" %}{:target="_blank"}
 
 The blue circle is a forced quest teleport for one mission. Assuming you beeline the main quest and fast-travel to the closest location to get to each quest marker, this is all you will see. Now I’m being both very fair, and not fair. Very fair because I’m assuming you were unable to speech check your way through any skippable quests (the north-most line is actually very likely to not be there on most speech heavy builds), but unfair because obviously the main quest is not the only way to explore. Each major location has side quests! So let’s be fair and assume that you fully explore each location you visit while doing the main quest and accept any quest there. I’m going to assume you don’t take the quest to enslave 4 people, or blow up Megaton, since both are not done by most players their first time through the game. I will assume you checked out Tenpenny Tower though, since it really stands out and several NPCs mention it and mark it on your map:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw11.png?raw=true" caption="Did Hbomberguy do this in his Fallout 3 video? He might have. I skimmed the video and didn’t see it, but if I stole this idea... SORRY!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw11.png" caption="Did Hbomberguy do this in his Fallout 3 video? He might have. I skimmed the video and didn’t see it, but if I stole this idea... SORRY!" alt="" %}{:target="_blank"}
 
 I need you to keep in mind, this is someone who may not visit every location, but go to every single place a quest tells them to go to, and then fully explores that place. Their quest log will be empty by the end of the game following this route. This is a pseudo-completionist run. Look at the entire northern half of the map, at the bottom left corner, most of the south. If you are roleplaying someone who does almost anything they’re told to do, you have no reason to go to any of these places.
 
 You know what, just for fun, let me put a purple square around my five favorite places to explore:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw12.png" caption="" alt="" %}{:target="_blank"}
 
 Keep in mind, those two that seem close to many quest lines are inside that white area, which means they are only accessible by going through a series of subway tunnels for no reason other than just walkin’ around. OOPS!
 
@@ -148,7 +148,7 @@ The point of all this is just to show that while I like Fallout 3, I do get the 
 
 New Vegas is the exact opposite. The desert is barren, and if you do walk in a random direction and find a cave, there’s most likely nothing of value and it’s boring. Bethesda is better at designing mini-dungeons than Obsidian, but that’s alright. Obsidian know where they are good at, and they made sure to make a few cool locations, then make every quest in the world go there.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw13.png" caption="" alt="" %}{:target="_blank"}
 
 There is no reason to do the same map exercise with New Vegas, the whole thing would be covered in lines. Every main questline sprawls out to minor hub areas, those hub areas have quests that sprawl out to minor locations, and if they accidentally make a good dungeon, you bet your ass at least 46 quests will take you to that dungeon (looking at you plant vault).
 
@@ -156,7 +156,7 @@ Randomly walking in New Vegas sucks. The world is flat, the landmarks aren’t s
 
 But let me ask you this, have you ever finished an RPG, and then just walked around post-game with your overpowered character? You probably got bored pretty quick right? No hard fights, you’ve seen all the good places, no more new dialogue. Not much to see. Now imagine if they was an entire new fuck-around map. The quests aren’t as good, but there are harder enemies, and random dungeons everywhere to  show off your late game build. Welcome to the Capital Wasteland!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ffttw14.png" caption="" alt="" %}{:target="_blank"}
 
 Fallout 3 has level scaling that actually sucks during the main game. Since everything levels with you there’s no sense of progression, and very few areas can be unique by having higher/lower tier enemies. When coming back to fuck around on your level 50 guy who just finished New Vegas though? It’s amazing. Everything is hard to kill again, you actually need to use all your overpowered weapon. You’ve been playing a story based game for 100 hours, be real, you’re not paying attention anymore. Explore the sewers, shoot high levels ghouls, really test the limits of your build. Fallout 3 is the greatest New Vegas victory lap ever made.
 

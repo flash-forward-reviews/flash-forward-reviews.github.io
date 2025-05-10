@@ -10,7 +10,7 @@ permalink: /day-22
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -25,11 +25,11 @@ Infinite craft is essentially like those old Alchemy games where you combine the
 Infinitecraft falls into that same trap because of what it is innately. 
 Infinitecraft (if you couldn’t already guess by the name) is technically infinite. You combine any 2 materials in the world (starting with the basic 4 elements) and can technically make anything you can think of.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf2.png" caption="" alt="" %}
 
 Streamers were racing to create 9/11 when this first came out, for example. Anytime you are the first to discover a new combination of things, the game lets you know and it gets added to your “Discoveries” tab - see my modest discoveries below:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf3.png?raw=true" caption="I had to download an extension to play this in dark mode" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf3.png" caption="I had to download an extension to play this in dark mode" alt="" %}
 
 Yeah I’m kind of a big deal. First person to discover Mew-Mole, but it’s whatever. Don’t mention it at parties I’ll be swarmed. 
 Just kidding, I don’t go to parties.
@@ -74,15 +74,15 @@ So obviously, in order to be infinite, the game has to be run by AI, which does 
 
 I think this game’s greatest success is proving how fucking stupid we all are. I played this at work (don’t read this boss pls) and my coworkers and I cheered out loud when “Zombie” and “Shaun White” created “Shaun of the Dead”. There’s something about combining two things and having an unknown judge decide what we mean that triggers the same part of me that wants to open trading card packs. It could be funny, it could be boring, there’s an off-chance that it actually makes sense! One of my coworkers sent me a message saying they got Cigarette, and I tried for 30 minutes to get it too (unsuccessfully). It’s not explainable. We should not like this, but we do. We have dumb ape brains and this is what we want, to smash two things together until we get weirder, cooler things. Now fucking clap sheeple. CLAP AS I SEND YOU A SCREENSHOT OF MY ATTEMPT TO GET A CIGARETTE:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf4.png" caption="" alt="" %}
 
 TURNS OUT IT WASN’T ACTUALLY THAT HARD ON A SECOND ATTEMPT. We must go deeper...
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf5.png" caption="" alt="" %}
 
 Remember kids, Smoking Plant + Ghost = WEED!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/inf6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/inf6.png" caption="" alt="" %}
 
 Okay I’m done.
 

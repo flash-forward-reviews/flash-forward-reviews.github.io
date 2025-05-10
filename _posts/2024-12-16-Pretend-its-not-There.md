@@ -10,21 +10,21 @@ permalink: /day-230
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
 I should have made a tag for PS1 lookin’ horror games 200 days ago. There are so many of these that I usually just skip them when scrolling by to pick a game. Today though I picked Pretend it’s not There purely from the title. I assumed it was a horror game where you just had to act like you’re not in a horror game, and that seemed kind of interesting. Why not give it a shot.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere2.png" caption="" alt="" %}{:target="_blank"}
 
 I was kind of right. In Pretend it’s not There, you play a boy coming home from school, but you notice there is a monster following your steps. You intuit that if you pretend the monster isn’t there, it can’t do anything violent. Your goal is to complete your evening routine of eating dinner, and cleaning your toys without looking at the monster for too long. You even have to do math homework:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere3.png" caption="" alt="" %}{:target="_blank"}
 
 While all this is happening, the monster can spawn in random corners of the house. Looking at him for a split second is fine, as long as you turn away, so the game isn’t really about difficulty. In the opening scene you see the character you control have terrible posture, looking at the floor, and as the game goes on you start to adopt the same posture. It’s easier to avoid the monster if you keep your viewing angle close to the ground. I’m embarrassed to say that this game got to me a bit. Navigating the house, knowing the monster is right by you and pretending it’s not a problem is genuinely spooky. I was wondering how my avatar was going to deal with this in the long term. Can others see the monster? Why does my mom pin her notes on a random wall instead of the fridge? I felt gross and creeped out for a bit while playing, and that’s much more than I can say for most of this PS1 genre.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere4.png" caption="" alt="" %}{:target="_blank"}
 
 The general above-averageness of this game makes the ending all the more disappointing. I’m going to spoil it right now, so if you are interested in playing, do so now.
 
@@ -42,7 +42,7 @@ I think this gimmick is ripe for another attempt with some slightly stronger wri
 
 I like the concept of a monster that you can’t look at. I would probably be singing this games praises had I not seen this same concept in SCP: Containment Breach years ago: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere5.png" caption="" alt="" %}{:target="_blank"}
 
 I’m sure there are other examples that are older than this one, I just so vividly remember that pasty mother fucker lumbering through those metal corridors and staring at the ground. 
 
@@ -53,7 +53,7 @@ Anyway, there’s a good use of sound with the monster’s breathing letting you
 I am so tired of doing menial, everyday tasks in these PS1 horror games! 
 I don’t want to have to cook my fucking pizza or clean up my toys, damn it! I don’t want to clean the dishes, and most of all, I don’t want to do fucking MATH: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/notthere6.png" caption="" alt="" %}{:target="_blank"}
 
 I get the idea behind it is to draw the player in and immerse them, but it rarely works for me. I end up just feeling like I’m doing exactly what I’m doing: CHORES.
 

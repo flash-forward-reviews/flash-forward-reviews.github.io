@@ -10,7 +10,7 @@ permalink: /day-136
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugbrawl1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugbrawl1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -33,14 +33,14 @@ Getting Buggy with it (nah nah nah nah nah nah nah)
 
 **Recommend:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain2.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain3.jpg" caption="" alt="" %}{:target="_blank"}
 
 **Time Played:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bugagain4.jpg" caption="" alt="" %}{:target="_blank"}
 
 {% include button.html text="Link to Game" link="https://danielsnd.itch.io/bug-brawl" %}

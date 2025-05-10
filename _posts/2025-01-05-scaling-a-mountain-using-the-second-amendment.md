@@ -10,13 +10,13 @@ permalink: /day-250
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 Did you ever play [Getting Over It with Bennett Foddy](https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/){:target="_blank"} and think “I wish Bennett Foddy had a deep southern accent and never stopped talking about having relations with his cousins”? Fuck dude, me neither, but here we are!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa2.png" caption="" alt="" %}{:target="_blank"}
 
 The game is frustrating on purpose, but the gameplay pales in comparison to the constantly repeating jokes with no pauses. It’s a barrage of un-comedy so strong that I feel the developer should be arrested. They’ve certainly caused more harm than anyone in possession of weed.
 
@@ -30,7 +30,7 @@ The game is frustrating on purpose, but the gameplay pales in comparison to the 
 
 This is, in my opinion, the only acceptable settings to play “scaling a mountain using the second amendment” 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/samutsa3.png" caption="" alt="" %}{:target="_blank"}
 
 You’re welcome. 
 

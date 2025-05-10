@@ -10,7 +10,7 @@ permalink: /day-236
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -20,7 +20,7 @@ It’s a warning about replacing bad systems with worse ones. Wages and massive 
 
 And so we beat on, limos against the traffic, borne back ceaselessly into the potholes.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: It’s actually almost okay, but no, you get stuck way too often and the top of the screen where you have to look for obstacles is blurry and made my eyes die.** 
 
@@ -32,7 +32,7 @@ And so we beat on, limos against the traffic, borne back ceaselessly into the po
 
 This looks, feels, and plays like a Roblox game. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/umm3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

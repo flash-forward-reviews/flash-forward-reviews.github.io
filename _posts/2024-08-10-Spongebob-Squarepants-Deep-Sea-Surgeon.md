@@ -10,7 +10,7 @@ permalink: /day-102
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/deepsea1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/deepsea1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -26,7 +26,7 @@ comments: true
 
 Irritating Stick did it better.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/deepsea2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/deepsea2.jpg" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

@@ -10,11 +10,11 @@ permalink: /day-117
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/numet1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/numet1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/numet3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/numet3.png" caption="" alt="" %}{:target="_blank"}
 
 That’s the set-up for “The Last NuMetal Concert”. You play a backwards hat guy that is at a NuMetal concert and if the invading hipsters touch you 5 times, you lose and fail to save NuMetal. 
 
@@ -32,7 +32,7 @@ However, I would like to argue that maybe not everything needs saving. Maybe we 
 
 I am deeply offended by the audience of only backwards-cap-wearing tank top girls.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/numet2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/numet2.png" caption="" alt="" %}{:target="_blank"}
 
 I don’t know who it’s offensive to, I can’t explain why I feel this way. I only know that I am outraged and that this outrage is probably justified.
 

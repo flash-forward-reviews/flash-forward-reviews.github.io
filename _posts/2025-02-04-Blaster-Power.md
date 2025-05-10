@@ -10,7 +10,7 @@ permalink: /day-280
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take: 
 
@@ -27,13 +27,13 @@ I digress.
 
 Blaster Power also adds an upgrade system. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower2.png" caption="" alt="" %}{:target="_blank"}
 
 This not only gave me a good incentive to seek out every powercell in a level, it  also adds a layer of replayability and player agency that Blaster Meltdown didn’t have. Look at all those choices! This game is serving “BK-have-it-your-way” upgrades and I’m down for it. 
 
 The one thing I feel is missing is the timer. While Blaster Meltdown focused solely on the time trial aspect of the game (it even had a leaderboard!), Blaster Power takes a different approach and just gives you arbitrary points: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower3.png" caption="" alt="" %}{:target="_blank"}
 
 How are those points calculated? Do the power cells affect the final point score? Is it based on number of times I was hit in a run, or how fast it was completed, or how many enemies I killed? 
 
@@ -41,21 +41,21 @@ Answer: 720
 
 I appreciate that there were multiple levels with different design ideas - my favorite being the single giant room full of enemies that you have to funnel into the starting choke point to kill: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower4.png" caption="" alt="" %}{:target="_blank"}
 
 I get that there is a different design philosophy here than Blaster Meltdown, even if only slightly. However, this game screams “GO FAST”. The “speed goo” racing tracks, the base move speed upgrade, the cool jump pads that launch you high into the air - it is all begging for a time trial. 
 
 And yet, there is no timer. It just feels strange when you are speeding through a level and you’re timing your shots perfectly to kill a monster in a three bullet combo while not slowing down. If you pull that off, it feels good. It feels fun. You reach the end and wonder “Neat, I wonder how fast I completed this level!” only to be met with: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower5.png?raw=true" caption="Yeah, but did those points consider my 360 no scope on the jump pad?" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower5.png" caption="Yeah, but did those points consider my 360 no scope on the jump pad?" alt="" %}{:target="_blank"}
 
 It just seems like a bit of an oversight to not include that timer as a bonus for the speed freaks - clearly the dev knows racing against your own time can be fun - they made Blaster Meltdown for hell’s sake! It seems like such a commonplace statistic in these games it almost feels wrong that it’s not there. Hell, the game that started it all: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower6.png?raw=true" caption="DOOM" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower6.png" caption="DOOM" alt="" %}{:target="_blank"}
 
 And even the modern classics
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower7.png?raw=true" caption="ULTRAKILL" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/bpower7.png" caption="ULTRAKILL" alt="" %}{:target="_blank"}
 
 That’s really my largest complaint. With a timer, this game goes from Power to Blaster. 
 That being said, I still somehow managed a sub 100 second time: 

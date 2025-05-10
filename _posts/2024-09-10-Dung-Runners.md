@@ -10,7 +10,7 @@ permalink: /day-133
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dung1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dung1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ Dung Runners has a simple concept: You are a dung beetle. You must roll your poo
 
 Something must have gotten fucked up along the path of creation for this game. Here is the entire playscreen: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dung2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dung2.png" caption="" alt="" %}{:target="_blank"}
 
 The screen is super zoomed in to the point you cannot even see what is coming in front of you, making the point of the game pretty pointless. It feels like there is a fullscreen version of this game, and we are just getting a view through the magnifying glass. This happens sometimes with itch.io games you play on the browser. For example, when we played [Giraffe](https://flash-forward-reviews.github.io/day-11){:target="_blank"} we weren’t able to see the click counter until we put the game into fullscreen. 
 
@@ -63,7 +63,7 @@ This finally leads us to [yesterday](https://flash-forward-reviews.github.io/day
 
 Then Skeeter sent me this Dung game, and I noticed a very specific orientation of the beatle and the dung:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dung3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dung3.png" caption="" alt="" %}{:target="_blank"}
 
 Change the background and then suddenly that’s lookin’ a lot like a Doom weapon...
 

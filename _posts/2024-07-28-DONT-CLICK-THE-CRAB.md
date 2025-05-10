@@ -10,13 +10,13 @@ permalink: /day-89
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dctc1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dctc1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Good evening, welcome to Hell:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dctc2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dctc2.jpg" caption="" alt="" %}{:target="_blank"}
 
 You might be wondering why I just showed you a screenshot of the Dota 2 mainpage. 
 If you’ve played Dota before, you’ll know it’s akin to experiencing Hell for a few hours. 
@@ -27,7 +27,7 @@ A while back, Valve introduced something called the “Arcade” which allowed p
 
 Here’s what the Arcade looks like today: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dctc3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dctc3.jpg" caption="" alt="" %}{:target="_blank"}
 
 As you can see, there are plenty of players for the more popular games. You might also notice the very clear rip-off game “DOTA SURVIVORS”. I don’t know what to say about that other than I think it’s incredibly funny that they didn’t even try to hide it, and uploaded the Vampire Survivors art for their game. 
 
@@ -35,13 +35,13 @@ Anyway, back in 2015 when Sam and I were young, we found this game called -DON�
 
 It has become a relic lost in time. It somehow still functions, despite it not being updated since 2015, and Dota letting you know it’s pre-7.00 patch. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dctc4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dctc4.jpg" caption="" alt="" %}{:target="_blank"}
 
 I don’t have to do any heavy lifting explaining -DON’T CLICK THE CRAB-, the About section says it all. “There’s a crab. Don’t click it.”
 
 And it’s really that simple. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/dctc5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/dctc5.png" caption="" alt="" %}{:target="_blank"}
 
 Sam and I each have our respective Mr. Skeletal to control. We have one job: -DON’T CLICK THE CRAB- 
 We resist temptation fairly easily for a while, as the crab plays a great song about a “GIANT ENEMY CRAB” and it’s pretty catchy. 

@@ -10,7 +10,7 @@ permalink: /day-180
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -19,11 +19,11 @@ Turn Off the Lights is the epitome of this formula. I will give it props for not
 
 It’s pretty simple. The player makes a bowl of ramen (of which figuring out took the majority of my playthrough), watches TV: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl2.png?raw=true" caption="He just like me fr fr" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl2.png" caption="He just like me fr fr" alt="" %}{:target="_blank"}
 
 And then they do their homework and go to bed. Upon waking up in the night, the player finds a Lord Farquaad stalking them from within their home. The player can run and hide in the closet, or the player can be cool and radical and face the Farquaad for the sake of a screenshot: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl3.png?raw=true" caption="I thought that love was only true in fairy tales. Meant for someone else, but not for me." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl3.png" caption="I thought that love was only true in fairy tales. Meant for someone else, but not for me." alt="" %}{:target="_blank"}
 
 I feel my sacrifice was worth it. 
 
@@ -35,7 +35,7 @@ I feel my sacrifice was worth it.
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/totl4.png" caption="" alt="" %}{:target="_blank"}
 
 I’ve downloaded many games, and only twice has Windows stopped me from opening the folder. I’m not taking the risk on this one, do what you will.
 

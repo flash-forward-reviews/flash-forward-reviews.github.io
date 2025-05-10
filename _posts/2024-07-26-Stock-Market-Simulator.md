@@ -10,7 +10,7 @@ permalink: /day-87
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/stonk1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/stonk1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -18,7 +18,7 @@ You press the buy button when the line is low, you press the sell button when th
 
 Sometimes the screen says “STOCKS PLUMMET” and then nothing happens. Sometimes stocks skyrocket right when the game starts, so you can’t buy anything and just have to wait until 1 share costs something lower than your starting money total.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/stonk2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/stonk2.png" caption="" alt="" %}{:target="_blank"}
 
 This is at best, a passable school coding project. I’ve never seen a game more likely to be hanging on the developer’s parent’s fridge.
 
@@ -38,7 +38,7 @@ In hindsight, I really should have tested these before I left…
 
 Anyway, here's a mobile screenshot for you:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/stonk3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/stonk3.jpg" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Yes** 
 

@@ -10,13 +10,13 @@ permalink: /day-335
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 I’m going to keep it a buck, I forgot we still had to do our review about 10 minutes before bed and rushed to Newgrounds to find something to review. I’d like to apologize to Take Care of Mister Rat for falling victim to our shitpost scapegoat, but you were the chosen one today, and I must say, I don’t think your sacrifice was undeserved. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr2.png" caption="" alt="" %}{:target="_blank"}
 
 What’s going on here, man? I am not sure, but the shitpost demon has grown ravenous these last few days and I’m willing to feed it this succulent meal. 
 
@@ -36,11 +36,11 @@ In the name of the Alula, the Space, and the Pink Alien
 
 **Not Better than Club Penguin**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr3.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/tcomr4.png" caption="" alt="" %}{:target="_blank"}
 
 {% include video.html id="cgYWSp0O_Uo" title="" %}
 

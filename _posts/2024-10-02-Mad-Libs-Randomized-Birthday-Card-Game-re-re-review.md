@@ -10,7 +10,7 @@ permalink: /day-155
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -19,7 +19,7 @@ It’s my birthday today, and for my birthday I wanted to torture Sam by making 
 I also wanted to keep it Halloween themed since it’s SpOOky month. 
 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeetbirth1.png?raw=true" caption="What a magical birthday!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeetbirth1.png" caption="What a magical birthday!" alt="" %}{:target="_blank"}
 
 **Recommend: After the third time, I think I can safely say “no”.**
 
@@ -31,7 +31,7 @@ I also wanted to keep it Halloween themed since it’s SpOOky month.
 
 SKEETER IS GETTING A BIRTHDAY DOG!!! GET HYPED, THESE REVIEWS ABOUT TO BE NOTHIN BUT DOG PICS!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeetbirth2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeetbirth2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: HAPPY** 
 

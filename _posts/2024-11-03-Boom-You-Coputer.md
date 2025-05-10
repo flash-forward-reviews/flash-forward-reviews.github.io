@@ -10,7 +10,7 @@ permalink: /day-187
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -25,11 +25,11 @@ Don’t play this game if you:
 - Enjoy the ability to hear without a persistent ring
 - Are alive 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop3.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance: no**
 
@@ -37,7 +37,7 @@ Don’t play this game if you:
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/boomcop4.png" caption="" alt="" %}{:target="_blank"}
 
 Not even close.
 

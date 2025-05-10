@@ -10,7 +10,7 @@ permalink: /day-88
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/lebab1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -22,11 +22,11 @@ Maybe Skeeter got it to work, maybe he didn’t, we’ll find out tomorrow once 
 
 I’m sorry there’s no review, but since this was pre-chosen to prepare for Skeeter’s time without internet, there’s no way around it. As compensation, here’s a Cyberpunk 2077 screenshot with four of the same NPC clones:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/lebab2.png" caption="" alt="" %}{:target="_blank"}
 
 Cyberpunk is a weird fuckin game isn’t it? Like there’s so much stupid teenage edgelord stuff. They also do that thing in the dialogue where after you say the nice option the character is like “I APPRECIATE HOW KIND YOU ARE BEING BECAUSE I AM A VIDEO GAME LOOK HOW I RESPOND TO YOUR CHOICES, YOUR CHOICES HAVE CONSEQUENCES”. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/lebab3.png" caption="" alt="" %}{:target="_blank"}
 
 But then for every stupid bit of dialogue, or middle-school comedy moment, there’s a moment of pure magic that no other game has pulled off. There is no game that does two characters sitting in a cool room talking better than CP2077. The freedom to look around while in conversation and soak in the atmosphere really brings those neon-noir vibes to new heights in a way only an interactive medium can pull off.
 
@@ -42,7 +42,7 @@ At that moment Johnny considers himself dead, and you alive. He had his chance a
 
 “you have no idea how badly I want that to be true”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/lebab4.png" caption="" alt="" %}{:target="_blank"}
 
 Sorry I couldn’t play Lethal Baboon.
 
@@ -58,7 +58,7 @@ All we need is a bit of Unity, which is good, because all we have is Unity.
 
 I can't get past the “Made with Unity“ launch screen.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/lebab5.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/lebab5.jpg" caption="" alt="" %}{:target="_blank"}
 
 After reading Sam's review, it seems like I could have saved him some time by pre-screening any of these games. But in hindsight maybe it's a good thing that Lethal Baboon happened - or rather didn't happen. If it ran like a game should, we wouldn't have Sam's Cyberpunk review, and we would have had to actually play Lethal Baboon.
 

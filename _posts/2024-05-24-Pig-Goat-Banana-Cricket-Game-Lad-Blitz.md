@@ -10,7 +10,7 @@ permalink: /day-24
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -23,15 +23,15 @@ Don’t let your jokes be dreams:
 
 Tree!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb2.png" caption="" alt="" %}
 
 Pig!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb3.png" caption="" alt="" %}
 
 Banana?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb4.png" caption="" alt="" %}
 
 **Recommend: Naw, even though I did kind of have fun. I could see 7th grade me booting this up in the Computer Science lab and getting in trouble.**
 
@@ -45,13 +45,13 @@ First, the review no one cares about: As Ward said, this is a Wario-Ware like ti
 
 Unfortunately this game has a fatal flaw. In WarioWare, you only have 5 seconds or so to figure out each minigame, but the title of each game doubles as the instructions, and the controls are so simple that you can succeed at almost every minigame with good intuition. Blitz has multiple minigames where without playing multiple times, there’s basically no way to understand what you're supposed to do. A lesser example is the mini game DODGE THE LASER:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb5.png" caption="" alt="" %}
 
 Concept is simple, but the lasers the dog shoots have a warm up time with no indication of how long it takes. If you jump right when you see the laser, you will jump during warm up then get shot on landing. Easy to dodge on a second run, but the joy of losing in WarioWare is knowing you got caught up in the speed and stress and made a mistake. It works as a release of tension. This led to me saying “oh... I guess that’s what I’m supposed to do.
 
 The much worse example is EAT THE DIRT. Two piles of dirt appear. You click on them to eat them. Sometimes when you click on one, you vomit and lose, other times you eat the dirt successfully and win. I have played this three times and still have NO IDEA how you win this game. I’ve done it, but I don’t know why or how. I don’t think I need to explain how this completely destroys a minigame collection like this. With no time for real instructions, each game needs to be identifiable immediately. I'd argue this is the most important aspect for any WarioWare wannabe, and this game fails too often for me to recommend playing.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/glb6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/glb6.png" caption="" alt="" %}
 
 NOW FOR WHAT Y’ALL REALLY CARE ABOUT:
 

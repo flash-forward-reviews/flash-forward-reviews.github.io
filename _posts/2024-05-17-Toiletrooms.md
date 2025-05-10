@@ -10,7 +10,7 @@ permalink: /day-17
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -19,11 +19,11 @@ If you aren’t a cool cat and are a silly goose, you probably don’t know what
 
 See Exhibit A: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi2.jpg?raw=true" caption="Exhibit A" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi2.jpg" caption="Exhibit A" alt="" %}
 
 Exhibit A is what is known as a “Liminal Space”: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi3.png" caption="" alt="" %}
 
 This was the photo that kicked it all off folks.This is patient zero. There is some debate on where the Backrooms idea actually started, but it gained most of its traction on 4chan’s Paranormal Board.
 One post is probably most recognizable - It was a photo of Exhibit A accompanied with the following text: 
@@ -41,7 +41,7 @@ Once the idea of the Backrooms hit the pipeline of “Mainstream internet” it 
 This Backrooms craze couldn’t be stopped. It infected horror game development like Influenza. Soon every other horror game you would see pop up on Steam had “Backrooms” in its name. The plague was spreading faster than it could be contained. 
 Don’t believe me? Just go to the Steam Store and type “Backrooms” into the search bar: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi4.png" caption="" alt="" %}
 
 Almost all these games featured the same basic idea - wander around an empty corridor and have some spooky sounds play. “Wow, that sounds pretty boring” you might be saying, “Walking around an empty space, that can’t make for a very interesting game”. And you are right. But the Backrooms had a sinister answer to this: THE MONSTER THAT CHASES YOU. That’s right! The evil Backrooms would send a scary monster after you! Better not get caught or you’ll DIE. Muahahhaha! Monsters are so cool especially when you can’t fight back, and you can’t hide, and the only thing you can do is RUN! Especially when they are SCARY and SPOOKY and make you go peepee in the skibidi toilet!
 
@@ -60,21 +60,21 @@ Today’s game takes place in a never-ending Fallout: New Vegas bathroom:
 
 Toiletrooms: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi5.png" caption="" alt="" %}
 
 Fallout: New Vegas: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi6.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi6.jpg" caption="" alt="" %}
 
 You wander around with a lighter in the dark, surrounded by toilets and sinks. Eventually you find some guy who has also been trapped in here and he has a goose that hunts bugs for him - that’s kind of neat. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi7.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi7.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi8.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi8.png" caption="" alt="" %}
 
 Eventually you wander into a talking toilet that needs a plunger because it can’t breathe and wants you to plunge him to save his life in exchange for getting you out of there. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi9.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi9.png" caption="" alt="" %}
 
 While looking for the plunger a SCARY MONSTER starts chasing you, except it’s a toilet-head man wearing a suit (I forgot to snap a photo). I despise this mechanic in a game, especially if there is no clear path, because then it’s just trial and error of dying if you hit a dead end and reloading the game until you figure out where you are supposed to go. At least in the Resident Evil 2 remake you are able to shoot Mr. X in the gonads a few times and incapacitate him so you can get away, and they didn’t introduce him until you knew the layout of the Police Station and knew how to navigate it. That’s not the case here, the stupid toilet just chases you and kills you if you make one wrong turn or get stuck on a piece of scenery. 
 Thankfully, this chase sequence is short, you find the plunger, and clear the toilet. Hooray! He promises to take you home.  A pipe comes down, gives you a little sucky sucky and suddenly you are in a giant wading pool. You talk to a showerhead who drowns you to send you home. You wake up in your bath, was it all a bad dream? 
@@ -94,14 +94,14 @@ The issue is: At its core, satire or not, it’s still just another Backrooms ga
 
 I had a busy day and my mother in law is staying in the room where I usually play games. I played the atmospheric horror game on a trackpad while my wife watched Chopped in the background. As I type this they’re doing something with shrimp, which seems dangerous under a time limit.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi10.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi10.png" caption="" alt="" %}
 One interesting thing about this game is what happened in Ryan’s review didn’t happen to me. Instead the Goose found a key that unlocked a door for me. I went through that door, saw a rubber duck and squeaked it. This scared my dog in real life. It seemed to have no effect on the world, and I was trapped. I had a choice here, and it was either quit the game, or scare my dog again to see if another squeak might change something.
 
 ...
 
 I’m sorry, but would you wake this boy up?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/toi11.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/toi11.jpg" caption="" alt="" %}
 
 **Recommend: Ryan said no. I trust him.**
 

@@ -10,7 +10,7 @@ permalink: /day-295
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/piqt1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/piqt1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 

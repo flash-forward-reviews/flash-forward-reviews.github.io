@@ -10,7 +10,7 @@ permalink: /day-74
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,15 +18,15 @@ Puppy Dogs Tails has a fairly straightforward concept. It does not feature any p
 
 The player takes control of a frog and can shoot out its tongue to gobble up delicious bugs for points. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt3.png" caption="" alt="" %}{:target="_blank"}
 
 The bugs have little green trails behind them that slow you if you walk through them.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt4.png" caption="" alt="" %}{:target="_blank"}
 
 It’s just a constant stream of these bugs that slither towards the player. They do not come in waves. If you lose all your lives (the little duck icons), you lose. You can restore lives at the pack-a-punch if you have the points for the upgrade: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt5.png" caption="" alt="" %}{:target="_blank"}
 
 This Pack-a-punch also upgrades your frog by making them larger!
 
@@ -37,11 +37,11 @@ There is seemingly no limit to how many times you can hit this Pack-a-punch. Thi
 
 Here’s where I started: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt6.png" caption="" alt="" %}{:target="_blank"}
 
 And here’s pretty close to where I ended: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt7.png" caption="" alt="" %}{:target="_blank"}
 
 As you can see, at this microscopic level, the player has near no idea where they are controlling their frog. At this point, my gameplay consisted of wildly mashing my movement and tongue keys, hoping my pixel wide body would avoid the tiny obstacles and bugs. The main challenge was trying to maneuver my little hit box over to the pixel-dot Pack-a-punch before I lost all of my lives. If I got lucky, I’d run over a pizza pick-up (which would auto-cast the tongue attack) and have a few free seconds to spin in circles, wrack up points, and avoid any damage. 
 
@@ -63,7 +63,7 @@ Thank you Skeeter for hard carrying this review. I owe ya big time.
 
 Here’s a screenshot to make it seem like I did work:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pupdt2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pupdt2.png" caption="" alt="" %}{:target="_blank"}
 
 Skeeter recommending this game makes my brain explode, but I can’t blame him. He saved my bacon today.
 

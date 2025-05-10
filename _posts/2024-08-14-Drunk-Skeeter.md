@@ -10,9 +10,9 @@ permalink: /day-106
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk1.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk2.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -35,7 +35,7 @@ To anyone who has a project in mind, or a stupid idea you’ve been playing arou
 
 Did you know they still make Absinthe? I think the stories of hallucination are either exaggerated or fictionalized because after having a first hand experience with it, all it does is get you drunk. There are theories that traditional absinthe was made with different materials back in the day, and it’s possible something in the environment caused the hallucinations, but I’m not really sure. I’m not an absinthe expert, but I did ingest a bit of it tonight and that shit tastes like delicious black licorice. Highly recommend.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk3.png" caption="" alt="" %}{:target="_blank"}
 
 Thanks for bearing with me. I just remembered this is a gaming blog, not a personal blog. 
 
@@ -43,11 +43,11 @@ Y’all tried out that [PokeRogue](https://pokerogue.net/){:target="_blank"} gam
 
 In PokeRogue, you start out picking a team from a list of starters from every Gen. Each Pokemon is assigned a value point to it, and you can only have so many value points on a team. For example, a Weedle’s cost to add to your party might be 1 whereas a Mewtwo might cost you 8. In Classic mode, you must progress through 200 floors of battles. These battles are normally wild Pokemon that you can catch and once caught can be added to your starting party for your next run.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk4.png" caption="" alt="" %}{:target="_blank"}
 
 Catching multiples of the same Pokemon that have different Natures, or IVs will add them to the Pokemon next time around. Occasionally you will battle trainers through the routes, and will have to fight your rival at fixed intervals, as well. Every 10th floor progresses you to the next area/biome and also heals your Pokemon upon completing. Every 10th floor also has you fight either a boss pokemon, or a gym leader (and the Elite Four starting at floor 180). After every battle you are given the choice of a random free item. You can also purchase things such as potions and revives from the shop.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk5.png" caption="" alt="" %}{:target="_blank"}
 
 The random drop items pull from a rarity pool, and the higher your luck stat, the higher chance you have to roll a better item. For example, the epic tier has items like a masterball or DNA splicers that allow you to combine two pokemon. You can increase your luck stat by catching Shiny Pokemon. Each living shiny pokemon in your party increases your luck stat, which gives you higher odds of rerolling an item in the shop to a higher tier. Each Pokemon has three different shiny variants - Gold, Blue, and Red. The gold shinies give 1 point of luck, the blue 2, and the red 3. The red shinies are much more rare obviously.
 
@@ -77,11 +77,11 @@ The process of adapting to the game’s age and learning these little rules mean
 
 There’s a level later on that takes place on a large boat. You’re tasked with blowing up five tri-hull welds to take down the ship (it’s transporting a plague, it’s a whole thing). I snuck around the ship, taking out guards, disabling traps, hacking cameras and was able to get four of the five spots. There was only one left. I consulted the map:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk6.png" caption="" alt="" %}{:target="_blank"}
 
 I remembered the ones I had already destroyed and found my last X, the oil reservoir in the upper right hand corner. I made my way there and was faced with this wall.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ryandrunk7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ryandrunk7.png" caption="" alt="" %}{:target="_blank"}
 
 I know now that there are roughly a thousand ways to get to this tri-hull weld. You can go on the path above and jump down, you can stack barrels with your strength mod to get over, you can max out your jump mod to jump over. I did not think of any of these.
 

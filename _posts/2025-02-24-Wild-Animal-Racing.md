@@ -10,7 +10,7 @@ permalink: /day-300
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wildanimalracing1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wildanimalracing1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter and Sam's Livestream:
 

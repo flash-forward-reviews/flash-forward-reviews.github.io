@@ -10,7 +10,7 @@ permalink: /day-113
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,38 +18,38 @@ Oh man, Pineapple on Pizza is going to be a tough one to review for me. I had an
 
 Pineapple on Pizza sets out with a very clear mission statement:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz2.png" caption="" alt="" %}{:target="_blank"}
 
 This is important. I cannot tell you why, but just know that it is.
 
 I awoke on a beautiful sunny island. I was surrounded by a bunch of happy, dancing islanders that seem to be celebrating!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz3.jpg" caption="" alt="" %}{:target="_blank"}
 
 A whimsical music track plays in the background. At this point, I am absolutely smiling ear to ear. The combination of the wacky music and immediately being met with a bunch of silly islanders goofily dancing had me cracking up. It’s funny. But then, it kept getting funnier to me. As I continued to walk around the island, it became very clear - it’s not just a group of islanders dancing - it’s the whole entire island. Every single one of them.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz4.jpg?raw=true" caption="Check out these guys doing the Running Man! You GO girls!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz4.jpg" caption="Check out these guys doing the Running Man! You GO girls!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz5.jpg?raw=true" caption="Grandpa hitting the Dab. You GO girl!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz5.jpg" caption="Grandpa hitting the Dab. You GO girl!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz6.jpg?raw=true" caption="The classic middle school dance DJ move: Put everyone in a circle and one person goes in and embarrasses themselves dancing. I was the chosen one! I GO girl!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz6.jpg" caption="The classic middle school dance DJ move: Put everyone in a circle and one person goes in and embarrasses themselves dancing. I was the chosen one! I GO girl!" alt="" %}{:target="_blank"}
 
 Upon entering the circle I got an achievement: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz7.png" caption="" alt="" %}{:target="_blank"}
 
 This is when I realized this game has the best achievements. Almost all of them entail approaching something: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz8.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz9.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz10.png" caption="" alt="" %}{:target="_blank"}
 
 Amazing. I truly feel as though I have achieved something. Thank you Pineapple on Pizza. 
 As I continued to explore the island, I noticed something etched into the back of a stone in the middle of the village:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz11.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz11.jpg" caption="" alt="" %}{:target="_blank"}
 
 I’m sure it’s nothing to worry about!
 
@@ -73,7 +73,7 @@ And yet, here we are.
 
 Pineapple on Pizza made me laugh for 10 minutes, say, “wait... no way”, then laugh for another 10 minutes after the game had ended. This game goes so hard that I barely even know how to express myself. The song in the background of this game has a two hit punctuation at the end of each phrase. BAM BAM! Something like half the dancers have a special animation for just these hits. Some clap twice on the BAM BAM, some jerk their arms around, I spent several minutes looking for which NPCs were going to react to the BAMs. THIS MOTHERFUCKER FEEDS BIRDS ON BEAT!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pinonpiz12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pinonpiz12.png" caption="" alt="" %}{:target="_blank"}
 
 I have never heard of the [Alva Majo](https://www.alvamajo.com/){:target="_blank"} guy, but we’re playing every game he’s ever played. I’m not going to say anymore, you already read Skeeter’s review! GO PLAY THIS THING! THIS IS NOT A JOKE, I GENUINELY LOVE IT!
 

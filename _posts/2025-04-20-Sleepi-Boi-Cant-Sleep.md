@@ -10,11 +10,11 @@ permalink: /day-355
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs2.png" caption="" alt="" %}{:target="_blank"}
 
 I like that you can drag the camera around to see the 3D pixel graphics, but I’m sick and kept losing track of where the character was. Can vomiting be from allergies?
 
@@ -34,7 +34,7 @@ Sleepi Boi Can’t Sleep is pretty cozy. I like the rain sounds, and the late ni
 
 But I don’t think it’s Sam’s virus allergy-ridden brain that’s responsible for continuously losing the character. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs3.png?raw=true" caption="Top down view goes hard" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/sbcs3.png" caption="Top down view goes hard" alt="" %}{:target="_blank"}
 
 I’m not sure if allergies can make you vomit, but I checked WebMD and it said it could be a symptom of cancer. 
 

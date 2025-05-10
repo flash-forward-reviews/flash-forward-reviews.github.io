@@ -10,7 +10,7 @@ permalink: /day-277
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take: 
 
@@ -19,17 +19,17 @@ The set-up is the volcano on the island containing the only 8 dinosaurs left on 
 
 Walk around the island, take photos of some funny looking dinosaurs and listen to some chill pan flute music. There’s nothing offensive here - just a chill and cute vibe.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos2.png" caption="" alt="" %}{:target="_blank"}
 
 The game desperately needs a jump button as I kept getting stuck on the uneven terrain. 
 
 In the end, I worked around the challenges that arose from a lack of vertical leap and I managed to collect them all: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos3.png" caption="" alt="" %}{:target="_blank"}
 
 The following is my favorite of the photos I took: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
@@ -39,7 +39,7 @@ The following is my favorite of the photos I took:
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/dinos5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: A cute harmless no**
 

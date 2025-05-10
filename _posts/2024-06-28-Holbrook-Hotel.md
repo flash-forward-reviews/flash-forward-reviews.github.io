@@ -10,7 +10,7 @@ permalink: /day-59
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -20,57 +20,57 @@ I came in really wanting to be more positive about this one. Fourteen year old d
 
 Almost every single plot point in this game is incorrect. It’s a strange criticism, there’s not much plot in this game at all, but let me hit you with some examples. First of all, this isn’t a hotel... this is an apartment complex. Look at the room:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook2.png" caption="" alt="" %}{:target="_blank"}
 
 Also we have a frozen meal in the fridge:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook3.png" caption="" alt="" %}{:target="_blank"}
 
 Ignoring the fact that this should be in the freezer, this also implies that we live here... like an apartment. Now is it completely impossible that we are staying long term in a hotel that has large rooms that look like entire apartments? No, but it’s strange enough to trigger the part of my brain that demands an explanation. On its own this would be a very petty complaint, but stick with me for a bit.
 
 We brush our teeth and go to bed, only to be woken up by a scream at 3am. We have this to say about it:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook4.png" caption="" alt="" %}{:target="_blank"}
 
 There are two issues with this sentence. First off IS THIS A HOTEL OR AN APARTMENT MY DUDE?! WHAT’S GOING ON HERE?!! Second, it IS NOT the apartment next you at all:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook5.png?raw=true" caption="Note, I turned of the dithering for the sake of a clearer screenshot" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook5.png" caption="Note, I turned of the dithering for the sake of a clearer screenshot" alt="" %}{:target="_blank"}
 
 In this shot I’m standing right outside of our apartmen (hotel?) door. The apartment across from us with the caution tape is not accessible, nor is the apartment next to us. The apartment we are supposed to search is the open door two away from us. Again, could our character have heard wrong? Sure... but why is everything in this game just a little bit wrong?
 
 Anyway, the window in the apartment is open and our boy from [Baldi’s Basics](https://basically-games.itch.io/baldis-basics){:target="_blank"} comes out to jumpscare us:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook6.png" caption="" alt="" %}{:target="_blank"}
 
 You have to run to the elevator and get downstairs before he catches you. This is the highlight of the game. The distance from the room to the elevator is enough to feel like you barely escaped, and the button has a delay, so you need to watch him walk down the hallway at you as the elevator closes. Nothing revolutionary at all, but there was a genuine moment of panic as the elevator door stood motionless for a bit longer than I wanted.
 
 This is the last time you are in any danger for the rest of the game. From this point on we are in full on point-and-click land. I won’t go through this part of the plot in as much detail, but I will point out some more of the moments that have that same brand of “wait-what?” confusion.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook7.png" caption="" alt="" %}{:target="_blank"}
 
 Wait, this hotel/apartment has no phone? Nobody does for miles? How do people book rooms? What year is it? Where are we that has full size apartment hotels but no phone? Why are we asking where the parking lot is? Why is the answer that the parking lot is 2 blocks away? Is it because this is a big bustling city? If that’s the case why isn’t there a phone here?
 
 Turns out the parking lot is down an alleyway, but it’s guarded by a cop:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook8.png" caption="" alt="" %}{:target="_blank"}
 
 Wait, the only way to the parking lot is through this ally? Why is the parking lot of a hotel/apartment in the middle of other unrelated buildings? Are the police not letting people go to their cars because of missing people? Is that normal? Do we do that?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook9.png" caption="" alt="" %}{:target="_blank"}
 
 I’m sorry what?! Why is that the first thing you think of? Why would you think dumpsters hold the key? How is it that you are correct and there is both a novelty disguise mask and a bloody police uniform in the dumpsters?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook10.png" caption="" alt="" %}{:target="_blank"}
 
 Once you get past the cop, he says “Don’t trust anybody shady lookin’”. Within seconds we are accosted by a man saying “GO DOWN THIS DARK ALLEY AND GET ME MY PILLS” I tried to ignore it, but you can’t open your car until you complete this objective. It’s revealed that he has your keys... somehow. I think this is done for comedy. I don’t know.
 
 You drive to a phone (one in a much less populated area than the city we just left), go to a police station only to see everyone dead. You check the jail cell and find this poster:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook11.png" caption="" alt="" %}{:target="_blank"}
 
 As much as I do appreciate the shadowy image being the same as the one in the mirror of your apartment, nothing else about this makes any sense. I guess you escaped prison, stayed at the hotel/apartment then killed people? Also the phone number being all 6s... is this a joke? Nothing is recontextualized with this ending, it just feels like someone is filling out a horror Mad-Lib.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook12.png" caption="" alt="" %}{:target="_blank"}
 
 I can not figure out the tone of this game and even if I could, none of the weird inconsistencies in logic make sense for horror or for comedy. Everything about Holbrook Hotel is flimsy. The plot has too many logical leaps for me to feel grounded in the situation, the tone switches back and forth between horror and comedy in a confusing and unsatisfying way, and the ending twist serves no purpose other than referencing other endings where you were the bad guy all along.
 
@@ -96,18 +96,18 @@ Sam already thoroughly covered the “Apartment” vs “Hotel” debacle, so I 
 
 You start out in the elevator to your Apartment Hotel. The elevator buttons allow you to start the game or quit the game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook13.png" caption="" alt="" %}{:target="_blank"}
 
 I want to give props to Bare Bones for this intro - I’m a sucker for “in game” main menus (if you could call it a “menu”). 
 Once you open the door with “play” you are met with the title that is also in game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook14.png" caption="" alt="" %}{:target="_blank"}
 
 I like this trope a lot. I think it’s neat. I don’t know if it’s more “immersive” than a main menu since floating letters aren’t exactly immersive, but I think it’s a fun way to drop the player into the game.
 
 I wasn’t a fan of the “To Do” objective guide at the top of the screen however:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook15.png" caption="" alt="" %}{:target="_blank"}
 
 There is only one room in the hallway that you can interact with. We don’t need to be told to “Go to room 297” because the player will naturally end up there with a very small amount of exploration. 
 
@@ -118,7 +118,7 @@ It just doesn’t make much sense.
 
 The player is then prompted to go outside to find the parking lot so they can drive to a payphone. Your car is inexplicably hidden down an alley that’s blocked by probably the absolute worst police officer I have ever seen. Your whole goal is to get to a payphone to call the cops and here is this cop, standing there guarding an alley. If you tell him you were almost murdered, he hits you with the Tobey Maguire Spider-Man Special: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook16.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook16.png" caption="" alt="" %}{:target="_blank"}
 
 {% include video.html id="viWHdRx9C34" title="" %}
 
@@ -135,9 +135,9 @@ What exactly is the implication of the missing poster? Is it simply just there t
 
 Killer is detained in the local town prison. Killer breaks out and kills cop. Killer steals cop uniform and a groucho marx disguise to help him lay low and not be identified. He makes it into the city and ditches the bloody cop uniform and disguise in the dumpsters. Here’s where my theory starts to fall apart. We know that the player and the guy who was standing at the concierge desk are both missing: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook17.png?raw=true" caption="lol great name" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook17.png" caption="lol great name" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook18.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook18.png" caption="" alt="" %}{:target="_blank"}
 
 So, they had to have been gone long enough for the local police to investigate. Plus, there’s the room across the hall from yours with the caution tape implying there was an investigation. If this is the case, then there is no way the killer could have escaped from the police station and then committed the murders, since the police would be preoccupied with the Police Station attack. Perhaps the Killer was caught after the first couple murders and what we see was his escape after the murders? That still doesn’t explain how you ended up dead, since you still have to be there to witness when he breaks in again? Are you supposed to be a ghost? Are you really missing or have you just not left your apartment in 4 months despite friends inviting you out every weekend? 
 
@@ -147,7 +147,7 @@ There are some great things in here, as well as some confusing logic. It’s a h
 
 Also, apartment/hotel PTAC units are nowhere near this big:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/holbrook19.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/holbrook19.png" caption="" alt="" %}{:target="_blank"}
 
 BYYEEEE
 

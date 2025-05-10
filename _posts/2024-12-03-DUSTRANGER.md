@@ -10,7 +10,7 @@ permalink: /day-217
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,19 +18,19 @@ One of my favorite things about this project is stumbling upon something great. 
 
 DUSTRANGER pretty much had me hooked from the start. The whole idea is you customize a Roomba with different parts and upgrades and then go and collect dust with it. It sort of reminds me of those Japanese toy racing cars you could upgrade with all sorts of parts: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr2.png" caption="" alt="" %}{:target="_blank"}
 
 Just seeing a picture of the motors for these things brought back a wave of nostalgia.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr3.png" caption="" alt="" %}{:target="_blank"}
 
 The Roomba upgrades feel very similar. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr4.png" caption="" alt="" %}{:target="_blank"}
 
 There are a bunch of different upgrades, things like wider vacuum size, motor upgrades, battery upgrades, etc. You get these upgrades by playing the gatch machines: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr5.png" caption="" alt="" %}{:target="_blank"}
 
 There are three different tiers of gacha machines, the highest cost giving the best upgrades. 
 I’ll be real, I’m a sucker for gacha mechanics as long as they feel fair and don’t cost real money (other than what you spent on the game, which in this case was FREE).
@@ -42,7 +42,7 @@ The game gives you some starter money, and I had rolled a random bumper and a ba
 
 I press “play level A” and load into the game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr6.png" caption="" alt="" %}{:target="_blank"}
 
 I press W on my keyboard and the Roomba starts moving forward. I try to press “A” and “D” to move the Roomba left and right. It does not move. It keeps driving. I switch my right hand to the arrow keys, but the Roomba doesn’t respond. It keeps on its course, headed straight for the wall. I start panicking and smacking every key on my keyboard. I make the game fullscreen. The Roomba doesn’t respond. It runs into the wall.
 
@@ -60,11 +60,11 @@ Excuse me? There’s a BOSS??!
 
 And sure enough, there is! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr7.png" caption="" alt="" %}{:target="_blank"}
 
 I’m really not sure how I didn’t see him the first time. He’s huge, roars occasionally, and drops these little Miyazaki dust spirits: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr8.png" caption="" alt="" %}{:target="_blank"}
 
 You do damage to the boss by running into him. The most I’ve brought him down to so far has been about 96% HP. 
 
@@ -74,7 +74,7 @@ There are a ton of camera angles worked into the game, which is good, because yo
 
 I also noticed these little battery pick-ups that were out of reach all over the place: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr9.png" caption="" alt="" %}{:target="_blank"}
 
 I theorized that there was probably some sort of upgrade that would allow me to get up there. 
 
@@ -97,18 +97,18 @@ I’m still doing runs while I write this review. Will report if I’m able to t
 
 UPDATE I HAVE A CANNON AND AN ENEMY STEERING MODULE WE ARE SO IN IT: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr10.png" caption="" alt="" %}{:target="_blank"}
 
 UPDATE TO THE UPDATE I DID IT!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr11.png?raw=true" caption="Now what?" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr11.png" caption="Now what?" alt="" %}{:target="_blank"}
 
 The more I think about DUSTRANGER, the more I think it is almost an idle-clicker game. Just ironically sans the clicking aspect. You get upgrades which make your money collecting more efficient, and then use those upgrades to get more money. And you just sit and watch as the numbers go up. 
 Just an observation. 
 
 I do have some bad news, however. I was really hoping that this was a demo for an upcoming game, or an early version of something the dev is working on. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr12.png" caption="" alt="" %}{:target="_blank"}
 
 Damn. I love what is here, but I think there is so much potential. I’m sad to see it never got finished, but 2023 isn’t that far away. Dustranger_dev, I hope you are still working on this. I love it. It’s a ton of fun and a unique idea. I would pay money for a full version of this game 100%.
 
@@ -120,7 +120,7 @@ Damn. I love what is here, but I think there is so much potential. I’m sad to 
 
 EDIT: I unlocked everything in the game and completed all the achievements: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr13.png" caption="" alt="" %}{:target="_blank"}
 
 I liked it.
 
@@ -130,7 +130,7 @@ Why am I just now at 11:40pm reviewing Dustranger?
 
 Because I spent my entire evening playing Dustranger.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dustr14.png" caption="" alt="" %}{:target="_blank"}
 
 There are so many things to love about this game, from the way the music changes when you enter a new menu, to the unnecessary camera angles during the idle portion of the game. Even watching your upgrades ram themselves into your roomba at the start of a round. The whole thing is just an audio-visual feast with a bit of idle chill. I want this dev to finish this game, add some maps, a bunch of new power ups, maybe a new base roomba, so I’m going to issue an ultimatum.
 

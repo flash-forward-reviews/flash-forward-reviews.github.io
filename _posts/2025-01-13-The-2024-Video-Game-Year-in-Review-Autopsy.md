@@ -10,7 +10,7 @@ permalink: /day-258
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ Well, we made it. Another year. Sam and I have been bouncing the idea about talk
 
 Boy, did I play a lot of games this year. According to the Steam Year in Review I played 128 games this year, and 64 of those were new games: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend2.png" caption="" alt="" %}{:target="_blank"}
 
 64 new games, and most of those are outside of our review blog here. I’m sure there isn’t a ton of playtime in most of these, but I found that surprising. 
 
@@ -33,7 +33,7 @@ But Deadlock is a blast if you love MOBAs, but also liked OG Overwatch. The best
 
 Balatro is an anomaly made by one man and a Fiver musician and I am so happy for its success. My “brag” from this year is that I was early on that Balatro train. So much so that I stumbled across the demo on the Steam page store and was eagerly awaiting full release. That’s right, I get to play the hipster card! Negative street cred, let’s go! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend3.png?raw=true" caption="This is irrefutable proof that I’m better than you!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend3.png" caption="This is irrefutable proof that I’m better than you!" alt="" %}{:target="_blank"}
 
 I’ll get more into these over the next few days, but I wanted to shout out some games that were pretty fun that I played this year: 
 
@@ -74,11 +74,11 @@ THE 20 GAMES I FINISHED FOR THE FIRST TIME IN THE YEAR 2024 LET’S GOOOOOOOOO
 
 -20. [Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend4.png" caption="" alt="" %}{:target="_blank"}
 
 Viewfinder isn’t the only bad game I played this year, but it is the only bad game I finished, and that’s because it has promise. Viewfinder is a puzzle game where you take pictures of areas and objects then place the photo somewhere else and it becomes real. It’s a little hard to explain, but hopefully this screenshot does something:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend5.png" caption="" alt="" %}{:target="_blank"}
 
 That black area in the bottom left corner was removed when I took a polaroid of it, then I placed it (with a sick sunset filter) above the level, essentially moving that square. You can use this ability to move an exit closer to you, to create a bridge, etc. It’s a cool idea.
 
@@ -92,7 +92,7 @@ I have too many games to go through to really rip this story a new one, so I’m
 
 -19. [Weird West](https://store.steampowered.com/app/1097350/Weird_West_Definitive_Edition/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend6.png" caption="" alt="" %}{:target="_blank"}
 
 A bunch of Arcane Austin devs joined up after the studio closed down to make this, so despite mediocre reviews, I had to give it a shot because they made Prey, which is God’s gift to earth. Despite it’s 19th ranking, I’m very glad I played Weird West because it’s putting in the fucking work. It’s an isometric choices-matter RPG shooter with immersive sim elements except that’s a lie. It’s actually 5 isometric choices-matter RPG shooters with immersive sim elements. You play as some freak that’s in a ritual where you are able to take control of other people’s bodies. For some reason, the cultists in the room with you have picked five very specific people for you to control, and the game is about solving each character’s individual plight while also trying to understand the meta-narrative of the controller.
 
@@ -106,7 +106,7 @@ The game wants to be a series of interlocking systems, the classic imm sim dream
 
 -18. [Vampire the Masquerade Coteries of New York](https://store.steampowered.com/app/1096410/Vampire_The_Masquerade__Coteries_of_New_York/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend7.png" caption="" alt="" %}{:target="_blank"}
 
 This is the part where I have embarrassingly admit that this isn’t the only one of these on the list. VTM:CONY is a visual novel in the Vampire the Masquerade universe that tries to have some gamey mechanics. You choose a vampire clan at the start, which gives you different abilities that can come up in dialogue. There’s a hidden blood meter that will cause you to do something animalistic and stupid against your will if you don’t safely feed on humans when you get chances. There are many side quests and you can only finish two or three of them, which is a branching path in a way, but the main quest won’t deviate. This is, for all intents and purposes, just a choose your own adventure book about vampires. Is the writing good? I don’t know, that’s a complicated question. The dialogue made me embarrassed more than once, but they understand the important things to the VTM lore. They know their story must lean into the dichotomy of political disempowerment that happens right when you get superpowers. You can run faster than a car, but there’s a whole group of even higher powers watching your every move, waiting to use you as a pawn in whatever higher game they’re playing. The art ranges from passable to pretty good, and there were multiple characters that I liked.
 
@@ -118,7 +118,7 @@ How did that story make you feel? Do you want more of that? Do you want way way 
 
 -17. [Sayonara Wild Hearts](https://store.steampowered.com/app/1122720/Sayonara_Wild_Hearts/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend8.png" caption="" alt="" %}{:target="_blank"}
 
 Sayonara Wild Hearts looks like early 2010s Instagram. You have to accept this. 
 
@@ -134,7 +134,7 @@ This is a style that I’m allergic to, but I played through this whole game twi
 
 -16. [MYST](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend9.png" caption="" alt="" %}{:target="_blank"}
 
 Thank God, finally one I can keep short. Myst is an old very famous point and click. I was not playing games when it came out (I was one) and I have not played enough early 90s game to have the cultural context to appreciate its significance. This is all to say that I have no nostalgia, historically or literally, for Myst. The reason it’s on my good games list is that it is a puzzle game with solvable, but challenging puzzles. Myst’s strongest trait is its ability to give no instructions, and have each puzzle be solvable by just clicking on everything on a screen, seeing what it does, then experimenting to put the pieces together. Playing it really feels like fiddling with an ancient machine, learning to make it sing for you. It’s a simple functional joy that any point and clicker should try, I promise it’s not just riding on history, this is some real designer shit.
 
@@ -142,13 +142,13 @@ Thank God, finally one I can keep short. Myst is an old very famous point and cl
 
 -15. [Antichamber](https://store.steampowered.com/app/219890/Antichamber/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend10.png" caption="" alt="" %}{:target="_blank"}
 
 The amount of confident swagger in Antichamber is undeniable. It’s just a series of perception-bending puzzles put into a metroid-venia-style world, but its scope is more impressive than its simplistic style would imply. If Myst makes you feel like you’ve conquered an ancient machine, then Antichamber makes you feel you’ve adjusted to a new reality, where wacko physics, color mechanics, and non-euclidean space is just the norm. It’s that great feeling where something you know logically should be total nonsense, just makes perfect sense. Basically imagine if Superliminal was good (JK I HAVEN’T PLAYED SUPERLIMINAL YET IT MIGHT BE GREAT SORRY).
 
 -14. [Vampire the Masquerade Shadows of New York](https://store.steampowered.com/app/1279630/Vampire_The_Masquerade__Shadows_of_New_York/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend11.png" caption="" alt="" %}{:target="_blank"}
 
 LOOK I’M SORRY OKAY, I LIKE VTM LORE, WHAT THE FUCK DO YOU WANT FROM ME! I BOUGHT THE NEW CORE RULEBOOK AND I CAN’T STOP FLIPPING THROUGH IT! I’VE BEEN PLAYING A PORTLAND OREGON CAMPAIGN AND DON’T EVEN HAVE ANY PLAYERS! 
 
@@ -158,7 +158,7 @@ There’s a scene right after the protagonist gets turned into a vampire where s
 
 -13. [Max Payne](https://store.steampowered.com/app/12140/Max_Payne/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend12.png" caption="" alt="" %}{:target="_blank"}
 
 What a gem Max Payne is. There’s an overly complicated mob/cop story involving a super-soldier program, getting revenge for your dead wife, thirty seven characters that are introduced then die (usually by your hand) at the end of a chapter. None of it matters. What matters is when you dive, time slows down. If you don’t kill everyone in a room before your dive ends, you’ll be so fucking dead. It’s basically 3D Hotline Miami; you dive in a room, die, then reload with better knowledge, dive in again and feel like a GOD as you headshot everyone in the room with one mag HOOOOOOLY SHIT.
 
@@ -171,7 +171,7 @@ What else could you want? A story that makes sense? Maybe a few less boring ass 
 
 -12. [Ctrl Alt Ego](https://store.steampowered.com/app/1571940/Ctrl_Alt_Ego/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend13.png" caption="" alt="" %}{:target="_blank"}
 
 Ctrl Alt Ego has a shit name, has trash music and looks like butts. You play as a formless spirit that can take over any mechanical object in a space station. You mainly control a little robot, but you can also be a light switch, a door, and if you spend a few ego points, you can control every enemy in the game.
 
@@ -183,7 +183,7 @@ There are a million ways to do anything. The developer has no plan, they don’t
 
 -11. [Alpha protocol](https://store.steampowered.com/app/34010/Alpha_Protocol/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend14.png" caption="" alt="" %}{:target="_blank"}
 
 WHAT
 
@@ -201,7 +201,7 @@ Anyone who has played this game knows I’m leaving so much out, this is the mos
 
 -10. [Dread Delusion](https://store.steampowered.com/app/1574240/Dread_Delusion/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend15.png" caption="" alt="" %}{:target="_blank"}
 
 [DEAD DELUSION REVIEW PART 1](https://flash-forward-reviews.github.io/day-14){:target="_blank"}
 
@@ -211,13 +211,13 @@ Besides my previous reviews, I’ll say that I finished this game and while the 
 
 -9. [Max Payne 2](https://store.steampowered.com/app/12150/Max_Payne_2_The_Fall_of_Max_Payne/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend16.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend16.png" caption="" alt="" %}{:target="_blank"}
 
 Max Payne 2 should not exist. No one should have made a game after Max Payne and thought “yea but what if killing everyone didn’t actually help him that much”. Max Payne 2 is a Max Payne game where there is an entire level where you just walk through an abandoned haunted house theme park ride with zero enemies. It’s a Max Panye game where Max realizes external pleasures like revenge will not help him grieve. It’s not some super smart, deeply emotional thing in a vacuum, but the fact that it’s Max Payne learning that he needs to handle his internal demons is so wild that I was glued to this game. The story is more simple, but it makes sense, the combat is slower, but feels less save-scummy. It’s a game that betrays Max Payne by loving Max Payne. Max Payne 1 is a stupid game about revenge. That makes sense. Revenge is simple stupid monkey brain behavior. Max Payne 2 is a stupid game about love, and I have no idea what that could possibly mean.
 
 -8. [Talos Principle 2](https://store.steampowered.com/app/835960/The_Talos_Principle_2/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend17.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend17.png" caption="" alt="" %}{:target="_blank"}
 
 I LIKE PUZZLE GAMES! This is one of those puzzle games where the puzzles are good too! What a bonus! It’s crazy that there’s a single player puzzle game in 2024 with full on Mass-Effect style dialogue trees and Witcher 3 level graphics menu options. I don’t know how we got here, but we should absolutely enjoy the shit out of this while we have the chance, it may not happen again for a long time. Do I need every puzzle game to be this shiny? Jesus no, that’d be awful, but I’m glad there is one pure puzzle game on this scale. 
 
@@ -229,7 +229,7 @@ Talos Principle 2 is the puzzle game. There are puzzle games I like more, but no
 
 -7. [Fire Emblem Awakening](https://www.nintendo.com/au/games/nintendo-3ds/fire-emblem-awakening/?srsltid=AfmBOoouPWDJK3E5WE-LSSSk998MAPIH5l5204ly446ZO4giZsFUMWjW){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend18.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend18.png" caption="" alt="" %}{:target="_blank"}
 
 I don’t know how I can explain the black hole that is a Fire Emblem stat table without a 60 slide Power-Point, but I will say this. There are roughly 30 first generation characters in this game. Of those, 25 can have children (almost any male and female pairing can be the parents). Based on the number of female characters that get married, you can have up to 13 second generation children that are based on the mother, but share stats/skills and hair color from their father. The number of possible pairings has to be in the hundreds, and that’s not even considering that any character can have different skills/be a different class on any given playthrough, so there are probably thousands of variations of each child.
 
@@ -241,7 +241,7 @@ The magic of Awakening is you can aim to understand this and dive in, destroy ev
 
 -6. [Pathologic](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend19.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend19.png" caption="" alt="" %}{:target="_blank"}
 
 [PATHOLOGIC REVIEW](https://flash-forward-reviews.github.io/day-137){:target="_blank"}
 
@@ -249,7 +249,7 @@ Since writing this, I’ll just say that I finished all 3 characters, and while 
 
 -5. [Balatro](https://store.steampowered.com/app/2379780/Balatro/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend20.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend20.png" caption="" alt="" %}{:target="_blank"}
 
 Ima copy and paste a quote from our [Night of Full Moon](https://flash-forward-reviews.github.io/day-10){:target="_blank"} review:
 
@@ -261,11 +261,11 @@ This is all still true and the game over time has proven to have the same depth 
 
 -4. [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend25.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend25.png" caption="" alt="" %}{:target="_blank"}
 
 Yea I had a bit of a puzzle phase this year, but Lorelei is different. LATLE isn’t about looking at a puzzle and then solving it, it’s pure deduction. See a year in a note someone left? That year has to be a code to something! See if anything on the page might indicate what door it goes to. Why is there a pattern on the wall? That has to mean something. The game warns you at the start that you will have to take notes and it is NOT FUCKING AROUND:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend21.png?raw=true" caption="My real notes after day 1" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend21.png" caption="My real notes after day 1" alt="" %}{:target="_blank"}
 
 That is all of this game. It is a slow descent into red-line-corkboard madness made specifically for people who love taking notes, and love putting two and two together. Basically, they made it for me. I don’t know what possessed Simogo to make this (maybe working on Sayanora Wild Hearts bubblegum shit for 4 years drove them into unmarketable puzzle hell?), but thank God we got this gem.
 
@@ -283,7 +283,7 @@ Simogo has never worried about looking stupid. It’s worked against them a few 
 
 -3. [Mouthwashing](https://store.steampowered.com/app/2475490/Mouthwashing/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend22.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend22.png" caption="" alt="" %}{:target="_blank"}
 
 [MOUTHWASHING REVIEW PART 1](https://flash-forward-reviews.github.io/day-208){:target="_blank"}
 
@@ -295,7 +295,7 @@ These reviews still reflect my current feelings. Please play it, it’s short an
 
 -2. [Persona 3 Reload](https://store.steampowered.com/app/2161700/Persona_3_Reload/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend23.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend23.png" caption="" alt="" %}{:target="_blank"}
 
 When we finished the original Persona trilogy, I turned to my wife and said, “if they made Persona 3 in the Persona 5 engine, that might be my favorite game ever”. It’s like a dogshit movie where instead of the moral being “be careful what you wish for” it’s instead “if you wish for something and then it comes true, it actually just kicks ass”.
 
@@ -309,7 +309,7 @@ Persona 3 was always shooting higher than it could hit. Fully animated cutscenes
 
 -1. [Pathologic 2](https://store.steampowered.com/app/505230/Pathologic_2/){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend24.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/yearend24.png" caption="" alt="" %}{:target="_blank"}
 
 [PATHOLOGIC 2 REVIEW](https://flash-forward-reviews.github.io/day-170){:target="_blank"}
 

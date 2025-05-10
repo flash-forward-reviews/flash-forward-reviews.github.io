@@ -10,21 +10,21 @@ permalink: /day-177
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 I’m not sure what’s more terrifying. This spelling of Shrek:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak3.png" caption="" alt="" %}{:target="_blank"}
 
 Or the fact I that had to watch multiple Nicacado Avocados toast a milkshake towards me while I dodged Donald Trump and collected nukes and coins as everyone’s favorite ogre: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak4.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shreak5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

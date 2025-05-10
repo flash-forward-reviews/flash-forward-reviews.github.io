@@ -10,7 +10,7 @@ permalink: /day-39
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish1.png" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -18,21 +18,21 @@ I wasn’t sure what we were getting into with this one. The logo looks like an 
 
 The opening cutscene shows the fish getting their mission from a screen on a fake mine in an abandoned mine field that reveals that the younger brother of King Crap (rap-star millionaire crab) is missing. The scene is loaded with c-tier fish puns (SEA-TIER FISH PUNS!) and tired spy tropes.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish2.png" caption="" alt="" %}
 
 Maybe it’s explained more in the first game, but why do these two dopes get this mission? They don’t seem like secret agents. Their dialogue isn’t spy-like... they seem like regular buffoons. I mean look at them: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish3.png" caption="" alt="" %}
 
 When the gameplay starts proper, you go through a tutorial, where you get a lot of meta jokes about being in game, such as bantering about pressing “R” to restart if you get into an unwinnable scenario. The tutorial also taught you that the fish can die if something falls on top of them, but they just laugh off death, reminding you that you can just back up a step with the backspace button.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish4.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish5.png" caption="" alt="" %}
 
 At this point I couldn’t say I was on board. There were two barely defined characters in a nonsense spy scenario pushing pipes around a van. None of the humor was landing, and I was about ready to stop, but decided to play at least one real level after the tutorial.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish6.png" caption="" alt="" %}
 
 Then.. the most unexpected thing happened... the puzzle fucking slapped. It’s the classic puzzle game success story, very few mechanics, but a lot of layered uses (depth pun unintentional). Through a wild combination of exchanging the hammer back and forth between the two fish in such a way that it wouldn’t fall and kill them, we got the hammer in between the bus and the ray and pushed it to wedge him off the van and to the ocean floor. It’s not the hardest puzzle (this is level one after all), but even here I had multiple instances of making a mistake, but then immediately realizing “oh! I can do this actually” and backing up/correcting.
 
@@ -50,7 +50,7 @@ I’m probably going to echo a lot of what Sam had to say about this game, up un
 
 I get the humor they were going for here, and stylistically the game nails the tone it’s trying to set. However, as Sam said, it never really “landed”. I think what initially put me off was the amount of talking the two fish leads would do. And, while I’m sure the stiff voice acting is intentionally camp, there’s a fine line for me between fun and just mildly irritating. Thankfully after a quick settings crawl, I found the holy grail:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish5.png" caption="" alt="" %}
 
 This helped tremendously with my enjoyment of Fish Filets 2 - You can still read the fish subtitles so you aren’t missing out on any story or direction. 
 
@@ -59,7 +59,7 @@ Fish Filets 2 seems like it has a surprising amount of depth, despite its goofy 
 
 However, here is where Sam and I deviate - when I got to this screen:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/xfish6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/xfish6.png" caption="" alt="" %}
 
 Instead of thinking, “Oh, cool, can't wait to check this out and dive into these puzzles!” I thought, “Mmm, naw. Fuck that, no thank you.” and closed the game. 
 

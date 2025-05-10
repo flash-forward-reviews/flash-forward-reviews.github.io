@@ -10,13 +10,13 @@ permalink: /day-202
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 Physics be damned - this is cheaper than a strip club. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco3.png?raw=true" caption="Boingoingoingoing AHOOGAH huminahuminahumina *jaw drops to floor* *jaw retracts like a window blind* pant pant pant huh huh huh Bazoonga!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco3.png" caption="Boingoingoingoing AHOOGAH huminahuminahumina *jaw drops to floor* *jaw retracts like a window blind* pant pant pant huh huh huh Bazoonga!" alt="" %}{:target="_blank"}
 
 Someone’s been working on grafting other body parts to themselves - how chic!
 
@@ -30,7 +30,7 @@ Or whoever made this has never seen a human before.
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/coco2.png" caption="" alt="" %}{:target="_blank"}
 
 Oh God damn it Skeeter...
 

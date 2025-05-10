@@ -10,7 +10,7 @@ permalink: /day-245
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/newyear1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/newyear1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -28,7 +28,7 @@ Sure, it actually works, BUT WHERE IS THE SOUL?!
 
 I don’t know. I felt like the background was a little boring, so I tried my hand at sprucing it up a bit:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/newyear2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/newyear2.png" caption="" alt="" %}{:target="_blank"}
 
 Happy New Year!
 

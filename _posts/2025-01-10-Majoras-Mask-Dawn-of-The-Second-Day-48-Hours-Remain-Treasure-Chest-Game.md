@@ -10,7 +10,7 @@ permalink: /day-255
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt1.jpg" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -20,7 +20,7 @@ A treasure chest appears at the end of a checkered grid. There is a hidden maze 
 
 Young me was a big fan of this mini-game, though. I spent a lot of time here as a kid. I don’t really want to say why… 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt2.jpg" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Only once you reach Goron transformation and can get the heart container piece**
 
@@ -32,19 +32,19 @@ Young me was a big fan of this mini-game, though. I spent a lot of time here as 
 
 What did they mean by this?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt3.png" caption="" alt="" %}{:target="_blank"}
 
 It’s not just me right? Nah you know what I’m talking about. Like, I... yeah you get it. Right?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt4.png" caption="" alt="" %}{:target="_blank"}
 
 It seems like you get it, am being weird? Haha, no... nah I’m just in my own head about it. Seems like other people get it.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt5.png" caption="" alt="" %}{:target="_blank"}
 
 I actually don’t like how much they get it.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt6.png?raw=true" caption="“I’ve faved your GIF on DeviantArt” is a stronger sentence than we’ve ever had before." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/mmt6.png" caption="“I’ve faved your GIF on DeviantArt” is a stronger sentence than we’ve ever had before." alt="" %}{:target="_blank"}
 
 Oh we haven’t talked about the sounds they chose for her...
 

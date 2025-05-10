@@ -10,7 +10,7 @@ permalink: /day-269
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,11 +18,11 @@ Right click to move your karate cat. Left click to attack other karate cats. Mak
 
 Except the other cats don’t attack you and opt for the bold strategy of “stand there” for both their defensive and offensive plans. You can walk by every cat. There is virtually no way to lose. The game is actually a battle of attrition. And it also is committing the cardinal sin of being a walking simulator while pretending to be a fighting game. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf2.png" caption="" alt="" %}{:target="_blank"}
 
 It’s so late, it took me way too long to realize what a “Fart Hest” was and why I kept getting further from it… 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/scf3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Naw, cat**
 

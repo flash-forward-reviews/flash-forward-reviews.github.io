@@ -10,21 +10,21 @@ permalink: /day-288
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take: 
 
 I’m really betting on our blog not catching on, because on the off chance it did, Super Smash Bros. Crusade would be shut down in fuckin’ seconds. This project has been going on since 2008, and I have to say it feels fully complete. I’m no Smash head, so I can’t talk about a character’s kit in detail, but everyone I tried had full unique movesets and a final smash. There’s even the full on single player classic mode with Break the Targets and all that jazz.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc2.png" caption="" alt="" %}{:target="_blank"}
 
 Most of the characters are repeats from smash, but they’ve added a few of their own and the roster is pretty large. The characters are 2d sprites instead of the traditional 3D smash characters, but the sprite work on the characters and map and pretty damn impressive, especially for a fan game like this:
  
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc3.png" caption="" alt="" %}{:target="_blank"}
 
 I wasn’t really expecting this level of polish from a free Smash rip off, but if you’re really fiending for some Smash and have literally zero dollars, it’s hard to imagine a better option than SSBC. They even have online play which is pretty sick and nasty.
  
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/ssbc4.png" caption="" alt="" %}{:target="_blank"}
  
 **Recommend: Yayaya**
 

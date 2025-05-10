@@ -10,7 +10,7 @@ permalink: /day-132
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/buckb1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/buckb1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -32,7 +32,7 @@ Buck Bumble Bumps Ballistic Bullet(point)s:
 ~~Is Flappy Bird\
 ~~Has these weird green orbs on the letterbox bars - this doesn’t really affect gameplay or anything but is a very strange design choice that I thought was worth mentioning:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/buckb2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/buckb2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No. Please refer to Buck Bumble Bumps Ballistic Bullet(point)s for further information.**
 

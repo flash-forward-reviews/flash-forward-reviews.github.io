@@ -10,7 +10,7 @@ permalink: /day-161
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -57,15 +57,15 @@ Jumpscare has one of the worst jumpscares ever.
 
 You start by staring blankly through a wooden wall. There is a zombie in a wooden chair. He gets up out of his seat and walks out of view: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare2.png" caption="" alt="" %}{:target="_blank"}
 
 You are presented with a volume slider for loud sounds - a decent idea for a game named “jumpscare” as I can turn the volume all the way down and see if the visuals can stand without the “oopmh” of the music stings behind them. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare3.png?raw=true" caption="Side note - you can’t grab and drop the dot to adjust. You have to hit the arrows. Just thought that was interesting." alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare3.png" caption="Side note - you can’t grab and drop the dot to adjust. You have to hit the arrows. Just thought that was interesting." alt="" %}{:target="_blank"}
 
 Then, out of nowhere - AHH!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare4.png" caption="" alt="" %}{:target="_blank"}
 
 A Jumpscare! A second volume slider - this one for quiet sounds! I had never seen anything like this before, and furthermore it came out of nowhere! AHH!
 
@@ -94,11 +94,11 @@ Skeeter’s ability to write a thousand words and make me link 4 videos for a ga
 Skeeter and I are typing on the same Google Doc at the same time. 
 Turns out all you have to do is adjust the slider until you hear the whispers, like the game says. Only, you cannot hear the whispers - the slider will stop just before max volume and:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare5.png" caption="" alt="" %}{:target="_blank"}
 
 The whispers. They do not exist. Only Zombie Jumpscare exists. He’s right, everything he’s saying is right. What’s better than one zombie jumpscare?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare6.png" caption="" alt="" %}{:target="_blank"}
 
 IT’S TWO OF EM! HE’S GUNNA SAY IT’S TWO OF EM!
 
@@ -116,7 +116,7 @@ __ _ |   | __ _
 
 King me
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/jumpscare7.png" caption="" alt="" %}{:target="_blank"}
 
 Wait I can’t do this. You win.
 

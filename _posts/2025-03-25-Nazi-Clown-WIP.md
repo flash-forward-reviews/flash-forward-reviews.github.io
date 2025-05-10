@@ -10,7 +10,7 @@ permalink: /day-329
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -24,7 +24,7 @@ Actually, as I was writing this, I went looking for a screenshot example of a ga
 
 People were reviewing this game up until 2023: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown2.png?raw=true" caption="Imagine reviewing a flash game from 2002 in (current year)! It absolutely could be me!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown2.png" caption="Imagine reviewing a flash game from 2002 in (current year)! It absolutely could be me!" alt="" %}{:target="_blank"}
 
 Nazi Clowns (WIP) has been 23 years in development, and I hope it never gets finished. I’m obviously nostalgic towards it, but that’s mostly because I believe Sam and I found Nazi Clowns pretty early on in the project and it broke our brains. It was one of our first times seeing something so baffling and of poor quality. There were a lot of bad flash games we played, some arguably worse than Nazi Clowns (WIP), but they aren’t always funny. And Nazi Clowns (WIP) hits a good balance of being terrible, but still kind of funny without being too long or annoying. I’m intentionally keeping things vague, as there isn’t much to talk about with this game outside of describing it, and I’m trying to throw Sam a bit of a bone. I’ll let him give you the rundown of the nitty gritty details of Nazi Clowns(WIP). 
 
@@ -42,19 +42,19 @@ Happy Bar “Mitzfah”!
 
 Sam Cain then:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown3.png" caption="" alt="" %}{:target="_blank"}
 
 Sam Cain now:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown4.png" caption="" alt="" %}{:target="_blank"}
 
 Skeeter then:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown5.png" caption="" alt="" %}{:target="_blank"}
 
 Skeeter now:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nclown6.png" caption="" alt="" %}{:target="_blank"}
 
 Pour one out for the old me.
 

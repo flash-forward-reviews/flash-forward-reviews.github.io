@@ -10,7 +10,7 @@ permalink: /day-65
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/amdad1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/amdad1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -30,11 +30,11 @@ Happy Freedom everyone!
 
 The dev encourages people to speedrun this game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/amdad2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/amdad2.png" caption="" alt="" %}{:target="_blank"}
 
 The best part about American Dad (PC EMULATOR) is that there are actually people posting their speedrunning times and  glitch tricks in the comments: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/amdad3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/amdad3.png" caption="" alt="" %}{:target="_blank"}
 
 And boy does it have some glitches, I couldn’t even get the damn thing to run correctly. First time, I got stuck on the first screen, and the second time it played through without sound. I am not playing a third time. 
 

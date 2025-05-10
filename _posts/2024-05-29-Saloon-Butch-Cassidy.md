@@ -10,7 +10,7 @@ permalink: /day-29
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bcs1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bcs1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -21,7 +21,7 @@ You can put your weary heart to rest, stranger. Butch ain’t here! He ain’t b
 Are you in there yet, stranger? I didn’t think you were going to make that jump! Looked like a hog trying to holler at a bull trying to climb up there, yessir. 
 Don’t keep me in suspense, tell me what you see in there!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bcs2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bcs2.png" caption="" alt="" %}
 
 That’s right. Take it all in, stranger. Stillness. Nothingness. Absence. It is perfection. It is the Saloon “Butch Cassidy”. 
 Just look - where a piano player would normally sit, playing a nice ragtime tune? NOTHING. We even took the strings out of the piano just to be safe. 
@@ -41,7 +41,7 @@ Is it making sense now, stranger? Aw, shucks, don’t get mad. I hate to have to
 
 *You turn around to examine the deed scratched into the floorboards*
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bcs3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bcs3.png" caption="" alt="" %}
 
 **Recommend: No**
 
@@ -51,7 +51,7 @@ Is it making sense now, stranger? Aw, shucks, don’t get mad. I hate to have to
 
 PS: Both the .exe and the zip call this game “Addiction”: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bcs4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bcs4.png" caption="" alt="" %}
 
 Not sure what you can do with this information, but there you go.
 

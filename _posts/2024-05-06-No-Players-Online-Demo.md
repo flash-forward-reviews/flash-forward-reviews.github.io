@@ -93,7 +93,7 @@ As I played, I thought this would probably work better as just a simple game tha
 
 No Players Online Classic is basically the exact same game EXCEPT with all the [Hypnospace Outlaw](https://store.steampowered.com/app/844590/Hypnospace_Outlaw/){:target="_blank"} desktop elements removed. With this idea in isolation, the mismatch of being alone in a space built only for events actually takes an emotional toll. It feels emptier than nothing — there’s an awkward safety to it. In both the classic and new versions of the game, this moment of uneasy serenity followed by the text at the bottom of the screen, “So-and-so joined your game,” brings in a quick jolt of tension. I’m barely sure why I’m in this game. Why the hell are THEY in this game?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/go1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/go1.png" caption="" alt="" %}
 
 Unfortunately both games release this tension with a spooky glitchy black ghost getting closer to you and making a loud noise. You cannot control your view/movement and you can’t get away. You see it once and the illusion is dispelled. You’re not in a lobby, you are in the creepy game. You’ve seen the monster that’s under your bed, and it’s not nearly as big as you imagined.
 

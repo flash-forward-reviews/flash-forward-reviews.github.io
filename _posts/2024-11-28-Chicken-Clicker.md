@@ -10,11 +10,11 @@ permalink: /day-212
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chickclick1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chickclick1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chickclick2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chickclick2.png" caption="" alt="" %}{:target="_blank"}
 
 I thought turkey was the traditional Thanksgiving bird. Is that the joke? Am I missing it?
 

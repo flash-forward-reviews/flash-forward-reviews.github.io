@@ -10,7 +10,7 @@ permalink: /day-42
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ngnl1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ngnl1.png" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -18,13 +18,13 @@ Skeeter sent me a message around 2pm today asking “hey, what’s the most crin
 
 I don’t know how to describe the surreal experience it was going into this game with no context. I started in what seems to be an abandoned parking lot, took 3 steps forward, then was immediately assaulted by three girls with cat ears sprinting at me and making kissing sounds. When they reached me my screen filled with lipstick marks and the game restarted.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ngnl2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ngnl2.png" caption="" alt="" %}
 
 At this point I found out you can shoot the cat girls with love hearts that bounce around seemingly forever. Due to the everlasting nature of these heart-projectiles, it causes the framerate to plummet the more you shoot. I tried to crash the game by shooting endlessly at a truck, but the game definitely kept running at 2fps, so it’s better than Fallout New Vegas in that respect.
 
 If you make it to the end, there is one last bigger cat girl that takes many shots to take down. Once she falls... nothing happens. You can just roam around the now empty parking lot until you alt-tab out and force-quit the program.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ngnl3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ngnl3.png" caption="" alt="" %}
 
 I have no words... what could this anime possibly be about? Is this about someone who has to run away from kissing cat girls? I guess that would be a pretty cringe anime. 
 

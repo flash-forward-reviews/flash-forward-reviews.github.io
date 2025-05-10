@@ -10,7 +10,7 @@ permalink: /day-48
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -34,19 +34,19 @@ Alright, I’m done nit picking (and biased - thanks Dunkey). Going to go play m
 
 Don’t worry everyone I got the screenshots:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide2.png" caption="" alt="" %}
 
 Oh yea, look at that fishing circle:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide3.png" caption="" alt="" %}
 
 We catchin’ some NASTY bois on this boat!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide4.png" caption="" alt="" %}
 
 Just some lil guys here so say lil hi!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide5.png" caption="" alt="" %}
 
 Okay pretend Skeeter had a few of those in his review. Wow! Great review Skeeter!
 
@@ -56,15 +56,15 @@ I BEAT THIS GAME ON A TRACKPAD SKEETER GITREKTGITREKT GGEZ Y PAUSE 4 RAGE!!!!!11
 
 For real though, Skeeter is right that the atmosphere is pretty strong (just look at my INCREDIBLE screenshots), but the fishing minigame (also known “the gameplay”) is mostly annoying. I actually think finishing the game has given me a more negative view on it. Ima spoil the ending so if you’re curious, the game is short and free so discontinue your reading this instant, you can come back later.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide6.png" caption="" alt="" %}
 
 As the game goes on, the sky slowly turns into a reddish hellscape, and at the very end of the game you pull a human fetus out of the water and then hold it like a baby.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide7.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide7.png" caption="" alt="" %}
 
 Then this poem appears on screen:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mtide8.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mtide8.png" caption="" alt="" %}
 
 I think having the literal meaning of the game spelled out in plainish text like this really dampens the atmosphere. We don’t have details, but we know he has an unborn child because he believed his wife was unfaithful and did something to cause the child to not live to birth. To me, this makes all the mystique created when pulling out other creepy fish pretty much moot. They aren’t part of some big reveal, they are just weird things that happen before the big reveal. I don’t look back on those first few fish and think, “oh that one represents his jealousy” or something. Fishing up the fetus is the only thing that matters, and it’s all explained so plainly that there just isn’t any other way to interpret it.
 

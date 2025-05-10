@@ -10,7 +10,7 @@ permalink: /day-120
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/d2i1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/d2i1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -30,21 +30,21 @@ After the timer runs out, you head to the stage to walk the catwalk and show you
 
 Here’s Sam’s “Maximalist/Minimalist” fit:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/d2i2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/d2i2.png" caption="" alt="" %}{:target="_blank"}
 
 Here’s our duo “Detective and Suspect” outfits: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/d2i3.png?raw=true" caption="At least CCleaner gave us a vote" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/d2i3.png" caption="At least CCleaner gave us a vote" alt="" %}{:target="_blank"}
 
 It took us a while to figure out how to change skin color, so for most of this we were running around as members of [The Fugates Family](https://en.wikipedia.org/wiki/Blue_Fugates){:target="_blank"}. 
 
 But eventually we found the tanning bed, and managed to create our Magnum Opus - the prompt was “Mean Girls” and I think we nailed it:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/d2i4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/d2i4.png" caption="" alt="" %}{:target="_blank"}
 
 And the critics agree!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/d2i5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/d2i5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: I had some fun. If your favorite part of the Sims is the character creation, go nuts. Personally, not my cup of skirts (despite my love for character creators). I do think if you get the right group of friends together and treat this like a Jackbox game, it could be a lot of fun.**
 

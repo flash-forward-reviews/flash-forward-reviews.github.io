@@ -10,7 +10,7 @@ permalink: /day-56
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -24,18 +24,18 @@ I personally raced to get the auto-drop upgrade so I didn’t have to do filthy 
 
 Then I saw an upgrade appear for a bonus wheel appear:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc2.png" caption="" alt="" %}{:target="_blank"}
 
 That was interesting - something new had appeared and it was a bonus wheel spin. It even added little “spin” spaces to my pachinko board that would add a spin if the balls hit it. 
 Then another upgrade appeared, this time for Gemstone Balls which all do their own various things, but generally greatly improve your score multipliers. They also have a smaller drop rate than the gold balls. 
 
 And then, just like that I was caught in a trance. I couldn’t stop upgrading and watching my now steady stream of pachinko balls bounce into progressively bigger and bigger scores. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc3.png" caption="" alt="" %}{:target="_blank"}
 
 It was around this time I also noticed there was an internal game timer as well: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc4.png" caption="" alt="" %}{:target="_blank"}
 
 Oh, what the fuck?
 
@@ -62,13 +62,13 @@ I can stop anytime I want.
 
 **Time Played:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc5.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
 I’m not sure I have any endorsement quite as strong as “I stopped playing Elden Ring for this”, but I can show you this screenshot:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc6.png" caption="" alt="" %}{:target="_blank"}
 
 Holy SHIT dude. LOOK HOW MUCH SHIT IS GOIN ON! You want in on this dontcha? Yea yea I see you there, wondering what the beachball does. Guess what bozo? I ALSO DON’T KNOW WHAT IT DOES!
 
@@ -89,6 +89,6 @@ You just KEEP ME HANGIN’ OOOOOOOOOOONNNNNNNNNNNNNNNN
 
 **Time Played:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/pachinc7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/pachinc7.png" caption="" alt="" %}{:target="_blank"}
 
 {% include button.html text="Link to Game" link="https://poochyexe.github.io/pachinkremental/pachinkremental.html" %}

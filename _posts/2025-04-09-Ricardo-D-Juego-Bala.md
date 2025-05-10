@@ -10,7 +10,7 @@ permalink: /day-344
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -22,25 +22,25 @@ The game slowed my browser to a crawl and continuously played music, even after 
 
 None of this is really interesting, but what is interesting is the dev’s itch.io page.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica2.png" caption="" alt="" %}{:target="_blank"}
 
 You’ll notice, most of these games look identical but have different names in front of them. 
 
 The other games are exactly what you would expect: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica3.png?raw=true" caption="Ernesto - canon (in D)" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica3.png" caption="Ernesto - canon (in D)" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica4.png?raw=true" caption="Ricardo G - canon" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica4.png" caption="Ricardo G - canon" alt="" %}{:target="_blank"}
 
 What I think is happening here is this page was for a workshop or a class and these are a collection of the projects from said workshop/class. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica5.png?raw=true" caption="I’m assuming 2020 is the year of the class" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica5.png" caption="I’m assuming 2020 is the year of the class" alt="" %}{:target="_blank"}
 
 This pattern continues through the page. Each game theme has multiple entries all with the same person names: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica6.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica7.png" caption="" alt="" %}{:target="_blank"}
 
 Personally, I’m having fun envisioning the fiery rivalry between Ricardo D and Ricardo G. There really can only be one top Ricardo and these kids need to settle it in the console! Who will win? We are taking votes below! Click to vote for your favorite Ricardo! 
 
@@ -60,13 +60,13 @@ Nice job, kids!
 
 I hate to say that I have a sizable issue with Ricordo D’s fake Angry Birds level. That TNT box just ain’t cutting. You can shoot a portal at the top of the screen to blow it up, but it’s the weakest explosion I’ve ever seen.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica9.png?raw=true" caption="Before Explosion" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica9.png" caption="Before Explosion" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica10.png?raw=true" caption="After Explosion" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica10.png" caption="After Explosion" alt="" %}{:target="_blank"}
 
 Besides that the game is functional. Cannonballs hit the blocks, pigs fall, you win!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rica11.png" caption="" alt="" %}{:target="_blank"}
 
 There are no lives or ball-limits, so you can spam away to your heart’s content. It’s just some quick thing that, as Skeeter pointed out, was probably made for some sort of camp or class. Do I recommend it? No, but you don’t care about that. You only want to know the answer to a single question...
 

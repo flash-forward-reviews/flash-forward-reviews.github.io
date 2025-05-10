@@ -10,7 +10,7 @@ permalink: /day-145
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,25 +18,25 @@ I’m honestly like totally LOL-ing right now. Like, I’m totally almost like L
 
 To explain today’s game, “Lion King”, I am going to refer to the 1994 animated Disney film by the name of The Lion King. This movie is extremely important to mention as “Lion King” is a recreation, demake , reimagining of “[The Lion King](https://en.wikipedia.org/wiki/The_Lion_King){:target="_blank"}” using Gifs, internet memes, and sounds clips/music from the original movie.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking2.png?raw=true" caption="The “Missing Image” pictures really add to my immersion" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking2.png" caption="The “Missing Image” pictures really add to my immersion" alt="" %}{:target="_blank"}
 
  “Lion King” takes a striking and bold stance to reinvent the beloved story by allowing the player to interact and make decisions as Simba.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking3.png?raw=true" caption="This is the only option" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking3.png" caption="This is the only option" alt="" %}{:target="_blank"}
 
 Remember the water buffalo stampede scene from the movie? Well, what if Simba didn’t climb a tree narrowly escaping the stampede, and instead chose to try to keep running in an attempt to escape the stampede? 
 
 If you answered “He’d probably fucking die”, you and georjen15 (the creator) would be in agreement!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking4.png?raw=true" caption="The Mario death noise played when this screen came up" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking4.png" caption="The Mario death noise played when this screen came up" alt="" %}{:target="_blank"}
 
 I couldn’t load my save either.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking5.png?raw=true" caption="It’s ok buddy. What’s important is that you tried!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking5.png" caption="It’s ok buddy. What’s important is that you tried!" alt="" %}{:target="_blank"}
 
 But that’s because I realized the screen before this gave me the option to hit “save”, which naturally I had failed to do, mistaking it for one of the player choices. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking6.png" caption="" alt="" %}{:target="_blank"}
 
 he whole game plays like this. There is no illusion of choice. Every choice you make in “Lion King” results in either loss or progress, and the losses just force you to reload so you can pick the other (correct) option. These choices boil down to “Do the thing that happened in the movie, or don’t do the thing that happened in the movie and lose”. Of course, they have to reduce to that as this game is just the Lion King, so the story cannot deviate from the Lion King. If the story deviated, where would the assets(read: gifs, story, ideas, and IP) come from? Lion King 2? AS IF? 
 
@@ -44,13 +44,13 @@ I’ll be real, I just wanted an excuse to post [the only good thing to come out
 
 One of my favorite examples of these choices was when the game asked if I would rather follow Scar to see what his surprise is (aka the slaughter of my dear old Dad), or go back home because it was bathtime. Naturally, I picked the bathtime option and was met with an image of pride rock, no text, and the smallest gif of Simba getting bathed. It looped endlessly. There was no further explanation. There was no “reload save” button. There was only a back arrow that I could click that allowed me to choose the correct version
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking7.png?raw=true" caption="I’m like totally LOL-ing right now" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking7.png" caption="I’m like totally LOL-ing right now" alt="" %}{:target="_blank"}
 
 Shockingly, “Lion King” uses the music from the original motion picture, “The Lion King”, something nobody could have seen coming. 
 
 Naturally, “the Circle of Life” plays throughout the intro. The Lion King logo sat tiny in the center of the black void of my screen, “NAYAAAAAAAAAAAAAHHHHHHH ISMABNBAYYYYYYYYYY” screamed through my eardrums.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking8.png" caption="" alt="" %}{:target="_blank"}
 
 Suddenly, I was there in Africa…
 
@@ -64,7 +64,7 @@ I don’t know why I’m mentioning it, I just find this design choice fascinati
 
 Before I leave, I wanted to share with you the game’s toughest decision: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking9.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: It’s funny, but it’s also just the Lion King. I’m torn on this. On one hand, if this was an original IP that came from someone’s weird little brain (like Space), it might just barely clear the bar. But unfortunately it’s just the Lion King. That’s it. The whole story is just the Lion King. The game is you, playing the Lion King. And that’s the other side of it - the fact that it’s just the Lion King, but like the worst way to experience the Lion King is funny and that’s part of the charm. I’ll say “no”.**
 
@@ -78,11 +78,11 @@ The Lion King by Georjen15 is a work of unparalleled genius. There are so many f
 
 Every time you click a link to see a Lion King gif, there’s roughly a 50% chance you see a missing image icon:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking10.png" caption="" alt="" %}{:target="_blank"}
 
 The grammar is all over the place, sometimes normal english, sometimes jumbled nonsense, at one time culminating in my favorite line in any visual novel to date:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/lionking11.png" caption="" alt="" %}{:target="_blank"}
 
 SIMBA FOLLOWED THEM UNTIL HE WAS A MAN!
 

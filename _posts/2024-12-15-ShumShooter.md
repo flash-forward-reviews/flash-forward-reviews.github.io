@@ -10,13 +10,13 @@ permalink: /day-229
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shum1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shum1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 ShrumShooter is a simple little Galaga-like shooter. Garlic heads will fall down from the top of the screen and the player needs to control their ship to shoot the falling garlic and earn coins. If their ship makes contact with a garlic, they lose a life. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shum2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/shum2.png" caption="" alt="" %}{:target="_blank"}
 
 This is actually an assumption of how the gameplay is supposed to go since I couldn’t actually figure out how to control or move the ship or even shoot. 
 
