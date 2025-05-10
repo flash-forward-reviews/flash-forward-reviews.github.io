@@ -10,7 +10,7 @@ permalink: /day-183
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -30,33 +30,33 @@ This kid is fucked. He is not surviving more than this day.
 
 07:30 - Failed that mini-game several times. At least I got this face as a reward: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet2.png" caption="" alt="" %}{:target="_blank"}
 
 09:00 - Once again, I was so wrong about Sora. She’s the only one with any real intelligence and adaptability here. She figured out that the bat can still be used as a weapon - go figure!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet3.png" caption="" alt="" %}{:target="_blank"}
 
 11:00 -
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet4.png" caption="" alt="" %}{:target="_blank"}
 
 Oh, i don’t know ABC? Maybe it’s because she’s not a complete idiot!
 
 11:30 - LMAO 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet5.png" caption="#TeamSora" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet5.png" caption="#TeamSora" alt="" %}{:target="_blank"}
 
 12:19 - Knock Knock! Student President Ryan is knocking at the door to the roof! He’s with his friend “Red” who hurt her leg. I’m sure it’s fine if we let him in. 
 
 13:39 - TRUST NO ONE - TURN THEM AWAY
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet6.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet6.png" caption="" alt="" %}{:target="_blank"}
 
 14:32 - Naomi didn’t approve but Sora did. Sora is my compass through this shit, so I think we made the right choice. 
 
 16:14 - we are now leaving the only person who knows what they are doing alone on the roof with ABC’s Nintendo DS while the two colorful haired idiots venture down to the cafeteria to try to scavenge food and water. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet7.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet7.png" caption="" alt="" %}{:target="_blank"}
 
 This seems like a great plan. We also find out ABC’s Snorlax is named Lizzo. Do with that information what you will. 
 
@@ -66,7 +66,7 @@ This seems like a great plan. We also find out ABC’s Snorlax is named Lizzo. D
 
 22:06 - When you stare at the 4th wall, the 4th wall gazes back. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet8.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet8.png" caption="" alt="" %}{:target="_blank"}
 
 23:00 - Naomi is trauma-dumping her worries about post-graduation and Sora having trouble making friends. I want to tell her that none of that probably matters anymore, but might not be the right time. 
 I think our bright colored hair kids are bonding. Maybe the start of a terrible relationship? 
@@ -75,11 +75,11 @@ I think our bright colored hair kids are bonding. Maybe the start of a terrible 
 
 25:42 - NO NAOMI, NO! THIS ISN’T THE HAPPY ENDING YOU THINK IT WILL BE: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet9.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet9.png" caption="" alt="" %}{:target="_blank"}
 
 26:44 - Zombie teacher. Zombie teacher - where is your bow? Zombie teacher, zombie teacher “I don’t know!”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet10.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet10.png" caption="" alt="" %}{:target="_blank"}
 
 Naomi ends up killing her because ABC is useless and can’t do anything. He admonishes himself and calls himself “useless”. Maybe this time it will spark real change in his character? Find out next week on Dragon Ball Z!
 
@@ -87,13 +87,13 @@ Naomi ends up killing her because ABC is useless and can’t do anything. He adm
 
 30:03 -  Just when I was about to buy a Team Sora jersey, Sora’s takes an idiot page from ABCs book and opens the rooftop for the class president from earlier. Turns out he’s got a zombie with him. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet11.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet11.png" caption="" alt="" %}{:target="_blank"}
 
 31:53 - Wow this baseball bat stub is getting a bunch of screentime. Sora kills Class President’s friend “Red” as she has fully become a zombie. He’s not too happy about this and struggling with the loss of a friend he probably also had a crush on. 
 
 So naturally, I choose the option for ABC to shout at him for being an idiot. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet12.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet12.png" caption="" alt="" %}{:target="_blank"}
 
 34:04 - CLASS PRES WAS A ZOMBIE TOO. THEY CAN SHARE DEAD ZOMBIE LOVE IN HELL FOR ALL I CARE. SORA GRAB THE BAT STUB!!
 
@@ -103,7 +103,7 @@ So naturally, I choose the option for ABC to shout at him for being an idiot.
 
 48:26 - Helicopter Popsicle stick
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet13.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet13.png" caption="" alt="" %}{:target="_blank"}
 
 48:54 - Finished! We have one more episode to go. Will ABCs Mom make it back in time to meet with the commander, will Sora and Naomi survive, will our player character grow out of being useless and a dumbass? Find out next time, on Dragon Ball Z!
 
@@ -119,13 +119,13 @@ HOLY FUCK I DON’T CARE ANYMORE! IT’S THE SAME THING OVER AND OVER!
 
 But there is one weird thing:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet14.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet14.png" caption="" alt="" %}{:target="_blank"}
 
 There are random things you can click on and some choices to make that change this screen. It wasn’t until now that I realized it was saving this information between runs... but how? I’m not signed into my Newgrounds account. Is it via cookies? Some IP address magic? How the fuck do you know that I clicked the newspaper in episode one? Fuckin wild.
 
 Anyway, why is your Snorlax nicknamed Lizzo?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/3dedet15.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/3dedet15.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Almost done**
 

@@ -10,7 +10,7 @@ permalink: /day-176
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,27 +20,27 @@ The Dollhouse is a monolithic cube shaped object with a door - it’s almost rem
 The mysterious person on the walkie talkie informs the player that they will be silenced for the duration of the protocol. Get cracking! It’s time to get inside that Dollhouse!
 Ahh, here we are. Welcome to the grainy black-and-white hallways that compose the Dollhouse. Feel free to explore. The player can only move forward through the house and hallways, but they are given great agency and control via a “Look Behind” button that allows them to turn around and look down the hallway behind them. The voice on the talkie suggests this is to help keep your sanity and wits, but in reality, it seems like this feature does nothing. I played through twice, and the second playthrough I didn’t “look behind” a single time and nothing changed with my ending.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh2.png" caption="" alt="" %}{:target="_blank"}
 
 As the player explores the narrow and bleak hallways, they will come across a few rooms that contain odd looking mannequins: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh3.png" caption="" alt="" %}{:target="_blank"}
 
 The voice instructs the player to play an audio file in each of these doll-filled rooms. Each audio file tells the subsequent chapter in the story of a silent boy who wanders through the woods and finds a mysterious place. It’s the player.The boy is the player. The story is about you and that story is as esoteric as the rest of the game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh4.png" caption="They are putting the “Cuck” back in “Cuckolding”!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh4.png" caption="They are putting the “Cuck” back in “Cuckolding”!" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh5.png" caption="Weakest spirit tunnel I have seen since we lost 42-10 to our rival football team in High School" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh5.png" caption="Weakest spirit tunnel I have seen since we lost 42-10 to our rival football team in High School" alt="" %}{:target="_blank"}
 
 Eventually, the player will reach the final room: The Throne Room - the room of the Queen. The queen has quite an intimidating appearance, towering above with a mannequin-body dress: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh6.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh6.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh7.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh7.png" caption="" alt="" %}{:target="_blank"}
 
 In this room, the voice on the walkie talkie reveals that the whole goal of the protocol was to get you to this point. The voice manually overrides your audio player to play the final 2 chapters of the story. The story wraps up with the queen demanding the player to kneel in front of her. She places a “silent crown” on the player's head as the game fades out to “The End”. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh8.png" caption="SLAY, QUEEN" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh8.png" caption="SLAY, QUEEN" alt="" %}{:target="_blank"}
 
 
 This is a tough one for me. I won’t complain about the nature of the “gameplay” - it’s interactive fiction. It tells you exactly what you are getting on the tin: A virtual pop-up book. Only you click on objects instead of pulling tabs to interact with them. 
@@ -50,7 +50,7 @@ The balance between letting the audience know too much or too little must be har
 
 I feel like my favorite kinds of horror approach the genre similarly. Junji-Ito is a good example (I know, I’ve talked about him before - I should find other horror examples, but I’m on the fly here cut me some slack!). He tends to create scenarios and monsters where the audience can understand their effects (i.e. human shaped holes in a cliff beckoning people to uncontrollably enter them) but is able to keep the mysticism and mechanics of it all extremely vague. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/dollh9.png" caption="The Enigma of Amigara Fault - Junji Ito" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/dollh9.png" caption="The Enigma of Amigara Fault - Junji Ito" alt="" %}{:target="_blank"}
 
 Why are people entering holes they feel were “made for them”? Who fucking knows! Who fucking cares! It’s happening and that’s all that matters!We don’t need to know that little Linda Clark and her friends summoned a Demon using a Ouija board and that’s causing the strange holes to appear and the only way to beat him is to bring a bucket of plaster and fill them in. No. The holes exist. The holes beckon. There is no greater reason. They just do. And there’s something really terrifying about that. It’s very eldritch. 
 

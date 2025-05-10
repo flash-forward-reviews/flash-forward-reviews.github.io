@@ -10,13 +10,13 @@ permalink: /day-186
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tinyt1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tinyt1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 Drive in a circle. Sometimes a battery appears on the road that makes you go faster for a second. For some reason one race is twelve laps. It’s all functional, but the minimal racer interaction and long races make this a pretty sleepy game. I did win once though!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tinyt2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tinyt2.png" caption="" alt="" %}{:target="_blank"}
 
 It’s totally fine, but this is the definition of nothing special. I’m excited to see how Skeeter can even make a review out of this.
 

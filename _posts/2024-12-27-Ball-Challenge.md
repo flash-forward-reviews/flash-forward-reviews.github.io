@@ -10,7 +10,7 @@ permalink: /day-241
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ballcha1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ballcha1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -18,7 +18,7 @@ I’m in Ohio for the next week, which means Skeeter and I will be in different 
 
 ANYWHO, Ball Challenge is a game where you control a ball around an obstacle course and try to reach the end. I reached the end once. I felt very little.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ballcha2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ballcha2.png" caption="" alt="" %}{:target="_blank"}
 
 Can you beat my time? Probably, but you don’t need to. There is a bounce pad in this game that makes you go really high though. I like the height of the bounce pad jump.
 
@@ -32,7 +32,7 @@ Can you beat my time? Probably, but you don’t need to. There is a bounce pad i
 
 EZ
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ballcha3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ballcha3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: I cheesed using the cool jump pad**
 

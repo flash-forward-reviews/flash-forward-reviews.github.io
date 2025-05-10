@@ -10,13 +10,13 @@ permalink: /day-218
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fmn1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fmn1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 Dungeon exploration game where you walk around and collect 5 flowers until you see this screen:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fmn2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fmn2.png" caption="" alt="" %}{:target="_blank"}
 
 There’s some hidden walls and I accidentally got out of bounds once. It’s a cute project, but you don’t need to play it.
 

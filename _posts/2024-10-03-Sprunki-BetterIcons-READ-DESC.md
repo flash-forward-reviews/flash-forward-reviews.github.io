@@ -10,7 +10,7 @@ permalink: /day-156
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ I have the faintest waft of a memory of this game - I feel like Sam and I might 
 
 Well, I guess now's a good time to mention Sprunki simultaneously is and is not the game we are playing today, because (if you “read desc”) this is just someone else’s game with a skin/icon pack pre-installed: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki2.png" caption="I understand most of these words individually, but when strung together like they are here…woof" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki2.png" caption="I understand most of these words individually, but when strung together like they are here…woof" alt="" %}{:target="_blank"}
 
 So, what exactly are we reviewing today? The original game, the mod pack, or the collection presented by superstars_helper themselves? 
 
@@ -26,31 +26,31 @@ I only think it fair to judge the latter, but I’m curious to see what Sam ends
 
 So, naturally I went looking for Sprunki - I found a ton of sketchy websites with variations of “sprunki” and “Incredibox - Sprunki”. I happened to land on a website that linked to a dead itch.io page. And when searching itch.io, I opened a rabbit hole: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki3.png" caption="" alt="" %}{:target="_blank"}
 
 There are a million clones of this game and I’m starting to feel like this has to be a popular/famous game that somehow swerved me. 
 
 Thankfully, there was a Sprunki wiki that had some answers:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki4.png" caption="" alt="" %}{:target="_blank"}
 
 Oh, so it was a game that was taken down at some point, so there are a million re-uploads. It’s Flappy Bird all over again.
 
 It looks like the official port is now on Cocrea - [here's the link that claims to be the official port](https://cocrea.world/@NyankoBfLmao/Incredibox-SprunkiOFFICIALCOCREAPORT){:target="_blank"}. Though fair warning, this is what I got when I loaded the game:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki5.png" caption="" alt="" %}{:target="_blank"}
 
 And that took me to a different singing character game that Sam and I have definitely played before: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki6.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki6.png" caption="" alt="" %}{:target="_blank"}
 
 So now I’m even more confused. 
 
 Anyway, I went to one of the sketchy websites in the end to compare and contrast. See below:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki7.png" caption="Sketchy Website Sprunki" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki7.png" caption="Sketchy Website Sprunki" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki8.png" caption="Sprunki BetterIcons (READ DESC)" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki8.png" caption="Sprunki BetterIcons (READ DESC)" alt="" %}{:target="_blank"}
 
 Well, I guess the icons technically have more going on, so good work!
 
@@ -80,11 +80,11 @@ And the icons are fine. I personally think they look ok and I could see them bei
 
 Just to add a tiny bit of context, Sprunki seems to be a game inspired by [Incredibox](https://www.incredibox.com/){:target="_blank"}.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki9.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki9.png" caption="" alt="" %}{:target="_blank"}
 
 Incredibox is the game with the character Skeeter showed in one of his screenshots:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/sprunki10.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/sprunki10.png" caption="" alt="" %}{:target="_blank"}
 
 We’ve played Incredibox before, but this cute/creepy animal version is new. I like that the whole screen changes and you get different loops when you use the creepy hat man instrument, but the music doesn’t loop as well as Incredibox. It seems like a decent fan-made game that weirdly blew up for creepypasta reasons, but I can’t pretend to understand the internet.
 

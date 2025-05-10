@@ -10,13 +10,13 @@ permalink: /day-205
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/eurow1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/eurow1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 At first The European War (DEMO) is completely impenetrable. The little text box flashes “WAR” then a bunch of countries cycle through it. Sometimes the text says “yes” sometimes it says “no”. The map will change color, you won’t know why. You’ll try clicking on everything, none of it does anything.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/eurow2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/eurow2.png" caption="" alt="" %}{:target="_blank"}
 
 After staring for a while though, I finally got it. I think it flashes “war”, “alliance”, “independence”, or “peace” at the start, then rolls two countries, then decides if that thing happens. For example “War, Sweden, Russia, Yes” would mean that Sweden and Russia go to war, making both the same color (I don’t know how it chooses who wins the war... but one thing at a time).
 
@@ -24,7 +24,7 @@ So far I’ve only seen “war” happen. Maybe that’s the (DEMO) part of the 
 
 EDIT: AFTER RELOADING I GOT THIS ERROR:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/eurow3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/eurow3.png" caption="" alt="" %}{:target="_blank"}
 
 DID I START ACTUAL WORLD WAR 3?!
 
@@ -45,7 +45,7 @@ I’ve decided I’m just going to use this as a European travel guide.
 So far, I’m heading to Portugal and Spain. I just need to start a little war between them. 
 Thankfully, Geography is on my side. I’ll just need to utilize a quick Wikipedia search to find out how I can heighten tensions between the two countries.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/eurow4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/eurow4.png" caption="" alt="" %}{:target="_blank"}
 
 Oh, God Damnit. 
 

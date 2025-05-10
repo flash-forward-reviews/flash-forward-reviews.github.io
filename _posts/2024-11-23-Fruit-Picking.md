@@ -10,7 +10,7 @@ permalink: /day-207
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ Look, I know we’ve played a ton of these stupid mini-games that were clearly m
 
 The first screen I was met with was the following: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp2.png" caption="" alt="" %}{:target="_blank"}
 
 I always like a game that can boost my confidence. WIN! I hadn’t done anything besides press play on the game, but it was already giving me the highest praise possible.
 
@@ -30,13 +30,13 @@ Yes. I WIN. I don’t feel accomplished about WIN. But I guess I did it.
 
 That’s when I noticed something in the description: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp3.png" caption="" alt="" %}{:target="_blank"}
 
 Ohh, duh. Silly me. That’s my fault, I’m not familiar enough with the experimental “Start the player on the WIN screen” tactics being deployed here. 
 
 The game started up. The same 2-bar musical loop from the WIN screen restarts, this time lacking the drums. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp4.png" caption="" alt="" %}{:target="_blank"}
 
 Wow! Well worth the wait!
 
@@ -44,7 +44,7 @@ Apples fall from four static locations above a white glove, or hand, or Glover. 
 
 When you reach 100 apples, you get reunited with an old familiar friend: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp5.png" caption="" alt="" %}{:target="_blank"}
 
 The drums come triumphantly kicking back into the tortuously repetitive music loop. WIN. 
 I still feel no sense of accomplishment. Yet, there it is. 
@@ -54,7 +54,7 @@ WIN.
 It’s nice I was able to play this on my desktop, but I do wish I could play it on my computer. Wish I didn’t have to wait to play - I do hope there will be constant updates. 
 I mean, really, it just feels like something is missing. I just feel like the game needs to be updated until it was created by Thai people. I think that’s the missing link. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fruitp6.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fruitp6.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No. Only the second [best Fruit-Collecting type game I’ve played](https://www.youtube.com/watch?v=Sgsq6pLIcgY){:target="_blank"}**
 

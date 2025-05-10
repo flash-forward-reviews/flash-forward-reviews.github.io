@@ -10,21 +10,21 @@ permalink: /day-201
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/venom1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/venom1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 This is one of the worst clicker games we’ve played. Not to be a nit-picky little bitch, but the color scheme is more reminiscent of Carnage instead of Venom. Just look at the single JPEG they give you to look at:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/venom2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/venom2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/venom3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/venom3.png" caption="" alt="" %}{:target="_blank"}
 
 At least they included the tongue. 
 
 Also, I made it to 1000 points and couldn’t purchase the second upgrade. Bunk. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/venom4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/venom4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No.**
 

@@ -10,13 +10,13 @@ permalink: /day-239
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscount1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/chriscount1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 They never quite got the time right:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscountagain1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/chriscountagain1.png" caption="" alt="" %}{:target="_blank"}
 
 But damn, that’s a pretty slick background!
 
@@ -30,13 +30,13 @@ But damn, that’s a pretty slick background!
 
 I felt like the background was a little too busy, so I went through the liberty of simplifying it: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscountagain2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/chriscountagain2.png" caption="" alt="" %}{:target="_blank"}
 
 Merry Christmas!!!!f
 
 **Recommend: FUCK YES IT’S ONLY -23 HOURS TO CHRISTMAS**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/chriscountagain3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/chriscountagain3.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance: 100%**
 

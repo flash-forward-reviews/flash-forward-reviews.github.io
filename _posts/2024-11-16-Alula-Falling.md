@@ -10,7 +10,7 @@ permalink: /day-200
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/alulafalling1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/alulafalling1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam and Skeeter's LIVESTREAM:
 

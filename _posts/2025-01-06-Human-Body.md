@@ -10,7 +10,7 @@ permalink: /day-251
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -20,23 +20,23 @@ Where do I even begin with this game? I guess the simplest way to describe Human
 
 The questions are all human body centric, but seem like they were taken directly from a 3rd grade textbook: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody2.png" caption="Where is the “teeth” option?" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody2.png" caption="Where is the “teeth” option?" alt="" %}{:target="_blank"}
 
 These questions are presented in the strangest way, and certainly not in a way I would present them to 3rd graders. 
 
 The background is a pixel art close up of an artist's rendition of red blood cells in a bloodstream. The questions are all given to you by some strange colored bald kid wearing glasses and the same fish/Jesus shirt. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody3.png" caption="" alt="" %}{:target="_blank"}
 
 You ~~harvest~~ earn hearts (which the game hilariously refers to as “grass” on the end of day screen) for answering questions correctly, and 10 of those hearts can be exchanged to play a game. The “game” is “Move The Lung Around A Black Screen While Red Dots Chase You And Then You Earn Brains If You Don’t Get Hit By Said Red Dots”: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody4.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody4.png" caption="" alt="" %}{:target="_blank"}
 
 These brains can then be exchanged to “Upgrade body”. 
 
 And boy, I laughed so hard when four sparkling lungs appeared in the pixelated blood stream:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody5.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody5.png" caption="" alt="" %}{:target="_blank"}
 
 As far as I can tell, the change is purely cosmetic. This theory was given weight when I had the exact same question I had already answered the previous day. 
 
@@ -66,19 +66,19 @@ Hello readers. I would like to officially declare this review project, Flash For
 
 Human Body is the only game we’ve played where I could equally believe that the creator was a 12 year old who had only eaten Pixie Stix for the past decade, or that the game is a subversive Harmony Korine project. Skeeter already explained how it works, but I’d like to treat you to a screenshot of all the upgrades:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody6.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody6.png" caption="" alt="" %}{:target="_blank"}
 
 Amazing. Especially the walking skeleton at the bottom there.
 
 I want you to try to make a game right now. Go on, do it. Stop reading this review and go learn to use a gaming engine, then enroll in Second City’s comedy classes, spend enough time there to realize you no longer think anything is funny, and therefore have become horribly unfunny yourself, come to the realization that the reason they have celebrity comedian photos all over isn’t because they actually jump-started their careers, but because they churn through enough people to use the lucky ones as a marketing gimmick, come back home finish that game, and guess what, IT’S NOT EVEN CLOSE TO AS FUNNY AS HUMAN BODY.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody7.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody7.png" caption="" alt="" %}{:target="_blank"}
 
 Human Body is impossible. It is a gift. Play it now. Send it to everyone you know. If these reviews only accomplish one thing, I hope it’s that more people play Human Body.
 
 I didn’t even mention that all the alerts the game sends you are done through the browser UI!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/humanbody8.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/humanbody8.png" caption="" alt="" %}{:target="_blank"}
 
 It’s free, you can play it in your browser, please please please play it please.
 

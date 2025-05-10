@@ -10,7 +10,7 @@ permalink: /day-153
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/grim1.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/grim1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -26,9 +26,9 @@ Forgive me readers, for I have sinned:
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/grim2.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/grim2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/grim3.png" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/grim3.png" caption="" alt="" %}{:target="_blank"}
 
 {% include video.html id="ikFB7ruW5Bg" title="" %}
 
