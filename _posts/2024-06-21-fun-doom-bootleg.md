@@ -10,7 +10,7 @@ permalink: /day-52
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/doomleg1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/doomleg1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -27,17 +27,17 @@ Sometimes it feels like I am running through the halls of an elementary school c
 
 Fun doom bootleg takes the classic Doom hud (along with the pistol and shotgun), copy and pastes that over an abandoned Japanese street art, and then sends infinite amount of the same photo of the same green clip art monster:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/doomleg2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/doomleg2.png" caption="" alt="" %}{:target="_blank"}
 
 Aww, ain’t he cute? Reminds me of the Mucinex snot monster:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/doomleg3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/doomleg3.png" caption="" alt="" %}{:target="_blank"}
 
 I just realized I need to cop myself a “Team Mucus” tank top ASAP. 
 
 Anyway, my favorite feature of fun doom bootleg is the fact that you can let the game run and it will infinitely fill your screen with Marcus Mucus himself (you cannot lose):
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/doomleg4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/doomleg4.png" caption="" alt="" %}{:target="_blank"}
 
 This was the most fun I was able to extract for myself from fun doom bootleg. Look at that Monster Mash! It’s a damn god Graveyard Smash! 
 

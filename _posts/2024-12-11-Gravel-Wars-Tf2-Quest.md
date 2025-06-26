@@ -10,13 +10,13 @@ permalink: /day-225
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tftext1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tftext1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 It took me longer than I’d like to admit to figure out how to leave spawn (go gate). I managed to kill the Engineer by pulling out my shotgun (fight engineer) and shooting him in the face (use x3). I grabbed the intel (take intel) and gave it to the spy back at spawn (give intel). Not sure what to do next, I went back over to the Blue base (go blubase) and was told I could see the intel, but when I typed to take the intel (take intel), it would tell me there is no intel in the room.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tftext2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tftext2.png" caption="" alt="" %}{:target="_blank"}
 
 I don’t know what to do from here. What I can say is if I wanted to play TF2, a text based game would be my last option. I know this is just a dev build, but the text gameplay felt extremely limited. It felt more like I was trying to figure out the secret password that would allow me to progress forward. I did not try the other classes besides scout, so perhaps there are some differences. I just wasn’t really interested in playing any more of Gravel Wars: TF2 Quest.
 

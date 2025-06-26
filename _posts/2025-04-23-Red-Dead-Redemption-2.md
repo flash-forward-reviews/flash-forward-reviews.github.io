@@ -10,7 +10,7 @@ permalink: /day-358
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr21.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr21.jpg" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -22,7 +22,7 @@ Red Dead Redemption 2 is a game about buttons. It has more buttons than any game
 
 Arthur Morgan, rough-n-tough outlaw and RDR2 protagonist does unspeakably evil things no matter who controls him. There’s no universe in which Arthur kills less than fourteen trillion people. There’s no world where he doesn’t strangle the debt out of a few poor men. These things are caused by and for the story, there is no stopping it, Arthur Morgan is a bad man, but he’s a bad man with buttons. Many, many buttons. Hold right click next to any pedestrian, then press R to say “Hello”.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr22.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr22.jpg" caption="" alt="" %}{:target="_blank"}
 
 This “hello” has many translations. Hey there. Howdy Mister. Ma’am. Howdy folks. Hey there mister! All said in the lowest growlest voice I’ve ever heard through my dumb-ass gamer-bait headphones. The sound of gravel smiling. Whenever I do this, 400 animators at Rockstar studios make the npc turn, look at me for a confused moment, then reply back.
 
@@ -32,7 +32,7 @@ Every town I rode into, I held right click and said “hello” to nearly everyo
 
 The writing of Red Dead 2 is a confusing thing to talk about. It’s six chapters and two epilogue parts long, and I’d argue that one of those parts starts and ends a satisfying storyline. Part 3 concerts two rival families and our quest to trick them out of their gold. It’s roughly fifteen hours long and I still could not tell you why those two families were fighting. Part four is about a criminal running the big city of Saint Denis and I still don’t know why he invited us to his party, what he planned to do with, or at what point he planned to rat us out. His plan is nonsense and he frankly has no reason to give a shit about us. Let’s not even mention chapter 5’s Far Cry Cowboy detour, which could have been cut and its plot points shifted in less time than it took to model and render a single cactus in the bottom half of the map that there is no reason to go to.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr23.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr23.jpg" caption="" alt="" %}{:target="_blank"}
 
 There is an overarching story about the gang’s leader Dutch, and his descent into cruelty and madness opposing Arthur’s ascent into independence and worldly wisdom. This is the part of the story that does work. Dutch’s decline is so gradual that it makes you question if he ever had your best interests in mind, and I always felt even from the start, that there was a good person screaming to escape Arthur’s hot rugged outlaw bod... but I have to wonder if that’s because he said hello to so many God damned people.
 
@@ -46,19 +46,19 @@ Rockstar obviously wants these sections to be separate and forgotten, the story 
 
 Rockstar is terrified of you being forced to play any part of its game. They made a whole robbery and police system, but you make so much money that there is no reason to engage with any of it. There’s a fully fledged bait and hunting system to upgrade your storage capacity, but your starting satchel can already carry over 20 pieces of cooked meat so there’s no need to engage with it. You want to make sure your guns are in good condition, or else you’ll do less damage, but every gun kills in 1 headshot regardless of condition. Sometimes the game informs me I need to brush my horse. I’d make a joke about how much this doesn’t matter, but I always brushed my horse so I actually don’t know the consequences for this one. Red Dead Redemption is the opposite of Pathologic. Sometimes I’m thankful (if the game actually forced me to engage with hunting more than three times, I don’t think I would have finished it), but it all comes across as toys in a sandbox, with no sense of integration or value.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr24.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr24.jpg" caption="" alt="" %}{:target="_blank"}
 
 Except... I fell in love with a big murder man because of one of these ancillary mechanics. Did you know that when you say hello at further distances, Arthur will yell louder? He’ll yell across the street at a man just to make sure he is greeted. The mechanics are too separated to allow for any kind of true roleplay. Real people do things because they have wants and needs, and Rockstar isn’t about to make you have anything as drastic as needs. I can however dress up my little cowboy in a puff tie, go watch a lil movie, cheer the whole time, then say hello to everyone I see on the way out. Am I roleplay a real cowboy, no. I just... like seeing this guy. I like this gruff angry outlaw who the second he’s not on a job, just wants everyone to be welcomed and happy. Maybe that’s a kind of roleplay.
 
 There’s one more important mechanic Red Dead 2 has, and that’s the hat. There are three separate hat menus in this game, we will not talk about them, but know that they are there. In most gunfights and punchouts, your hat will fall off. Arthur looks way cooler with his hat, so obviously I went and picked it up after every fight and put it back on. If you combine my hat searching time with my town-greeting time, I’m willing to bet it adds up to 70 of my 77 hours in this game.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr25.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr25.jpg" caption="" alt="" %}{:target="_blank"}
 
 At the end of the game, when Arthur finally goes to confront his leader Dutch before TB finally takes him, the game does that emotional end game thing that games do. The sound stops, he slowly reaches for his hat and puts it on one last time, and you slowly ride to camp to a real sad cowboy song. This should have been stupid, this has been done roughly a thousand times before, but there were two things that made me genuinely heartbroken at this moment. The first is, that hat wasn’t just a dumb cowboy symbol. I bought that hat. I picked it up 100 times after fights. I got a haircut because it was clipping through the hat and I hated that. Putting on that hat was fucking TANGIBLE. The other thing was... Despite the murder, I knew Arthur Morgan.
 
 Arthur Morgan was a man who would scream across the world just to wish someone a good day. He was a lover of the arts, though he had only figured that out recently. He loved the world and everyone in it. I don’t know what possessed him to go on those murder sprees but I know he spent more time greetin’ than murderin’. During that last ride, I honestly got emotional thinking about this guy who wanted to stop being a criminal, so he could just say “howdy” to every single person in the world. How wonderful is it that a game could do that? Especially one as stupid and bloated as Red Dead Redemption 2.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr26.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr26.jpg" caption="" alt="" %}{:target="_blank"}
 
 I don’t know how I feel about this game. I kinda doubt I’ll ever play it again. If Rockstar was a person, we would not be friends, but there was a moment there. There was a moment that worked in a way that only Red Dead Redemption 2 could possibly work. There was more than likely one person who was put in charge of greetings. They made sure he had normal voice lines, yelling voice lines, lines for groups, lines for single people. They made sure the responses made sense based on the town and your current wanted level. They made sure that the game checked if you had already greeted them, so the conversation could slightly change. Every bit of Red Dead Redemption 2 has this much put into it. Every one of its one thousand developers put their all into something on this game. I wish they all worked together, I wish this was a whole instead of a thousand pieces, but if I got my moment, maybe everyone has their greeting, and maybe that’s why everyone finds a way to enjoy this game’s stupid fucking ending.
 
@@ -76,7 +76,7 @@ I don’t think there is a world where I could possibly describe Red Dead Redemp
 
 During the Covid pandemic, I was furloughed from my job. This essentially meant I just sat around for months and collected unemployment while we waited for the pandemic to end. This also happened to be when I picked up RDR2. While the game served as a much needed escape at the time, it also might have been one of the best possible ways to play RDR2 - meaning I could spend a full day worth of work just immersing myself in the world. RDR2 is slow. Everything has an animation, everything takes time. The game encourages you to slow down and take in its beautiful scenery. Red Dead 2 is one of the best looking games I have played. It’s hard to explain, but while it does try to look “realistic”, it also isn’t afraid of trying to look cinematic at all times.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr27.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr27.jpg" caption="" alt="" %}{:target="_blank"}
 
 I was originally going to meme this review a bit by placing different backing tracks to Arthur’s last ride, but it didn’t feel right using someone else's footage for that. I loaded the game back up, and launched an old save from my Low Honor run hoping it was right before the ride. Unfortunately for me, I had saved shortly after the gang got to Beaver Hollow and wasn’t about to play through 10 hours of game just to get some joke footage. 
 
@@ -84,19 +84,19 @@ I really enjoyed my low honor playthrough. It’s a lot of fun going through the
 
 Oh, what’s this? A Mad Preacher in the river? The man has clearly lost his mind.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr28.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr28.png" caption="" alt="" %}{:target="_blank"}
 
 Well, Arthur’s going to intimidate him and then shoot him in the back of the head as he’s running away to save his life. 
 
 Naturally, Arthur then straps him to the back of his horse and parades him around the nearby trail until people witness the body and try to report it: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr29.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr29.png" caption="" alt="" %}{:target="_blank"}
 
 Of course, Arthur can’t have any witnesses to his awful deeds, so he intimidates them with the only thing he truly knows - death. 
 
 If they run away, it’s unfortunate that Arthur must take their life, but he can’t have any witnesses. If they promise to not tell anyone, well, Arthur must take their life because he can’t take any risks of having witnesses. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr210.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr210.png" caption="" alt="" %}{:target="_blank"}
 
 Perhaps other people play low honor a bit differently. Perhaps they try to have a little integrity and play it more “Renegade” from Mass Effect than “Postal Dude”. 
 
@@ -110,7 +110,7 @@ Please, Rockstar, I beg of you. Please let us have any sort of player agency in 
 
 That’s honestly my biggest complaint. The game rules, Arthur Morgan is such an interesting and wonderful character. The game is beautiful, I love the camp and the dynamics with everyone in the camp, it’s incredibly detailed and there is attention and love put into just about every corner of the game. I just really love this game. I wish I had more energy and time to talk about it today. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/rdr211.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/rdr211.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Hi Folks!**
 

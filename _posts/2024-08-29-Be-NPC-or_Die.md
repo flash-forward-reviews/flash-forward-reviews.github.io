@@ -10,21 +10,21 @@ permalink: /day-121
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bnod1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bnod1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
 Be NPC or Die is another take on [Prop Hunt](https://www.vaultf4.com/threads/announcing-prophunt-for-tf2c-now-in-beta.7035/){:target="_blank"} or [Oh Deer](https://store.steampowered.com/app/2708450/Oh_Deer/){:target="_blank"}. There are clones of every player walking around randomly, doing random tasks. The criminals try to blend in with the crowd and complete specific tasks shown on your screen. The sheriffs try to suss out who the real players are and shoot them. The sheriffs lose if they shoot too many innocents (npcs), or if the criminals successfully complete enough tasks.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bnod2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bnod2.png" caption="" alt="" %}{:target="_blank"}
 
 When NPCs do randomly generated tasks, nothing happens, but when a player character completes a task they have five seconds to get out before an alarm sounds, signaling that the task was completed by a real human player roughly 5 seconds ago. It’s a very simple system that has been done many times before, but it is by far the best Roblox game we’ve played. There are microtransactions, but they are purely cosmetic. While I still find the TF2 version of Prophunt to provide more laughs per minute, and [Among Us](https://store.steampowered.com/app/945360/Among_Us/){:target="_blank"} has more depth if you are into social deduction, Be NPC or Die is a quick low commitment game that actually works for zero dollars. Would I download Roblox just to play Be NPC or Die? No, but if I already had Roblox, I'd give this a casual play when I have a few minutes to spare.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bnod3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bnod3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bnod4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bnod4.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance: 5%**
 

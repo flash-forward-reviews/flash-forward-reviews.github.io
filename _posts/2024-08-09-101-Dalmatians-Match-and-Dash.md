@@ -10,7 +10,7 @@ permalink: /day-101
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1011.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1011.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -21,22 +21,22 @@ Those two games being Pac-man, and Stupid Fucking Bullshit.
 
 For the Pac-man equivalent, 101 Dalmatians: Match and Dash of course features a dalmatian as the player controlled character. They have 101 of these fucking dogs, but they only let you pick from two:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1012.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1012.png" caption="" alt="" %}{:target="_blank"}
 
 I haven’t seen this movie in maybe 15-20 years. The only thing I can remember is that Cruella Deville song, so forgive me if I’m a little ignorant, but did they really give all 101 dogs a name? Did they sit down and have a scene where they quickly introduce every one of the damn dogs and have them give a quick speech about themselves like it’s some sort of Furry-centric AA meeting? 
 I’m thinking that probably would have taken the whole movie, so these two chuckleheads must be the mama and papa, if I had to guess. 
 
 Anyway, the player runs around an attic being chased by some goon(er) collecting glow-in-the-dark paw print wall stickies.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1013.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1013.png" caption="" alt="" %}{:target="_blank"}
 
 Occasionally, a bucket upgrade appears called “soot”:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1014.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1014.png" caption="" alt="" %}{:target="_blank"}
 
  And here’s where you can tell that this is an old Disney game:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1015.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1015.png" caption="" alt="" %}{:target="_blank"}
 
 They were still doing blackface…
 
@@ -44,27 +44,27 @@ There are actually quite a few levels to this Pac-man rip-off, but I didn’t ha
 
  I did think the Game Over screen was really funny:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1016.png?raw=true" caption="Hey, it’s that lady! Meryl Streep!" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1016.png" caption="Hey, it’s that lady! Meryl Streep!" alt="" %}{:target="_blank"}
 
 I love how pathetic the little puppy looks. Get rekt dude, absolutely ratio’d, no cap rizzler. 
 
 On the other hand, the winning game screen sucks:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1017.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1017.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1018.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1018.png" caption="" alt="" %}{:target="_blank"}
 
 Get your smarmy lil’ face out of here. I got three stars, why are you looking at me like I’m a disappointment? It’s no wonder the 101 kids ran off…
 
 Now, onto the other game: Stupid Fucking Bullshit!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/1019.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/1019.png" caption="" alt="" %}{:target="_blank"}
 
 In “Stupid Fucking Bullshit”, you get to swap tiles around from a single frame from the movie! If it’s in the correct spot it will light up, thus taking the last shred of challenge out of an otherwise already baby-level “Put-Cube-Block-In-Square-Hole” type puzzle. There’s a timer, but it won’t matter. You could solve all of these before that timer runs out. 100 Monkey writing at a typewriter could not only solve all these puzzles the same day, they could also create a game that is better and more fun than “Stupid Fucking Bullshit”. 
 
 And just to top it all off, guess who’s back to taunt you by sitting in the corner of every level and making these fucking faces: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/10110.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/10110.png" caption="" alt="" %}{:target="_blank"}
 
 Both games suck! This is just trash to advertise. Sure, I probably would have loved this game if I was 7 years old. I probably would have played the shit out of it. But I was 7! I was/am a fucking idiot! I used to watch screensavers because I thought they were games! This is not a joke! I used to beg my mom to put on the “Flying Toaster Game” because I loved the shit out of sitting there and watching those toasters fly. So yeah, I probably would have loved this game when I was 7, but I used to clap my hands together like a malnourished ape and sing along to the lyrics on screen of a flying toaster screensaver, so take that how you will. 
 

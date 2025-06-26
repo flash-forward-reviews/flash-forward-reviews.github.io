@@ -10,13 +10,13 @@ permalink: /day-111
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/peesim1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/peesim1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Here’s what peeing looks like in “Pee Simulator”: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/peesim2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/peesim2.png" caption="" alt="" %}{:target="_blank"}
 
 With this knowledge, I would like to suggest a name change that will more accurately describe the simulation experience: 
 
@@ -34,7 +34,7 @@ You’re welcome. Free to use. No charge.
 
 Why is a game about swinging a hammer around called Pee Simulator?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/peesim3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/peesim3.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

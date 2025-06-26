@@ -10,13 +10,13 @@ permalink: /day-314
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/gravpong1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/gravpong1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
 I wonder if MebroukTheCat realizes they just made Brick Breaker (sans bricks)? 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/gravpong2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/gravpong2.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 

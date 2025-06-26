@@ -10,19 +10,19 @@ permalink: /day-34
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
 This game gave me anterograde amnesia, but I managed to leave myself some screenshots that I’m hoping will help me piece the story together:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam2.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam3.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam4.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam5.png" caption="" alt="" %}
 
 **Recommend: No, you don’t need to play this, but I actually laughed out loud at the abrupt ending and sudden imagery of the player character getting gored by a Mammoth. Wasn’t expecting it. Bonus points for MS paint artstyle, that always goes hard. Also, there’s a distorted screaming sound effect that plays during the goring, and it’s really funny.**
 
@@ -36,7 +36,7 @@ Fuck it. I’m doing it. I’m recommending this. I laughed so hard playing this
 
 This could be the Pink Alien Transplant of this review series. One day you will know what that means.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mam6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mam6.png" caption="" alt="" %}
 
 **Recommend: Yes**
 

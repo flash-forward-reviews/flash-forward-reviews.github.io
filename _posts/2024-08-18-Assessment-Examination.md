@@ -10,7 +10,7 @@ permalink: /day-110
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ I believe the Assessment Examination would fall into the “Analog Horror” gen
 
 The Assessment Examination is classified by the dev as “survey horror”:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex2.png" caption="" alt="" %}{:target="_blank"}
 
 I have never played a “survey horror” game before, and while the name “survey horror” does sound a little silly, the idea actually goes kind of hard. 
 
@@ -26,36 +26,36 @@ I’m fairly certain that The Assessment Examination is based on an old psycholo
 
 The Assessment Examination is very similar to this experiment.  I am welcomed to the Authenticity Assessment Department by “Microsoft Sam does JCS Narrator”. He tells me that the people at  A.A.D. are very excited to have received my application for the position with their department. He tells me this is an assessment to see if I am a good fit for said position. The scan lines blur my vision as I try to read the questions: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex3.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex4.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex5.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex6.png" caption="" alt="" %}{:target="_blank"}
 
 Some… interesting questions for a job application. I wasn’t planning on weighing my fear of death or the possibility of God today, but here I am. I didn’t even know they could ask these questions during a job interview. I press on, answering the questions as honestly as I can. 
 
 I get to the next part of the assessment - Microsoft JCS shows up again to tell me the next part will test my Authenticity Assessment skill. I will be shown a picture of someone’s face and will need to determine if they are trustworthy or a threat. Here are some samples: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex7.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex8.png" caption="" alt="" %}{:target="_blank"}
 
 While I’m going through and doing my best to threat-assess, my survey seems to glitch and I’m shown a few strange images in-between the garbled faces:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex9.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex10.png" caption="" alt="" %}{:target="_blank"}
 
 Ok, so that’s a Valium prescription and a child’s drawing - weird. I don’t know what the hell any of this means, but I keep going past them to the next face I have to deem “trust” or “threat”. 
 
 As I’m nearing the end of the examination, I am shown a police call transcript on screen. It’s a call from a man working at a gas station at Dore Park. He said there’s a kid outside with blood on him. The dispatcher on the line asks why the kid is still outside and the gas station worker reveals that he’s scared to let the kid in, and that he doesn’t think the kid is hurt. 
 He tells the dispatcher:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex11.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex12.png" caption="" alt="" %}{:target="_blank"}
 
 He said he saw the kid flash a face like a demon or something and that he’s not going out there to help. He doesn’t trust the kid, and he’s scared. The dispatcher tells him he needs to help, that he can’t just leave a bleeding kid to die, and that refusing to comply can be considered a crime. The clip ends as he goes out to check on the kid as the dispatcher stays on the line. 
 
@@ -63,27 +63,27 @@ I notice the transcript was also accompanied by a name, an age, and the phrase �
 
 Immediately after I am shown this, I am given another facial trust assessment - but this one is different: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex13.png" caption="" alt="" %}{:target="_blank"}
 
 It’s a fucked up looking kid! Almost like the kid the gas station worker was describing… Over the next series of assessments, this image morphs to the following young boy:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex14.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex15.png" caption="" alt="" %}{:target="_blank"}
 
 And after making my selection on the above photo, I am congratulated for completing the assessment! I am told that if I am selected I will receive a letter on exactly: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex16.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex16.png" caption="" alt="" %}{:target="_blank"}
 
 I am told if a letter arrives before this time, I am to do the following: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex17.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex17.png" caption="" alt="" %}{:target="_blank"}
 
 I can’t wait to see if I get accepted! 
 
 I was going to end it there, but I actually replayed it to get a screenshot I missed for the review and I answered “threat” to every answer and I actually got a different ending with some missing posters of various victims, and then a snippet of a phone conversation of the gas station worker as it slowly zooms in on his redacted missing poster: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex18.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex18.png" caption="" alt="" %}{:target="_blank"}
 
 I thought that was pretty neat. I figured the choices would have no consequences, but I am pleasantly surprised. 
 
@@ -108,11 +108,11 @@ This is a tiny nitpick though. The core of this game is creepy, interesting, I e
 
 Since Skeeter already explained the whole game and its themes pretty thoroughly, I’m going to be a little indulgent here and say that if you play this game, and you enjoy it, I ALSO recommend you play my personal game of the year last year (as in I played it last year, it actually came out in 2022): [Who’s Lila!](https://garage-heathen.itch.io/whos-lila){:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex19.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex19.png" caption="" alt="" %}{:target="_blank"}
 
 We got more OLD SCHOOL GRAMPHIKS! We got more BLACK AND WHITE AESTHETICS, we got more LAUGHING ONE MINUTE AND BEING DISGUSTED THE NEXT. Skeeter bought me this randomly last year and I played it non-stop for two days. You play a boy who has trouble visibly expressing emotions, and so you have to force reactions. You do this by physically dragging his face around during dialog a-la [the title screen of Mario 64](https://www.youtube.com/watch?v=hk7egiraIqA){:target="_blank"}:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/assex20.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/assex20.png" caption="" alt="" %}{:target="_blank"}
 
 It gets much more complicated, but I would say that if you enjoyed the uncanny, but also dryly funny vibes of Assessment Examination, then I feel fairly confident you’d get a lot out of Who’s Lila as well. This game deserves a full write up, and one day I’ll get there, but for now I’ll just mention it here as a footnote of a review that Skeeter already hard-carried.
 

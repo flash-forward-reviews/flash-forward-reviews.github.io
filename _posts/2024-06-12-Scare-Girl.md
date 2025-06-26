@@ -10,7 +10,7 @@ permalink: /day-43
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/scaregirl1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/scaregirl1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -38,11 +38,11 @@ Everything about Scare Girl is a fucking masterpiece. The way the flashlight jus
 
 Like look at this screenshot:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/scaregirl2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/scaregirl2.png" caption="" alt="" %}
 
 First of all, ghost funny, we all agree on that. Second, gotta love the efficiency of having the controls on the screen at all times. Third, in the bottom left they count the number of chests, but they couldn’t put a space between “chest” and “0”. There are zero things right with this game. Even the developer’s comments on Steam are fucking unhinged:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/scaregirl3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/scaregirl3.png" caption="" alt="" %}
 
 QUICK NEWS I’LL DELETE THIS GAME IF I LOSE IT BUT I WON’T BECAUSE IT’S IN TWO PLACES ALSO I WENT TO A FRIEND’S AND PLAYED LFD2 SO I’M KINDA BUSY RIGHT NOW!
 

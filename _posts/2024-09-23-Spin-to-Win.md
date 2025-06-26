@@ -10,23 +10,23 @@ permalink: /day-146
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/s2w1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/s2w1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Hurry, hurry! Step right up! Come and spin the magical wheel of pastries!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/s2w2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/s2w2.png" caption="" alt="" %}{:target="_blank"}
 
 We even have a long list of unlocks you can work towards - one unlock only costs 50 dust!:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/s2w3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/s2w3.png" caption="" alt="" %}{:target="_blank"}
 
 “But how do I get Dust, strange carnival man?”
 
 Do not worry, my friend. If you roll a pastry you’ve already won, you get ONE DUST! That’s right! ONE DUST! You’ll only need to do this 50 TIMES to unlock one new item!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/s2w4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/s2w4.png" caption="" alt="" %}{:target="_blank"}
 
 This isn’t spin-to-win. It’s spin-to-grind! It’s spin-to-boredom! It’s spin-to-suck!
 

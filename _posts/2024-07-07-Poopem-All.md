@@ -10,7 +10,7 @@ permalink: /day-68
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -23,7 +23,7 @@ It is 2065. Human cities have expanded to nearly every part of the globe. The on
 The lack of wilderness has forced many animal species into scavenging or stealing from the humans. In some cases, certain species have grown so desperate they have started plotting an all out attack in an attempt to reclaim some of the concrete jungle, and return it to the habitat it once was. The birds had reached their limit. They started organizing, and putting their brightest minds to the test - The Crows. They were to create a weapon so powerful that it could wipe out an entire human city with one fell swoop. 
 Unfortunately, the birds could only work with biological resources, so they knew the delivery system would have to be something convenient. In a few months, the crows had created a weaponized birdseed that caused chemical reactions in a bird’s gut to create a devastating bioweapon to be released when pooping. They even figured out how to make the weapon unassuming to the human eye by disguising it like a familiar poop emoji: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop2.png" caption="" alt="" %}{:target="_blank"}
 
 These concerned little pyramids of waste were to be the Bird’s main weapon in the upcoming Bird/Man war. 
 
@@ -33,7 +33,7 @@ Our brave team here at the History Channel has assembled an authentic recreation
 
 You are as free as a bird, now! Or should we say, free as a pigeon? 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop3.png" caption="" alt="" %}{:target="_blank"}
 
 And with that freedom comes a burden: poop. The birdseed the Council fed you this morning tasted like packing peanuts and rubbing alcohol, and your bird stomach is flying in knots. You can feel the weapon brewing. It is working. You keep your sole goal in mind: Hit as many humans as you can and get out alive. 
 
@@ -41,17 +41,17 @@ Thankfully, you’ve had more time to prepare than the Emus, and even then, they
 
 Your target is the heart of one of the largest cities built upon the grave of the Amazon Rainforest: Amazon (no relation to Amazon). It’s a well populated area that will allow you to maximize the amount of human casualties: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop4.png" caption="" alt="" %}{:target="_blank"}
 
 You have prepared and trained for every kind of countermeasure the Bird Air Force could think of - thankfully “men popping out of apartment windows and half-assedly tossing apples and ‘lit-fuse-but-can’t-explode’ bombs in your general direction” was well covered in the bootcamp training courses. You were able to easily avoid any fruit or fake bombs that were tossed your way.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop5.png" caption="" alt="" %}{:target="_blank"}
 
 You see a flash of red as a “V” of cardinals shoot across the sky - the signal! It was time to drop the bombs! You relaxed, got into position, and fired. 
 
 Unfortunately, the emoji poop bombs felt just as useless as the human made bombs - they rolled off of every human that got hit. They could also be easily walked over without consequence. They just collected at the feet of the humans (along with the apples and bombs) as the humans continued about their day like nothing had happened.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop6.png" caption="" alt="" %}{:target="_blank"}
 
  Being hit with the WMDs only seemed to slightly agitate the humans, but nothing more. 
 
@@ -77,7 +77,7 @@ Only on: The History Channel
 
 I am like... 90% sure that if you fly to this spot you will never get hit by the people throwing bombs out their window:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop7.png" caption="" alt="" %}{:target="_blank"}
 
 You can then tap the spacebar for infinite poops, and thus, an infinite score. Between this and the [pinball](https://flash-forward-reviews.github.io/day-67){:target="_blank"} infinite last night, I’m starting to wonder if my superpower is QA testing free internet games.
 
@@ -87,7 +87,7 @@ I would like to kindly request a better power for my next life.
 
 *EDIT TO THE EDIT*: Before posting, I wanted to make sure the game ended at 0 lives to assure the accuracy of the above edit. The game does indeed end at 0 lives, but while testing this I noticed another issue:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/birdpoop8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/birdpoop8.png" caption="" alt="" %}{:target="_blank"}
 
 This is the lowest you’re allowed to fly in this game, which means when a dude randomly appears from the bottom level of windows, it is physically impossible for them to hit you with anything. Even the second tier of windows is a stretch (you basically have to be sitting above said window when the man pops his lil’ head out).
 

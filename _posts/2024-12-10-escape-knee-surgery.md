@@ -10,15 +10,15 @@ permalink: /day-224
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bgrinch1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/bgrinch1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bgrinch2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/bgrinch2.png" caption="" alt="" %}{:target="_blank"}
 
 What am I even supposed to say about this? Why did I pick this game for today? 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bgrinch3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/bgrinch3.png" caption="" alt="" %}{:target="_blank"}
 
 I don’t even know what I’m doing any more, man. 
 
@@ -32,7 +32,7 @@ I don’t even know what I’m doing any more, man.
 
 {% include video.html id="O8OtP-rQsMo" title="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/bgrinch4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/bgrinch4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Disney** 
 

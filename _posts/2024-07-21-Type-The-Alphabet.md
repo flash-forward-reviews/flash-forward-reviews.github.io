@@ -10,13 +10,13 @@ permalink: /day-82
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ttalph1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ttalph1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ttalph3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ttalph3.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ttalph4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ttalph4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No. Tetris theme still goes hard.**
 
@@ -28,7 +28,7 @@ comments: true
 
 Honestly the choice to have black text with a highlighter-yellow shadow on a pastel-blue background is such an incredibly based aesthetic choice that I kind of respect this game.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ttalph2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ttalph2.png" caption="" alt="" %}{:target="_blank"}
 
 This game has an actual goal and tells you how well you did in achieving that goal, which is more than I can say for the last three games we’ve played.
 

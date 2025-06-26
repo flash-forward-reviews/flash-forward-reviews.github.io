@@ -10,7 +10,7 @@ permalink: /day-28
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
@@ -24,7 +24,7 @@ D&DG flips this around and puts you in a dirty fantasy tavern to play its strang
 Thankfully, D&DG feels like its own thing and isn’t just trying to ride the wave of “Balatro-Types”. 
 For one thing, D&DG plays way different than Balatro does.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg2.png" caption="" alt="" %}
 
 Take a look at the playing board above. I’m going to assume most of you are familiar with how Blackjack works (if not, you can Google it, you heathens). 
 You (left) and Opponent (right) face off against each others hands. Just like Blackjack, you are trying to get to 21 without going over, the caveat being the opponent acts sort of as the “Dealer” and you are trying to beat whatever they play on their side. Let’s say for instance I stood on the 11 above (PRO TIP- DON’T DO THIS) and my opponent, the bard, stands on his 8. I would win the hand by 3, and that difference gets subtracted from his health, taking it from 21 down to 18. This mechanic alone adds a surprising amount of depth to the game. For example, if your opponent busts, they essentially cannot block any damage you throw at them. I found myself gambling to try to get higher numbers sometimes knowing it couldn’t get blocked, only to end up busting my hand as well. Other times I found myself under the opponent by one, wondering if I should just take the one point of damage, or make that risky hit on 17 to see if I could eek out the win. This is really where D&DG shines. It stays true to its roots and keeps that Blackjack Gameplay at the center of its focus, but adds enough elements to keep it interesting, varied, and more complex. 
@@ -53,19 +53,19 @@ The very literal comparison is when you are at a casino, sometimes you want to p
 
 Some alarm bells went off when playing this game. The first came when I first got to add a card to my deck and I saw this:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg3.png" caption="" alt="" %}
 
 Uh oh, is this one of them rip-off games?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg4.png" caption="" alt="" %}
 
 I gave them the benefit of the doubt, jokers appear in regular card decks after all, it’s not necessarily a Balatro reference. Then in my next pack:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg5.png" caption="" alt="" %}
 
 Oh...
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg6.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg6.png" caption="" alt="" %}
 
 Okay... so we are directly using Slay the Spire cards in a game we plan to charge money for... is this okay?
 
@@ -75,7 +75,7 @@ After I played a little more and the alarm bells died down, I can say with more 
 
 I wanted to mention all this because like Skeeter, I too enjoyed this game and found it to have quite a bit of depth in its deck building and the different opponent decks/ai. You can build decks that try to never hit 21 and just do direct damage, you can build a deck of all aces, you can fairly easily load up on face cards and just go for consistent 20s. Every one of these strategies are powerful, but also have weaknesses that certain enemies will exploit. You’ll find something that will cause you to struggle with any build (at least the ones that I’ve been able to create). I haven’t played super long, but so far there isn’t a silver bullet, it seems varied and well play-tested.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/ddg7.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/ddg7.png" caption="" alt="" %}
 
 This is one of those games that makes me glad we’re doing this project. If not, I would have seen this, rolled my eyes, said “Balatro rip-off” and bailed. Being forced to play through this and see that it really is doing it’s own thing with an actual deck vs deck Magic the Gathering format made me realize that I had been jumping to conclusions with the rip-off accusations. Try the demo out, it’s fun and free and not some weird bandwagon cash grab. Just a dev that likes deckbuilders making another deckbuilder. 
 

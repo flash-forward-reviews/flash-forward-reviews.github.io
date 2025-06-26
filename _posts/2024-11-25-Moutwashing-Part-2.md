@@ -10,7 +10,7 @@ permalink: /day-209
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain1.jpg" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -24,21 +24,21 @@ Anyway, I’ll catch you up on the important things, but the beautiful thing abo
 
 Anyway, we last left off 5 months after the crash Daisuke running up to us screaming that he needs help:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain2.jpg" caption="" alt="" %}{:target="_blank"}
 
 I love how each time we go further in time from the crew opening the cargo bay we see the lounge and the ship have changed over time. 
 
 Two months after opening the cargo bay, we can see the crew has become increasingly less concerned with cleanliness. I also love the sheer amount of mouthwash bottles that are stacking up implying Swansea and Daisuke have been chugging the fresh breath maker. The small attention to these details really helps sell the whole package. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain3.jpg" caption="" alt="" %}{:target="_blank"}
 
 So, Anya’s trapped in the med bay and Daisuke needs our help to get her out. He’s worried that Anya might run out of… something? Honestly, the kid is just panicking. He’s not really good in high stress situations. Then again, neither is Jimmy. 
 
 We get to the med bay to find that Anya isn’t locked in the room. She’s locked herself in the room. Jimmy seems more concerned about the access to medical supplies than Anya’s safety, and she is saying some pretty concerning “Your friend might need you to reach out and check on them” things. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain4.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain5.jpg?raw=true" caption="Anya repeats her mantra - “Our worst moments don’t define us”" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain5.jpg" caption="Anya repeats her mantra - “Our worst moments don’t define us”" alt="" %}{:target="_blank"}
 
 Jimmy and Daisuke head down to the utility room to try to utilize the vent to get to Anya. Yes, that same vent Swansea reprimanded Daisuke for trying to climb into saying it was very dangerous. Even Daisuke brings this up, but Jimmy is determined to make it work. 
 
@@ -57,12 +57,12 @@ I want to pause the plot summary for some quick thoughts.
 
 Mouthwashing uses all sorts of cool tricks to show the mental sanity level of the character you are playing. This is one of my favorites:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain6.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain6.jpg" caption="" alt="" %}{:target="_blank"}
 
 This is the medical bay, except where Curly would normally be lying in his mummy-like state, it’s just a graphical error. It looks like my graphics card is about to kick the bucket. It’s a simple but effective technique and I love the little moments like this Mouthwashing has sprinkled throughout. It’s always with a purpose, too. I don’t feel like they just stuck some glitchy graphics in the med bay because it would be “cool” or “creepy”, but rather to show Jimmy’s declining mental state. There is a narrative reason for this as well, as they can’t quite let the player know what is or isn’t on the table at this point. It’s neat. 
 Jimmy is searching for disinfectant. He comes across a gravestone in the hallway of the ship. I can’t make the name out, though. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain7.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain7.jpg" caption="" alt="" %}{:target="_blank"}
 
 With the dirt and flower, it’s safe to assume this is another Jimmy moment. The headstone has a symbol of the captain’s scanner. The grave disappears and opens the path to the cargo hold. 
 
@@ -73,7 +73,7 @@ Jimmy descends the long, blood-stained staircase into the cargo hold. Little doe
 The cargo hold area is a forced-stealth “Big-Scary-Monster-Going-To-Get-You!” section. 
 Essentially, there is a giant horse monster that will kill you if you move when it’s alerted to your presence. The player just has to stand still when the monster pops out.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain8.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain8.jpg" caption="" alt="" %}{:target="_blank"}
 
 By all accounts, this section is very well made. The horse-monster only shows up in the scanner light, so most of the time the player is only catching glimpses of its mane and hair through the narrow view the light provides. Boxes of mouthwash jump and shuffle around as the monster moves. It’s a great effect and a cool way of letting the player know a general area for the thing they are avoiding. If this was in any other game, I might think it’s pretty great. And it is. Like everything else in this game, it’s very well made and well done for this kind of gimmick. 
 
@@ -83,7 +83,7 @@ Also, if you are going through this section again (or even for the first time), 
 There’s even an achievement for getting to the “disinfectant” (which is just Mouthwash btw) in less than 30 seconds. 
 The achievement guide for this tells you to just cheat, and even then it sounds like it’s a bit of a challenge.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain9.png" caption="" alt="" %}{:target="_blank"}
 
 Well, we are back with Jimmy standing over a dying Daisuke with Mouthwash. Clearly Jimmy wasn’t paying attention when Anya said this stuff couldn’t be used medically, but then again… it’s Jimmy so he empties the bottle on Daisuke’s open wounds like it’s some magical elixir. 
 
@@ -95,9 +95,9 @@ Well, Jimmy does add the Pony Express provided sweetener to the mix, so it’s n
 
 Side note, one of my favorite little details is that you find the sweetener pack hidden under Daisuke’s blanket in his bed. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain10.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain10.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain11.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain11.jpg" caption="" alt="" %}{:target="_blank"}
 
 It’s little things like this that truly make Mouthwashing a masterpiece. This packet of sweetener could have been placed anywhere. The game could have made the player use the scanner to put the code in and generate another sweetener like we did with the cake. But no. The ingredient dispenser has been blocked off by emergency foam, and there isn’t any in the kitchen. Instead, the devs took that packet and deliberately placed it in Daisuke’s bed. Yes, it’s a direct call back to the kid loving sweets and asking Curly to place an extra in the cake, but it also implies that Curly (being the only one with access to the sweetener code) probably slipped Daisuke a packet of the sweetener since he knew the kid liked it so much. That warms my heart. There is so much to infer from just placing fucking sugar in a bed, but god damn, what a choice. This is a really good example of what the “essence” of Mouthwashing is. Small, deliberate choices that allow the player to infer a deeper meaning and story. 
 
@@ -106,7 +106,7 @@ Also, I just realized Jimmy stole Daisuke’s sweetener to drug Swansea. He neve
 Jimmy and Daisuke head down to give Swansea the poison they’ve cooked up. 
 But first we have to pause for a Skyrim moment:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain12.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain12.jpg" caption="" alt="" %}{:target="_blank"}
 
 {% include video.html id="qNFrv0X1W2g" title="" %}
 (The video has this tagged as the Witcher 3 and I’m laughing)
@@ -115,7 +115,7 @@ With Swansea either dead or passed out, Jimmy and Daisuke open the utility room.
 
 Side note - love the Utility Room key charm: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain13.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain13.jpg" caption="" alt="" %}{:target="_blank"}
 
 They find out that the utility room isn’t filled with foam. The emergency foam has damaged all but one of the lifepods, which Jimmy speculates Swansea was hiding for himself the whole time. 
 
@@ -127,35 +127,35 @@ We find ourselves as Curly, one day before the crash. We have one objective: Fin
 
 Instead, we find Anya. She is curled over her knees in the cockpit clearly looking distressed. Curly asks her about the gun, and she says she hid the case since she can’t open it. She tells him she’s pregnant. Curly says they can keep it off the logs.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain14.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain14.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain15.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain15.jpg" caption="" alt="" %}{:target="_blank"}
 
 Then he says something very… familiar… Very… Jimmy.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain16.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain16.jpg" caption="" alt="" %}{:target="_blank"}
 
 Curly says that he’ll talk to “him” and that they’ve known each other a long time. Anya says that she knows Curly would never give her the gun to protect herself, but she wanted to make sure “he” couldn’t get it. Curly leaves Anya on the ground of the cockpit. 
 
 We flash back to immediately after Jimmy doused Daisuke with Mouthwash. Swansea sees the kid clearly suffering and makes a tough call. Probably the correct call. But it certainly doesn’t feel good.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain17.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain17.jpg" caption="" alt="" %}{:target="_blank"}
 
 This moment is horrible, but also rules. Right before Swansea brings the ax down, the sound cuts out completely, leaving us to watch in silence as Swansea contemplates his decision. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain18.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain18.jpg" caption="" alt="" %}{:target="_blank"}
 
 It’s an incredibly effective moment. 
 
 Jimmy confronts Swansea about the lifepod and him “plotting” with Anya. Swansea has some choice words. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain19.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain19.jpg" caption="" alt="" %}{:target="_blank"}
 
 The player, as Jimmy, is then tasked to find the gun. We know it’s in medical thanks to Curly’s conversation with Anya in the cockpit earlier. 
 
 Unfortunately, this is where we find out Anya’s fate:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain20.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain20.jpg" caption="" alt="" %}{:target="_blank"}
 
 Oh, Anya. You deserved so much better. 
 
@@ -169,21 +169,21 @@ We find ourselves on the day of the crash, back in the shoes of Curly. We find A
 
 I’m sure you’ve all already guessed. It’s Jimmy: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain21.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain21.jpg" caption="" alt="" %}{:target="_blank"}
 
 Curly tries to comfort Jimmy. He says the classic “I can fix this.” line. Jimmy tells Curly he’s also responsible for what happened here since he’s supposed to be the captain. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain22.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain22.jpg" caption="" alt="" %}{:target="_blank"}
 
 Oh and we finally see Curly pre-crash!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain23.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain23.jpg" caption="" alt="" %}{:target="_blank"}
 
 Jimmy says he’ll “Take care of it” as he heads into the cockpit.
 
 We are immediately met with sirens and red flashing lights. We run down the hall to find Jimmy outside of the cockpit, cradling himself. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain24.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain24.jpg" caption="" alt="" %}{:target="_blank"}
 
 That’s right folks. We were here operating under the assumption that Curly crashed the ship. This whole time, it was just another Jimmy moment. Collapsing under the weight of his own actions, he decides to take the stupidest most drastic measures possible. Way to go Jimmy! 
 
@@ -191,47 +191,47 @@ Curly runs into the cockpit and tries to try to save the situation just as the s
 
 We fade back, playing as Jimmy. We are carrying Curly to the lounge where all our friends have already assembled! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain25.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain25.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain26.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain26.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain27.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain27.jpg" caption="" alt="" %}{:target="_blank"}
 
 Hey, wait a second. We’ve already had our one allotted birthday for this trip. Corporate is going to be pissed!
 
 At least the cake looks nice!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain28.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain28.jpg" caption="" alt="" %}{:target="_blank"}
 
 After carving Curly’s leg off and slicing up a piece for everyone, Jimmy gives a nice little speech about enjoying days like this. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain29.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain29.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain30.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain30.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain31.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain31.jpg" caption="" alt="" %}{:target="_blank"}
 
 We fade out and into some red text that just says “Take Responsibility” and jump down into the vents of the ship. 
 
 The next section is pretty surreal. There are a few puzzles and some symbolic props. I won’t really try to explain it, but I will show some cool photos. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain32.jpg?raw=true" caption="Daisuke memorial" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain32.jpg" caption="Daisuke memorial" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain33.jpg?raw=true" caption="You have to back away from this while staring at the red “Responsibility” sign that gets further and further away" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain33.jpg" caption="You have to back away from this while staring at the red “Responsibility” sign that gets further and further away" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain34.jpg?raw=true" caption="Neat" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain34.jpg" caption="Neat" alt="" %}{:target="_blank"}
 
 Eventually, we find Swansea. Oh, and a gun. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain35.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain35.jpg" caption="" alt="" %}{:target="_blank"}
 
 You can’t talk with him. You can only do what Jimmy wants. 
 
 As you fire, the scenery changes to the graveyard from Red Dead Redemption 2
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain36.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain36.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain37.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain37.jpg" caption="" alt="" %}{:target="_blank"}
 
 Swansea and Jimmy play a game of cat and mouse through the maze of graves. Jimmy brought a gun to an ax fight, so he does end up winning. 
 
@@ -239,68 +239,68 @@ We come back to Jimmy holding a gun and Swansea tied to a chair.
 
 Swansea looks back on his life. He regrets chasing the things in life that he thought would make him happy. He ultimately concludes his drunk years where he didn’t have a care in the world, the best moments of his life. His accomplishments never felt like accomplishments. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain38.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain38.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain39.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain39.jpg" caption="" alt="" %}{:target="_blank"}
 
 He has some final words for Jimmy, too.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain40.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain40.jpg" caption="" alt="" %}{:target="_blank"}
 
 Then... Bang.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain41.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain41.jpg" caption="" alt="" %}{:target="_blank"}
 
 Jimmy walks through some weird hallways. He’s very sane. Don’t worry. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain42.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain42.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain43.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain43.jpg" caption="" alt="" %}{:target="_blank"}
 
 We eventually come to find Curly strapped up to some contraption. This is one of the more strange mini-games I’ve played before. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain44.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain44.jpg" caption="" alt="" %}{:target="_blank"}
 
 The goal is for Jimmy to feed Curly his own leg. This is supposedly how he plans on keeping him alive. 
 To do this, the player must twist valves to rearrange Curly’s digestive tract to get the food to go to his stomach. The first time I played this, I had no idea what I was supposed to do, so I fed Curly his leg like 25 times just to have him throw it up again. Man, that was pretty brutal. I thought the game was wanting me to see Curly suffer again and again. And boy, did he. The game makes you grab his vomited up leg from his lap, manually open his mouth, and then open the inventory to feed him the leg every single time you fail. 
 
 Curly takes his meal and Jimmy turns to face a TV which shows him walking in space. He meets up with an on fire Curly: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain45.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain45.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain46.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain46.jpg" caption="" alt="" %}{:target="_blank"}
 
 Curly says “He’ll play the victim” and that Jimmy can keep being a “better man”. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain47.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain47.jpg" caption="" alt="" %}{:target="_blank"}
 
 Anyway, have you ever ultra-sounded a (presumingly) baby horse? Because I have. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain48.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain48.jpg" caption="" alt="" %}{:target="_blank"}
 
 I won’t explain further. 
 
 The player, still as Jimmy, finds themselves back in the vents for my second least favorite section in the game!
 I call it the Big Spooky Caterpillar Horse section. BSCH for short. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain49.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain49.jpg" caption="" alt="" %}{:target="_blank"}
 
 The complaints I have about this section are similar to the horse section from earlier, so I won’t retread water here. You just run from a “spooky” horse monster in the vents. Blah. 
 This one isn’t as bad because you can just run through it, but man. Just tell me what happens! I don’t give a fuck about this stupid horse!
 
 There’s more surreal stuff. I like this part. It was pretty and sad. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain50.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain50.jpg" caption="" alt="" %}{:target="_blank"}
 
 Jimmy makes his intent to save Curly known. That Curly is the better man than him. Forget Curly’s suffering, the man needs to live, damnit! Feed him his own leg! Take him to the only lifepod left on the ship!
 
 Oh. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain51.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain51.jpg" caption="" alt="" %}{:target="_blank"}
 
 Jimmy did it! He saved Curly! He fixed it! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain52.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain52.jpg" caption="" alt="" %}{:target="_blank"}
 
 Truly the “Sunderland-type” protagonist we all look up to. 
 
@@ -308,7 +308,7 @@ The player takes back control of Curly, now in the lifepod. Jimmy walks out of v
 
 The cryogenic stasis kicks on in the lifepod. And the credits roll!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain53.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain53.jpg" caption="" alt="" %}{:target="_blank"}
 
 Let’s fucking go!
 
@@ -346,11 +346,11 @@ I WILL ALSO BE SPOILING THE ENDING OF THE 2017 GAME PREY. LIKE I WILL SPOIL IT R
 
 In [Prey (2017)](https://store.steampowered.com/app/480490/Prey/){:target="_blank"}, you wake up on a spaceship overrun by an alien lifeform called Typhon. The Typhon were being experimented on by scientists on the ship, escaped, and are now consuming the crew and using their bodies to multiply. It’s stated in-game that the Typhon lack mirror neurons, and therefore can’t feel empathy (this is not quite how mirror neurons work btw, but it’s okay, let the game cook). You run around the ship, reading emails, listening to audio diaries, and generally learning about how the crew got in this situation. Corporate greed caused research to move too far too fast. The advancements made by studying the Typhon could be used to teach a lifetime worth of skill (ex. The ability to be a grandmaster at chess) in seconds with a simple shot called a Neuromod. These Neuromods were of course only sold to the richest of the rich. Political tensions caused foreign death row inmates to be sent up to the station to be experimented on.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain54.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain54.jpg" caption="" alt="" %}{:target="_blank"}
 
 As Skeeter showed you all yesterday, Mouthwashing opens with a short bit of text explaining some very basic information:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain55.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain55.jpg" caption="" alt="" %}{:target="_blank"}
 
 It also expressed a single wish: “I hope this hurts”.
 
@@ -358,65 +358,65 @@ After playing Mouthwashing yesterday, I had some questions about the plot, speci
 
 The evidence provided was pretty convincing, but I wanted to make absolutely sure before writing this, so I replayed the game today and that’s absolutely what’s going on. There are so many hints at this, and you can look them up yourself if you are curious, but I don’t want to go down that tangent so please trust me when I say this is not people reading too far into something. This is absolutely a plot point and if anything I’m dumb as hell for not realizing it on my first playthrough.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain56.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain56.jpg" caption="" alt="" %}{:target="_blank"}
 
 This made a lot of plot points click, like why Jimmy would go to such drastic measures (crashing the ship) to not make it back to earth. It also puts a dark twist on many of Anya’s dialogue, like her asking why the bedrooms don’t have locks, or calculating the number of months until the trip is done. It also really sharpens both Anya’s and Jimmy’s repeated lines, “our worst moments don’t make us monsters” and “I can fix this” respectively.
 
 Not to mention that it makes Curley implicit in all this, since it is revealed later that Anya told him about what happened. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain57.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain57.jpg" caption="" alt="" %}{:target="_blank"}
 
 Prey starts off before the ship gets taken over on your first day at work. You do some basic tests that function as tutorials, before having to do different versions of the trolly problem. For some reason they seem very interested in how you would handle Ethics 101 situations for your work on-boarding. Throughout the game you run into “real” version of the trolly problem, one of the last living people on the ship was a war prisoner that kidnapped children. Do you let him go, or release the Typhon into his cage? The Typhon don’t, or rather can’t care about us, they see us as raw materials, the materials they can use to reproduce. In the game you can recycle old cans and springs to break them down into raw materials for crafting. The Typhon does the same to us.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain58.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain58.jpg" caption="" alt="" %}{:target="_blank"}
 
 The second half of Mouthwashing primarily focuses on Jimmy’s spiral into madness. Jimmy knows he’s fucked everything up, and he does feel bad. He repeats it over and over again, “I can fix this”. He can’t stand the idea of being the bad guy, or of other people seeing him as the bad guy. It’d be easier for him if he just felt nothing, if he could just do a bad thing and not care, but that’s not how we work. Even the worst of us have empathy. It’s in our nature.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain59.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain59.jpg" caption="" alt="" %}{:target="_blank"}
 
 The after credits reveal of Prey is that you are not a human at all. You are a Typhon being put through a simulation. The Typhon have already taken over earth, and the human’s only hope of survival is that putting a Typhon through a simulation “playing” a human (with the help of some Neuromods) would cause them to develop something like empathy, enough to coexist.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain60.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain60.jpg" caption="" alt="" %}{:target="_blank"}
 
 By the end of Mouthwashing, Jimmy’s actions have left everyone except Curley dead, and Curley is... not doing so hot.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain61.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain61.jpg" caption="" alt="" %}{:target="_blank"}
 
 Jimmy wants to feel better about himself. He wants, at the very least, to be able to see himself as a good person. He knows he cares, or course he cares. He carries Curley to the cryochamber, to save Curley instead of saving himself.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
 The last moment in Prey gives you a simple binary decision:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain63.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain63.jpg" caption="" alt="" %}{:target="_blank"}
 
 In any other game this choice would be absurd, but Prey just spent the last thirty hours proving that humans have empathy, an instinctual power of caring and understanding, and still regularly ruin each other’s lives. What is “evil”? Is it not having the ability to care, or having the ability, and choosing to ignore it.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
 Before Jimmy leaves the screen and shoots himself, he looks through the window of the cryo chamber and says “I fixed this”. When I hear the gunshot go off, there’s only one thing going through my mind.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain64.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain64.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain65.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain65.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain66.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain66.jpg" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/mouthagain62.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouthagain62.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Yup**
 

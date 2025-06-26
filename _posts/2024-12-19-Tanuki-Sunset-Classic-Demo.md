@@ -10,7 +10,7 @@ permalink: /day-233
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tanuki1.jpg" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,7 +20,7 @@ This is a demo for Tanuki Sunset Classic. Just wanted to get that out of the way
 
 You play as a racoon who skateboards down procedurally generated synthwave roads and collects little Doritos for points. Tilt forward to drive faster and downward to slow it up. You can drift, get near misses on cars, and (I only know this from how many times I fell off the stage) you can do sweet kickflips, all for bonus points. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tanuki2.jpg" caption="" alt="" %}{:target="_blank"}
 
 Fall off the edge and start over. Hit any obstacle or car and you start over. There is a checkpoint about halfway down, but I only could reach it on the tutorial. I couldn’t even beat the first real level, let alone hit the checkpoint. 
 
@@ -52,9 +52,9 @@ That’s also just my personal taste and opinion. I’m sure having the level ra
 What does hook me in is unlockable cosmetics, especially when they are for a cute racoon. 
 And Tanuki Sunset has this figured out. Those little Dorito tokens can be exchanged for cool clothes or new skateboard parts and decks: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki3.jpg?raw=true" caption="That’s Bob. This is Bob’s Skateshop. I am a big Bob fan." alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tanuki3.jpg" caption="That’s Bob. This is Bob’s Skateshop. I am a big Bob fan." alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki4.jpg?raw=true" caption="RADICAL SHADES ON A RACOON" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tanuki4.jpg" caption="RADICAL SHADES ON A RACOON" alt="" %}{:target="_blank"}
 
 That’s fun. It lets you work toward some sort of goal outside of just racing, plus putting a racoon in a hat is just a good time. 
 
@@ -68,7 +68,7 @@ That’s fun. It lets you work toward some sort of goal outside of just racing, 
 
 I agree with Skeeter here that the procedural generation really lets this game down. After a few attempts at this game I was really starting to vibe with the floaty movement. Nailing drifts, landing 360 jumps, clipping the edge of the course and seeing EDGE LORD appear on my screen is cathartic and slick. The issue is that the movement is begging for a curated level that gives you freedom to practice big jumps, then some areas that force you to experiment with drifting, maybe a point attack level where nailing tricks and getting more NEAR MISS bonuses becomes a must. The way the proc-gen works in this game leads to the same 6 obstacles in a randomized order, and it becomes dull too fast.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/tanuki5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/tanuki5.png" caption="" alt="" %}{:target="_blank"}
 
 It’s a shame, because there is a system in place for a level designer to really go ham with. I think an idea has to be good if I (a dumbass) can come up with some sick level ideas while playing it. This game could work as a bonus “endless mode”, but I want a timed speed course with tight turns I need to perfect. I want that course to end with a giant open jump as a reward for tightly dodging cars and walls at full speed. I want a level where I have to control my jumps to go over gaps at the right angle. I want to have to grind on razor thin streets. Proc-gen has to play it safe, so as not to create accidentally impossible scenarios, or scenarios that take practice (functionally impossible in a game where a retry creates a new level). A sunset skateboard riding raccoon wants nothing to do with safe. It wants the extreme thrills that only hand crafted challenges could provide.
 

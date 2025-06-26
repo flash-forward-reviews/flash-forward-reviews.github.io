@@ -10,7 +10,7 @@ permalink: /day-361
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,19 +20,19 @@ I think I prefer this over the Skyrim twisty-lock-pick mini-game.
 
 [Edit 2: YES IT MATTERS HERE I’VE PROVIDED A VISUAL SAMPLE AND YOU CAN’T TELL ME I’M WRONG THIS PROOF IS IRREFUTABLE!]
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps3.png" caption="" alt="" %}{:target="_blank"}
 
 Plus, look at these great options!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps4.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
 **Replay Percentage Chance:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps5.png" caption="" alt="" %}{:target="_blank"}
 
 **Time Played: 5 mins**
 
@@ -50,6 +50,6 @@ I THINK YOU MEAN THE FALLOUT 3 TWIST-LOCK-PIC MINI-GAME SKEETER!!!!
 
 **Time Played:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/olps6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/olps6.png" caption="" alt="" %}{:target="_blank"}
 
 {% include button.html text="Link to Game" link="https://mgjc.itch.io/oblivion-lock-picking-sim" %}

@@ -10,7 +10,7 @@ permalink: /day-112
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -24,7 +24,7 @@ Here’s my experience with Wuhu Island:
 
 I spawn off a boat on a dock. The dock sits on a seemingly empty and fairly large city/town. I spend a long time running towards a big clock tower in the center of a plaza. Upon reaching the plaza, I decide that the big fountain in the center looks like a good spot to take a screenshot for the review. I attempt to jump on top of the spouty part of the fountain, completely miss, and fall into the water. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu2.png" caption="" alt="" %}{:target="_blank"}
 
 You cannot jump in water. 
 
@@ -42,13 +42,13 @@ I swam around the fountain like a mad man, toggling between a full front stroke 
 
 And it kept on driving. As it faded off into the distance like some old western cowboy, I managed to take one last photo as a memory of my last hope vanishing. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu3.png" caption="" alt="" %}{:target="_blank"}
 
 I came to Wuhu Island looking for fun. All I found was loneliness, emptiness, and a fountain. 
 
 I was Fountain Boy.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu4.png" caption="" alt="" %}{:target="_blank"}
 
 But wait! I remembered I had caught a glimpse of something upon equipping my swimsuit earlier - QUICK TRAVEL! 
 
@@ -58,7 +58,7 @@ I was no longer Fountain Boy. I was Free Boy. I felt invincible, like I could ta
 
 … And I plunged directly into a much bigger fountain:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu5.png" caption="" alt="" %}{:target="_blank"}
 
 I should have known better. No matter how hard you may try to change, you can’t run from your true nature. You can’t alter the course of who you are at your core. 
 
@@ -66,7 +66,7 @@ And who am I?
 
 I am Fountain Boy.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu6.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: I am Fountain Boy**
 
@@ -80,35 +80,35 @@ I am Fountain Boy.
 
 Hey Skeeter, remember that home page where you went to download the game?
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu7.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu8.png" caption="" alt="" %}{:target="_blank"}
 
 I also never owned a Wii, but my ability to read has given me the upper hand in terms of context for this review: Wuhu Island was a place you could see and do specific activities on, but never freely roam around on. So it makes sense with the Wii being just old enough to start hitting some younger folks' nostalgia buttons, that someone would make this game.
 
 The game is EXACTLY what it says on the tin. You can walk around the island, in 3rd person or first person, and just see the sights. One time I saw a whale pop out of the ocean:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu9.png?raw=true" caption="Fuckin sick" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu9.png" caption="Fuckin sick" alt="" %}{:target="_blank"}
 
 I followed a series of paths that lead me to a hotel:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu10.png" caption="" alt="" %}{:target="_blank"}
 
 I fast traveled to a boat off the coast and got a good wide-shot of the whole island:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu11.png" caption="" alt="" %}{:target="_blank"}
 
 That really is all you do in this game. You walk around and look at stuff. If you have nostalgia for Wii Sports Resort, maybe you feel a comforting sense of catharsis finally being able to freely roam across this island you’ve only seen in pieces or from a distance.
 
 As someone who doesn’t have this connection however, I still got some chill peace just waltzing around an empty island. There’s this website called [noclip](https://noclip.website/){:target="_blank"} where you can view various early 3D game worlds and poke around in them. They even have Mario and Sonic at the Olympic Games (2012)!!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu12.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu12.png" caption="" alt="" %}{:target="_blank"}
 
 I took a look after playing Wuhu Island Explorer, and to my delight, Wuhu Island was an available level to explore. While poking around the island on noclip, I noticed two things. First, the developer behind Wuhu Island Explorer’s recreation is shockingly accurate. There were caves on the island that I assumed were just added for traversal reasons, but no, it really seems to be almost a 1 to 1 copy. I’m not sure what their process was (I’d assume they were able to import the level into Unity somehow and then edit collision from there?), but whatever they did worked.
 
 The other thing I noticed was that there was an emotional difference between zooming through the geometry in noclip, and walking around in the game itself. I’m not trying to imply that walking around Wuhu was some deeply moving experience, but noclip feels more clinical, like I’m dissecting the level. Walking around in the game has a greater sense of size and scale, the limitation of walking adds a tangibility to the island that’s obviously not there when viewing the world in noclip.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu13.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu13.png" caption="" alt="" %}{:target="_blank"}
 
 I’ve been a walking sim defender/enjoyer for many years now. While I agree that some do unfortunately just boil down to games with no gameplay, I think that most either work as literal interactive art, or just tell an interesting story in their own right. Gamers (in my not terribly humble opinion) are worse than most at stretching the definitions of their medium and enjoy things in a different light. Painters have long passed the point of needing everything to be literal, and now I see more abstract work in museums than realism. Movies have gotten a bad wrap for being samey recently due to Marvel oversaturation, but there are simple slice of life pieces, or more experimental works that do fine on streaming.
 
@@ -116,33 +116,33 @@ Games also have these experiments, but when an experimental film comes out, the 
 
 Now go look at the Steam comments for [Dear Esther](https://store.steampowered.com/app/520720/Dear_Esther_Landmark_Edition/){:target="_blank"}:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu14.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu14.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu15.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu15.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu16.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu16.png" caption="" alt="" %}{:target="_blank"}
 
 To be fair, the unfortunate branding of “game” to describe our particular medium is at least partially to blame. Game had a definition before my TI3070 got involved, and obviously as we grew out of artistic infancy and started to move onto adolescence, the old label didn’t quite fit anymore. Still, these aren’t just semantic arguments being made in these comments. People HATE these games. Even when games like [Edith Finch](https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/){:target="_blank"} and [Firewatch](https://store.steampowered.com/app/383870/Firewatch/){:target="_blank"} which garnered critical success, will still have those “not even a game” rage comments buried in the overwhelmingly positive reviews:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu17.png?raw=true" caption="Literally the first review when sorting by negative for What Remains of Edith Finch" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu17.png" caption="Literally the first review when sorting by negative for What Remains of Edith Finch" alt="" %}{:target="_blank"}
 
 I’m not out here to say that you are stupid if you don’t like walking simulators, but I am here to say you are stupid if you think they are bad because they don’t meet the same definition of ‘game’ as parcheesi.
 
 The Chinese Room is looked at pretty negatively as a development studio, and honestly, I kind of think they deserve it. [Everybody’s Gone to the Rapture](https://store.steampowered.com/app/417880/Everybodys_Gone_to_the_Rapture/){:target="_blank"} was widely considered to a slog even by walking sim fans, they [turned Amnesia into walking sim horror](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/){:target="_blank"} in a way that is always awkward and never scary, plus every update for [Vampire The Masquerade: Bloodlines 2](https://store.steampowered.com/app/532790/Vampire_The_Masquerade__Bloodlines_2/){:target="_blank"} makes me wish for eternal undeath.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu18.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu18.png" caption="" alt="" %}{:target="_blank"}
 
 That being said, I think Dear Esther is an absolute banger.
 
 Esther is an extremely pure form of walking sim. There is no dialogue, only narrator monologue. There are no items, no map, no goal besides “walk down the path”. It relies on the beauty of its visuals paired with piecing together the narrator’s story to egg the player on. It is a game that you have to calm down to enjoy. You have to be able to look around and just be in a space for a moment, something that seems to really upset a certain subset of gamers.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu19.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu19.png" caption="" alt="" %}{:target="_blank"}
 
 Dear Esther really punctuates this all by having the world start incorporating the narrator’s speech into its world. You hear about a car crash and look down to see a car in the bottom of a ravine. The game even randomizes some bits of dialogue, which change how you feel about the narrative on subsequent playthroughs. It feels like a tacit admission by the designers that there is not a concrete answer. It’s a game about wandering in a world and a narrative. There is always a car crash, there is always a narrator, there is always Esther, but everything in between is a variable. To me it’s a much more interesting statement than the cop-out “you bring your own interpretation” because your playthrough may actively guide you a different way. It’s not just two different people interpreting a piece the same way. Even to the same person, a dingy coastline could look melancholic or foreboding, depending on what context the narrator provided.
 
 Again, you don’t have to like this. Skeeter wouldn't like it, he’d be bored as hell, but I can guarantee Skeeter would be able to say something interesting about it. He’d understand why someone else might get something out of it. Skeeter’s a smart guy, and appreciates the many facets of what a game can be. I also want to be clear that I don’t believe that walking sims are pushing our medium more than any other genre. There is so much out there far more unique and convention breaking than any walking sim. Accepting that a game about walking is still a game isn’t some sort of galaxy-brain take, it’s the bare minimum of open-mindedness.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu20.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu20.png" caption="" alt="" %}{:target="_blank"}
 
 Uh oh, did I accidently leave a [Morrowind](https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/){:target="_blank"} screenshot here? What’s that all about? Great questions dear reader, and I answer it with another question, what do you do more than anything else in Morrowind?
 
@@ -154,13 +154,13 @@ YIKES! No one, not even my unbearably boring self, wants to slowly walk for 100 
 
 I could go on like this forever. I’ve played through [Fallout: New Vegas](https://store.steampowered.com/app/22380/Fallout_New_Vegas/){:target="_blank"} at least five times with no fast travel. It’s not even good like that. I don’t recommend it at all. Walking back and forth from the Boomers four times was obviously not intended by the developers, they want you to fast travel. There’s something about that time in between that I cherish though. A time to think about what quest to do next, about a line of dialogue I had underappreciated before, maybe even just time to enjoy the scenery. Even in games that don’t mean to have it, it’s there, and while I don’t suggest everyone do a no fast travel New Vegas run, I do think both designers and players underutilize/undervalue this down time. There is calm and peace in the spaces between.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu21.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu21.png" caption="" alt="" %}{:target="_blank"}
 
 Wuhu Island Explorer is this in its purest form. You, an empty island, and movement keys... and not one mention of it “not being a game” in the comments. I checked. Is the itch.io comment section different then a Steam section? Sure. Is the free price tag maybe helping this game out? yea probably, but look at the people who love just... walking around:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu22.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu22.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/wuhu23.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/wuhu23.png" caption="" alt="" %}{:target="_blank"}
 
 I hear you saying that the nostalgia is what’s suckering these people in, but isn’t that exactly what I’m doing when I boot up an old Morrowind save and just walk around for 20 minutes? Walk around somewhere, get to know it, and soon it can become a source of comfort. Transforming a once unknown space into something we understand is so innate to us as human beings, that we do it all the time in real life for no reason. It’s called hiking you freak, and it fucking rules. Try sometime you filthy gamer scum.
 

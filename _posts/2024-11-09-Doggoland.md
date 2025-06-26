@@ -10,17 +10,17 @@ permalink: /day-193
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/doggo1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/doggo1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
 Walk around the desert and then you talk to dog. Dog will have a few lines of dialogue.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/doggo2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/doggo2.png" caption="" alt="" %}{:target="_blank"}
 
 Do this as long as you want until you close the game.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/doggo3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/doggo3.png" caption="" alt="" %}{:target="_blank"}
 
 That dog was lying down. Very neat.
 
@@ -36,7 +36,7 @@ The controls are floaty and bad. It does not matter.
 
 I am sitting here on the floor of my room with a 9 week old puppy on my lap. I was going to try to review this from my phone, if possible. It was not. That's OK. Sam set me up today with Doggoland. I don't need to play Doggoland, because I am living Doggoland.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/doggo4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/doggo4.jpg" caption="" alt="" %}{:target="_blank"}
 
 Live from Doggoland: It's Sadie! 
 
@@ -62,7 +62,7 @@ I hope this stream-of-conscious-late-night-new-puppy-owner journal entry kept yo
 
 EDIT I PLAYED DOGGOLAND:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/doggo5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/doggo5.png" caption="" alt="" %}{:target="_blank"}
 
 Gotta hand it to them, that is one cute dog!
 

@@ -10,7 +10,7 @@ permalink: /day-90
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -24,11 +24,11 @@ The main title even touts this as an answer to you not having enough time to fil
 
 The game prompts the player to input their 3 words via browser text box: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg3.png" caption="" alt="" %}{:target="_blank"}
 
 I found out that if you click “Cancel” it will send you to the next prompt box without accepting an answer, which results in the following birthday card:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg4.png" caption="" alt="" %}{:target="_blank"}
 
 In case there was any doubt that the intended use of Mad Libs Randomized Birthday Card Game was anything other than “Oops I forgot to get you a card, here’s a screenshot of this Mad Lib game I found online”, the dev has put a nice message to remind the lucky receiver that “Today I forgot it is your Birthday!”. 
 
@@ -44,7 +44,7 @@ Sam, I sure hope you’re looking forward to your birthday card in September. I 
 
 Skeeter chose this game not knowing it was my wife’s birthday, so I made her this:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg2.png" caption="" alt="" %}{:target="_blank"}
 
 She responded with “What? Ski the balloon? SKI THE BALLOON? SKIDABALLOOONNN?!”
 
@@ -60,6 +60,6 @@ She was not pleased.
 
 *Today I forgot it is your Birthday! Please forgive me, I made you this!*
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg5.png" caption="" alt="" %}{:target="_blank"}
 
 {% include button.html text="Link to Game" link="https://chronomatopoeia.itch.io/birthday-mad-libs-cards" %}

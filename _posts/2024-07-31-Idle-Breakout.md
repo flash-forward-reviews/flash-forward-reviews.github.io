@@ -10,7 +10,7 @@ permalink: /day-92
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/idleb1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/idleb1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -20,11 +20,11 @@ Unless I’m forgetting one, this is the fifth idle game we’ve reviewed ([Gira
 
 By that metric, Idle Breakout passes with flying colors.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/idleb2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/idleb2.png" caption="" alt="" %}{:target="_blank"}
 
 Idle Breakout and Pachinkremental do another thing I’d like to add to the list, which is having the original goal of the game become obsolete. At the start of Pachinkremental, you are placing balls carefully, hoping they land in the middle. By the end however, you have a million balls bouncing all over the place and there is no need to keep track anymore. It goes from a game of Pachinko and slowly morphs into a game of upgrades and exponential growths. Idle Breakout is the same. At first you watch the balls bounce, hoping they get trapped on top or in the middle of blocks, while you actively click on them. Now on my second monitor I’m finishing about three levels a second and had to turn off the graphics to even get the game to run at more than two frames per second.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/idleb3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/idleb3.png" caption="" alt="" %}{:target="_blank"}
 
 There are some bells and whistles on this game too, including achievements. I was close to getting all achievements when I started this review, so I waited a bit and got the last one and was rewarded with my headphones being destroyed (I turned it down for the video but it’s still very loud, you have been warned):
 

@@ -10,7 +10,7 @@ permalink: /day-84
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/striptubes1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/striptubes1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,7 +18,7 @@ Have you ever wanted to be a stripper? How about a wacky inflatable tube man adv
 
 Jostle your limp blue body around a stripping pole in front of dozens of screaming fans! Wiggle your way to their hearts and their paycheck! Don’t let that Red Inflatable tramp outshine you! Strip Tubes!!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/striptubes2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/striptubes2.png" caption="" alt="" %}{:target="_blank"}
 
 Strip Tubes is funnier in concept than it is in execution. The concept of wacky inflatable tube men dancing at a strip club is very, very funny. Mashing the buttons on your controller while having limited control of your wacky inflatable tube guy is less fun. I don’t really know. I want to love Strip Tubes, but it’s missing a little something to push it over the edge into greatness. Some varying dramatic camera angles? Perhaps some crowd interaction? I’m not really sure what is missing, but I feel like something is. Strip Tubes has a good blueprint. I just feel like it’s missing some pizazz, some feng shui, some razzle dazzle to bring it from “Mildly Humorous” to “ Legitimately Funny”. 
 

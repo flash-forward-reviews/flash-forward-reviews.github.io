@@ -10,7 +10,7 @@ permalink: /day-35
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mhunt1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mhunt1.png" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -18,11 +18,11 @@ I know I said we wouldn’t do this again for a while, but we just kept talking 
 
 I played some more of his games and have noticed a theme on his ending screens:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mhunt2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mhunt2.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mhunt3.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mhunt3.png" caption="" alt="" %}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mhunt4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mhunt4.png" caption="" alt="" %}
 
 Every single one of these games is a desperate cry for help. I have gone from overjoyed to genuinely horrified. [BM bongTextPro](https://bm-bongtextpro.itch.io/){:target="_blank"} has made the same joke about ten times. They have been doing that for over four years, with no sign of growth or improvement.
 
@@ -49,7 +49,7 @@ BM bongTextPro had a vision here - they had a story to tell (though it seems to 
 They set us up with some encouraging text about killing a mammoth, only to have the player suddenly and brutally murdered accompanied by one of the funniest scream sound effects I’ve ever heard. 
 Also, just look at this facial expression - the pain, the hurt, the hilarity. This is a true artist at work: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mhunt5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mhunt5.png" caption="" alt="" %}
 
 Where I was expecting to have to see how many mammoths I could kill with my spear, I instead got a mammoth seeing how many of Mes they could kill with their tusks. 
 Beautiful. 

@@ -10,33 +10,33 @@ permalink: /day-73
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Project IIXI Prototype puts the player in the shoes of this character: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi2.png" caption="" alt="" %}{:target="_blank"}
 
 This little guy changes the entire color of his aura to a nice teal every time he moves: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi3.png" caption="" alt="" %}{:target="_blank"}
 
 The player is dropped into a room that contains a single red stick guy who’s just hanging around:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi4.png" caption="" alt="" %}{:target="_blank"}
 
 You cannot interact with this red stick man - he’s only there to chill and be red. Looks peaceful. 
 
 The player can leave red dude to meditate and head to the next (and only other) room: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi5.png" caption="" alt="" %}{:target="_blank"}
 
 Now, I’m not sure if (in universe) the cat is supposed to be an anthropomorphic cat, or another stick figure wearing a mascot costume, but I’m leaning towards the latter since we’ve only seen stick figures up until this point of the game. 
 
 Anyway, the player can then interact with this costume wearing wacko and the screen will fade to the following end screen:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/iixi6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/iixi6.png" caption="" alt="" %}{:target="_blank"}
 
 Death? The Void? Unfinished ending to an unfinished game? You decide! EPICRAPBATTHELSOFHISTORYYYY
 

@@ -10,7 +10,7 @@ permalink: /day-1
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/bloodbacon.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/bloodbacon.png" caption="" alt="" %}
 
 ## Sam's Take:
 
@@ -24,7 +24,7 @@ There are multiple weapons and some resource management elements, but frankly, n
 
 So far we are seven levels deep and we’ve shocked pigs with an electric fence, grinded their bodies for bullets, gotten chased by a fucking overpowered floating pac-man pig head, and painted a beautiful scenic photo with a paintball gun. Every level has been a new experience, and I’m very curious how long they can keep this up.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/painting.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/painting.jpg" caption="" alt="" %}
 
 I can guarantee we will play more of this. It’s a simple joy, so I'll leave some deeper explanations for future reviews. For now, if you wanna move fast and shoot stuff with friends, this shit is a dollar. One U.S. dollar. It’s already worth it. Why not?
 
@@ -42,7 +42,7 @@ Anywho - on to BLOOD AND BACON!
 
 For a dollar, this game is way better than it has any right to be. First, you can be a skeleton, which is always a win in my book. I mean, just look at this: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/skelington.jpg?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/skelington.jpg" caption="" alt="" %}
 
 Still not convinced? You can also be a slew of other characters (all living) if you feel so inclined. Not that I would understand why you would do that. 
 

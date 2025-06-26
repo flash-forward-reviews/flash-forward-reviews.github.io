@@ -10,7 +10,7 @@ permalink: /day-154
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,7 +20,7 @@ I chose Halloween Graveyard Ride solely based on its name. I’m a big fan of ca
 
 Instead, what I got was a Halloween skinned Android Mobile game: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper2.png" caption="" alt="" %}{:target="_blank"}
 
 Pumpkin rolls down hill. Click to slow the pumpkin down. Don’t hit the coffins in the road or you lose. 
 
@@ -28,20 +28,20 @@ That’s it. That’s the game. I did not have fun.
 
 That’s fine, tough - Halloween Graveyard Ride also allows you to watch videos for pumpkins!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper3.png" caption="" alt="" %}{:target="_blank"}
 
 Clicking on this doesn’t do anything on PC, which leads me to believe that it probably links to a Mobile Ad if you played this on Android. 
 
 If I can put on my conspiracy theory hat for a second - I’m willing to bet this game is another Android mobile trash game designed with the sole goal to make ad revenue off of it. 
 Since the object that rolls down the hill is a pumpkin, and there is a counter for the amount of pumpkins you have, I’m thinking in the Android version you would need a pumpkin currency to be able to play the game.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper4.png" caption="" alt="" %}{:target="_blank"}
 
 This doesn’t seem to be a factor for the PC version, as you can play infinitely on zero pumpkins. I am thinking on the Android version that without any pumpkins, you don’t play the game, leading the player (read: child who got his hands on mummy’s iPad) to watch ads to get more playtime. I’m sure they start the player out with a stipend of 3 pumpkins or something trying to get the player hooked (I don’t know what there is to hook a player gameplay-wise, but I digress), and then the only way to earn more pumpkins would be to either purchase them, or watch ads to “earn” them. 
 
 In conclusion, I am bestowing Halloween Graveyard Ride with the “Mobile Trash” award!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: Oh, fuck off**
 
@@ -59,7 +59,7 @@ Please wait until people know and like your game before you put the video ad cli
 
 In conclusion, I am bestowing Halloween Graveyard Ride with the “Mobile Trash” award!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pumper5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pumper5.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: THIS**
 

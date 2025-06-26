@@ -10,7 +10,7 @@ permalink: /day-242
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ohiorizz1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ohiorizz1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -18,9 +18,9 @@ Rise of the Rizzlers 4: Revenge of Ohio was only selected because Sam is current
 
 This is one of the more strange platformers we have played. First of all, it would appear that the player controls Drake for some reason: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ohiorizz2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ohiorizz2.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ohiorizz3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ohiorizz3.png" caption="" alt="" %}{:target="_blank"}
 
 When Drake jumps he makes a nice little “Hank Hill”-esque grunt that I find very funny. 
 
@@ -28,7 +28,7 @@ The platforming isn’t difficult and there are no enemies. You just sort of jum
 
 Then, in one of the more baffling creative choices I’ve seen, the game ends with Drake walking endlessly through a field while “Send Me on My Way” by Rusted Root plays. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ohiorizz4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ohiorizz4.png" caption="" alt="" %}{:target="_blank"}
 
 There’s no real ending. This just loops endlessly. I can’t really explain why - perhaps it has something to do with my unrequited love for “Send Me on My Way” - but I absolutely loved this. Had me smiling while I watched Drake high-step over pumpkins. 
 
@@ -44,7 +44,7 @@ Also, for a game called “Rise of the Rizzlers 4: Revenge of Ohio”, the game 
 
 Everything Skeeter said is correct, and I would like to add that I checked the developer’s other games, and there are no other Rise of the Rizzlers games. Between Skeeter and I, there are just too many questions that need answering. Luckily this game was released less than a week ago, so I figured there was a chance the dev would answer:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/ohiorizz5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/ohiorizz5.png" caption="" alt="" %}{:target="_blank"}
 
 We’ll let you know if they respond.
 

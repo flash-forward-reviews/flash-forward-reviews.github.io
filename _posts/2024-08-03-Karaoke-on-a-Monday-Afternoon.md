@@ -10,7 +10,7 @@ permalink: /day-95
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/koama1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/koama1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -30,7 +30,7 @@ If you ever want to press your arrow keys slightly out of time set to a 30 secon
 
 If you want to press your arrow keys slightly out of time for 30 seconds and then listen to the entirety of Gourmet Race from the Kirby games while your character stands there with a microphone in silence, boy howdy it’s time to play Karaoke on a Monday Afternoon!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/koama2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/koama2.png" caption="" alt="" %}{:target="_blank"}
 
 Since Sam didn’t take the low hanging fruit here: We played Karaoke on a Monday Afternoon on an early Sunday morning after doing Karaoke on a Saturday Night. 
 

@@ -10,7 +10,7 @@ permalink: /day-299
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wsad4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/wsad4.jpg" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 
@@ -26,11 +26,11 @@ comments: true
 
 Wild Animal Sports Day is Bird at his best. There are 8 mostly functional mini-games all featuring the goofy 3D modeled animals from the Wild Animalverse: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wsad2.jpg?raw=true" caption="That’s my boy, Hugo" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/wsad2.jpg" caption="That’s my boy, Hugo" alt="" %}{:target="_blank"}
 
 The mini-games are infinitely more enjoyable when you get to watch these goofy fuckers flip around:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/wsad3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/wsad3.jpg" caption="" alt="" %}{:target="_blank"}
 
 As Sam displayed, there are a lot of funny bugs to discover along the way. I feel that these really enhance the overall Paul Bird experience. 
 

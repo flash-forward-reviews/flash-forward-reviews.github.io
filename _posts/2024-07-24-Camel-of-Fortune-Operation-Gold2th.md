@@ -10,7 +10,7 @@ permalink: /day-85
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -19,7 +19,7 @@ I only mention this, because it is relevant to today’s game: Camel of Fortune:
 
 Here’s a snippet from the “Background” section on this game’s itch.io page:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof2.png" caption="" alt="" %}{:target="_blank"}
 
 So, needless to say, I’m in the right “mindset” for this kind of thing. 
 
@@ -30,13 +30,13 @@ I don’t know if the dev wrote and produced this themselves or commissioned the
 
 Allow me to refer you to another relevant snip from the Background section:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof3.png" caption="" alt="" %}{:target="_blank"}
 
 Thanks, man. I did. I really did. 
 
 I don’t know if this game was actually meant to be played high. Well, the main menu definitely was, but let me tell you, from a first hand experimental experience - I struggled. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof5.png" caption="" alt="" %}{:target="_blank"}
 
 So this is me. I’m the camel. Above me are sharks, and eels, and Aerodactyls. These are not friendly creatures to a camel. They want to kill camels. 
 
@@ -53,7 +53,7 @@ So, the camel runs around, fruitlessly attempting to escape, caught in an endles
 But then, the camel gets hit with a bit of the Darwin and realizes, if he immediately moves right he can  make it to the platform and teleport away in his Doctor Who phone booth (That I can’t remember the name of right now and won’t look up get absolutely tore up Dr. Who nerds lmao).
 Upon making his great escape: He’s met with the head of Doctor Who himself:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof6.png" caption="" alt="" %}{:target="_blank"}
 
 Amazing. The camel has been set free by his magnetic hammer or whatever Doctor Who has (CAN’T believe the Doctor Who fans are still reading LMAO get rekt again nerds) - He is free to roam. 
 
@@ -61,7 +61,7 @@ While there are still bad guys out to steal from the camel’s blood wallet, the
 
 He finds a jazz club. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof7.png" caption="" alt="" %}{:target="_blank"}
 
 It’s a rough club. There are a couple baddies the camel swiftly disperses of. 
 He sees a playing card for $33.79. He cannot afford that yet. But he does have 30 dollars. He kills a few more evil guys walking through the door, picks up their money, and purchases the playing card. 
@@ -86,7 +86,7 @@ I was initially going to not recommend this game.
 
 Here’s an example the dev posted to the itch.io page:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof8.gif?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof8.gif" caption="" alt="" %}{:target="_blank"}
 
 This camel is going nuts - he’s spitting bananas everywhere and absolutely demolishing that screensaver. 
 
@@ -101,7 +101,7 @@ For the meantime, I can recommend sitting on the main menu and listening to the 
 
 **Recommend:**
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cof9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cof9.png" caption="" alt="" %}{:target="_blank"}
 
 **Replay Percentage Chance: 75%**
 

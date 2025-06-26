@@ -10,7 +10,7 @@ permalink: /day-79
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mkmt1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mkmt1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -41,7 +41,7 @@ Hey everybody, reporting from my grandpa's newly constructed Mole-Hill. I'm glad
 Mario Kart Mobile is boring. Sam is correct on this assertion.
 The boring-ness isn't even the biggest offender of this game - it's the lack of a score counter. I could tell you I played for 3 hours before losing and you wouldn't be able to tell if I actually played for 1 minute or 3 hours. Here's proof of my 3 hour run:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mkmt3.png?raw=true" caption="I only took this because I thought the mobile screenshot was really funny and I'm starting to think that humor was a little misplaced" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mkmt3.png" caption="I only took this because I thought the mobile screenshot was really funny and I'm starting to think that humor was a little misplaced" alt="" %}{:target="_blank"}
 
 This game is so boring it doesn't even have a way to track progress. That's all I have. I'm typing this on a phone, so I hope you can cut me some slack. Hoping the other games I picked out are, uhhh….
 

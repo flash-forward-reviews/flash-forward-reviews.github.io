@@ -10,32 +10,32 @@ permalink: /day-76
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc2.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 awesome calculator promises some very big things: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc1.png" caption="" alt="" %}{:target="_blank"}
 
 FIVE different operations including exponentiation! Wow!
 
 Upon loading in, I was met with a beautiful rainbow-themed calculator that is pretending like it’s running on Windows XP - it even has the iconic grassy meadow background: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc2.png" caption="" alt="" %}{:target="_blank"}
 
 A 4-bar piano measure plays on loop. I input my numbers (I am limited to two 2-digit integers) and choose my operator. As I hit enter, the copyright free Dubstep music drops its beat and goes wild with the robot sounds. My answer appears before me: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc3.png" caption="" alt="" %}{:target="_blank"}
 
 “But skeeter” I can hear none of you asking, “What about the easter eggs the description promised?”
 Don’t worry fan! I diligently searched around, and using my elite gamer logic I was able to discover this: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc4.png" caption="" alt="" %}{:target="_blank"}
 
 “But skeeter” the ghostly voices in my head call out yet again, “What is that thing?”
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/awecalc5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/awecalc5.png" caption="" alt="" %}{:target="_blank"}
 
 Yeah, I have no idea either. awesome.
 

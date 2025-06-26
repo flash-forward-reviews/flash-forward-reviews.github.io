@@ -10,25 +10,25 @@ permalink: /day-237
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim2.png" caption="" alt="" %}{:target="_blank"}
 
 Upon launching: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim3.png" caption="" alt="" %}{:target="_blank"}
 
 Fishing Simulator feels like a fever dream. 
 
 There are no instructions. I pressed play and are met with the following screen, minus the fishbux that start at zero: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim4.png" caption="" alt="" %}{:target="_blank"}
 
 What the hell am I supposed to do? I click DA WARUDO!!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim5.png" caption="" alt="" %}{:target="_blank"}
 
 … Thanks. I’m glad the pause button says “DA WARUDO!!” instead of “Pause”. Good for it. 
 
@@ -44,11 +44,11 @@ I backed out of the shop and clicked on the “Buy a Boat” button, which just 
 Finally, I clicked on the “O” square. And wouldn’t you know it? It moved!
 I clicked again, and it moved again. I repeated chasing the “O” around the screen until a message popped up:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim6.png" caption="" alt="" %}{:target="_blank"}
 
 I dealt 20? 20 what?? The Skate Fish? No way that’s a real fish.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim7.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim7.png" caption="" alt="" %}{:target="_blank"}
 
 I stand corrected. 
 
@@ -65,7 +65,7 @@ And this time, instead of making fun of me for being poor, It allowed me to  buy
 
 FUCK. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim8.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim8.png" caption="" alt="" %}{:target="_blank"}
 
 As far as I can tell, the boat is only here to take you to the boss, which gives the player a big “escape” button, then calls the player a “pussy” for trying to escape.
 
@@ -85,19 +85,19 @@ Good work for a first game! Keep trying!
 
 The fucking things I do for Fishing Simulator...
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim9.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim9.png" caption="" alt="" %}{:target="_blank"}
 
 Oh actually this game requires the 8.0 version of .NET my bad.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim10.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim10.png" caption="" alt="" %}{:target="_blank"}
 
 Once we got that out of the way, I used ChatGPT to create a Python script to autoclick the O button for me while I looked for a 9-Volt battery for my friend.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim11.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim11.png" caption="" alt="" %}{:target="_blank"}
 
 This all turned out to be pointless, because you can just give yourself infinite money by editing a text file in the game’s folders.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/fishsim12.png?raw=true" caption="Very Nice" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/fishsim12.png" caption="Very Nice" alt="" %}{:target="_blank"}
 
 I tried every combination of clicking on shop, boat, and pause I could think of, but could not get the final boss to appear. I think this could very well be the most broken game we’ve ever played outside of games that just didn’t launch. Was this game made without an engine? Like they just straight coded a game? If so then like... kind of impressive TBH.
 

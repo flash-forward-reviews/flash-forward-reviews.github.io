@@ -10,7 +10,7 @@ permalink: /day-347
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/elderfighter1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/elderfighter1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Sam's Take:
 

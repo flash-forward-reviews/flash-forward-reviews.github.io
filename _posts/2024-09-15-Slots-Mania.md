@@ -10,7 +10,7 @@ permalink: /day-138
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -18,11 +18,11 @@ I don’t know what the hell is going on with Slots Mania. My best guess is this
 
 Here’s what Slots Mania boasts about itself in it’s description:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots2.png" caption="" alt="" %}{:target="_blank"}
 
 Wow, those are some glowing reviews! “Best among a river of Slot games in the market”! Wow it better be amaz-
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots3.png" caption="" alt="" %}{:target="_blank"}
 
 Huh. That doesn’t look like much. Oh well, at least Slots Mania provided a nifty list of features we can go through: 
 
@@ -40,7 +40,7 @@ Slot Machine Casino Features:
 
 - There is no indicator that any progress is being tracked. In fact, the game doesn’t even tell you how much money you have at any time. One might think the below box would be the perfect spot to put a box of your total winnings, but instead, it just shows how much you won for the current spin: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots4.png" caption="" alt="" %}{:target="_blank"}
 
 I have no idea what a “collecting” feature is, but I sure didn’t see anything close to that during my play time.
 
@@ -54,7 +54,7 @@ While we are at it, we might as well debunk the other list as well:
 
 *"Best among a river of Slot games in the market"* - Not even close. I could probably go to itch.io right now and pick a slots game at random and it will at very least track the amount of money I’ve earned. In fact, I’m going to do that now: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots5.png" caption="" alt="" %}{:target="_blank"}
 
 This is from a game called [Slots Typescript Evolution Bootcamp Project Frequent Wins](https://boyanbotev.itch.io/slots-typescript-evolution-bootcamp-project){:target="_blank"} (What a name). The bottom left clearly shows your total amount of money, the center shows your winnings, and your current bet is in the bottom left. Boom, Slots Mania confirmed LIAR this trash is already better than it.
 
@@ -68,7 +68,7 @@ This is from a game called [Slots Typescript Evolution Bootcamp Project Frequent
 
 I’m mostly just amazed that their intro for the game uses “experience” 4 times.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/slots6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/slots6.png" caption="" alt="" %}{:target="_blank"}
 
 I hope to one day experience the best slot experience ever.
 

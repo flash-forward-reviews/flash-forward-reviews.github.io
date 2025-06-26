@@ -10,7 +10,7 @@ permalink: /day-215
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/parking1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/parking1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -22,7 +22,7 @@ What a great idea, take my already very real anxiety of parking my boat of a car
 
 And boy, this game is harsher on judging my parking than the guy that gave me my first driving test. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/parking2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/parking2.png" caption="" alt="" %}{:target="_blank"}
 
 That’s not considered parked! I am slightly out of line with the arbitrary box the game has placed in between the two parking lines, so it’s decided that’s not a good enough parking job. Try again, Bozo!
 
@@ -38,7 +38,7 @@ This whole game fills me with a terrible anxiety that I haven’t felt from a ga
 
 If you can beat level 6 of this game, I’ll review any game you choose. Whatever you want, as long as you want. No limits. Level 6 of this game is infuriating. I’m FUMING right now.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/parking3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/parking3.png" caption="" alt="" %}{:target="_blank"}
 
 WHAT KIND OF PARKING HELL IS THIS. I hate CrazyGames, and I need to start picking games faster to stop Skeeter from doing this to me.
 

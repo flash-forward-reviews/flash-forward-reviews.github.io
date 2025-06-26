@@ -10,7 +10,7 @@ permalink: /day-275
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nitedate1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/nitedate1.jpg" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -40,13 +40,13 @@ There’s an illusion of player choice here. The games normally give you options
 
 Night of the Living Date is exactly the same as this archetype of dating games I’m painting for you. The man sitting across from you asks you questions, and you either respond “Yes” or “No”. If the dude likes it, you gain affection. If they don’t - get bent, loser! 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nitedate2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/nitedate2.jpg" caption="" alt="" %}{:target="_blank"}
 
 Except you have to answer his questions while you are fending off a horde of zombies with an Uzi. 
 
 I love this. This turns the game into a balance of focus between answering your dates' questions, and fending off the hordes of zombies filing into the bar. Your date is completely oblivious to these zombies, and I think that works in the game's favor. I find it very funny that this man is out here having a regular date while the reanimated dead are actively lumbering towards him and we are constantly shooting past his head with an Uzi. Something about the oblivious date really tickles my funny bone. Like, bro, LOOK AROUND YOU. HAVE SOME SELF AWARENESS. No. Instead he’s just casually asking me if I’ve seen Lost or if I’ve ever killed small animals: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nitedate3.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/nitedate3.jpg" caption="" alt="" %}{:target="_blank"}
 
 To Night of the Living Date’s credit - the questions are stupid and obvious. I believe this is completely intentional as the player only really can grab glimpses of the question at a time. 
 
@@ -58,7 +58,7 @@ The difficulty comes in balancing shooting the zombies to keep them off of you a
 
 There’s even a zombie spawn behind the player’s left shoulder, so you are constantly flipping back and forth between the date and their questions, looking over your shoulder, and checking the other doors the zombies are stumbling through.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img3/blob/main/img/nitedate4.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img3/refs/heads/main/img/nitedate4.jpg" caption="" alt="" %}{:target="_blank"}
 
 I love Night of the Living Date’s core idea - “What if you had to have a date while zombies attacked?” 
 

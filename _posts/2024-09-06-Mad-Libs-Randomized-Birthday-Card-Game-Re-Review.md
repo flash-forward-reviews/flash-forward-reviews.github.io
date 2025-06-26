@@ -10,13 +10,13 @@ permalink: /day-129
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/mlrbcg1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/mlrbcg1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
 Hello, it is my best friend’s Sam’s birthday today. He is a whopping 32 and I made him this cool madlib to make him feel birthday: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/maddylibby.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/maddylibby.png" caption="" alt="" %}{:target="_blank"}
 
 I love you, brother! Hope you have a wonderful 32+ years ahead of you and that you never have to play a flash game a day again!
 

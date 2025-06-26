@@ -10,7 +10,7 @@ permalink: /day-72
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco1.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -20,7 +20,7 @@ I MUST EAT CHILI OIL is a short visual novel with no choices and exactly 2 image
 
 The player takes on the viewpoint of the game’s protagonist who wanders into a store looking for Chili Oil. Our main character makes note of the shop, notices the various foods and sweets that other shoppers are buying, but states plainly that they are only here for chili oil. He mentions someone named “Mingming” and how the store is playing music that reminds him of her.  
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco2.png?raw=true" caption="Graphic 1 of 2" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco2.png" caption="Graphic 1 of 2" alt="" %}{:target="_blank"}
 
 It was at this point, I was thinking I was just in for a silly, off-the-wall game about some guy who is just obsessed with chili oil. It seemed humorous. What a novel concept! Some guy obsessed with chili oil is nothing I have ever seen in a game before. I kind of love this idea, and there seemed to be some acknowledgement and “tongue-in-cheekness” to the whole idea. 
 
@@ -28,17 +28,17 @@ But then, our main character kept talking about Mingming.
 
 And as he keeps talking about Minming, his obsession becomes clear. It’s not the chili oil. It’s Mingming he’s obsessed with. We find out that Mingming made some tofu dish the first time she cooked for the protagonist, and she used chili oil that made it really good. I think it’s safe to assume that this is where the main character’s obsessive quest to eat chili oil stems from. And that becomes clearer as the he leaves the store with his newly purchased chili oil to hunker down in an alley and start scarfing that shit down: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco3.png?raw=true" caption="Graphic 2 of 2" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco3.png" caption="Graphic 2 of 2" alt="" %}{:target="_blank"}
 
 It burns. He scrapes the jar clean as he remembers Mingming and her leaving back to Hongkong due to some illness, and some- 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco4.png" caption="" alt="" %}{:target="_blank"}
 
 Oh.
 
 Oh no.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco5.png" caption="" alt="" %}{:target="_blank"}
 
 Suddenly, the pieces all fall into place. We are meeting our character in the throes of grief. It seems Mingming lost a battle to cancer, and while we don’t specifically know the relationship between her and the main character, we can deduce that it was most likely romantic in nature. 
 
@@ -48,7 +48,7 @@ I was not expecting this from a game called “I MUST EAT CHILI OIL’. I think 
 
 We get one last send off at the end: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/imeco6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/imeco6.png" caption="" alt="" %}{:target="_blank"}
 
 It seems like this game was created for a visual novel game jam, so I’m hoping the “I’m tired” comes from the exhaustion of creating a game. I’m hoping this, because I feel like the alternative implies that this was a semi-biographical game - if that’s the case (I really hope it’s not), [Kastel](https://kastelpls.itch.io/){:target="_blank"} - I’ve got a couple hugs for you if you ever need them.
 

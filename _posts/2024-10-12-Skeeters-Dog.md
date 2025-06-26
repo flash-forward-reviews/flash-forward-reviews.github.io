@@ -10,7 +10,7 @@ permalink: /day-165
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeeterdog1.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/skeeterdog1.jpg" caption="" alt="" %}{:target="_blank"}
 
 ## Sam's Take:
 
@@ -26,7 +26,7 @@ Skeeter has not met the dog, but they put down the deposit. I think he looks cut
 
 ## Skeeter's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/skeeterdog2.jpg?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/skeeterdog2.jpg" caption="" alt="" %}{:target="_blank"}
 
 My dog is... I don't know. I haven't met her. I hope she is cute and intelligent and a sweetheart but I've never met her.
 

@@ -10,33 +10,36 @@ permalink: /day-16
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/fg1.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/fg1.png" caption="" alt="" %}
 
 ## Skeeter's Take:
 
-Sam’s never going to let me pick a game again. He can’t be that mad at me because at least I didn’t choose the Family Guy game that featured softcore fart porn for it’s install instructions (this is not a joke, and no I’m not going to put you through having to see what I saw - but I DID send it to Sam as payback for the time he sent me Sonic farting on Tails). 
+Sam’s never going to let me pick a game again. He can’t be that mad at me because at least I didn’t choose the Family Guy game that featured softcore fart porn for its install instructions (this is not a joke, and no, I’m not going to put you through having to see what I saw - but I DID send it to Sam as payback for the time he sent me Sonic farting on Tails). 
 
 I really thought I was in for one of those good old fashion Buzzfeed quizzes - you know the ones that were all the rage back in the 2010s? Here’s a good example of one that we reviewed for Flash in the Pan: [Can We Guess What ‘90’s Toy You Deserve for Christmas?](https://www.buzzfeed.com/kevinsmith/what-toy-is-under-your-tree){:target="_blank"}
 Bold of them to assume I deserve anything. 
+
 I assumed this would be similar - select your favorite toy, your favorite color, your star sign, etc. and at the end it would arbitrarily assign you a Family Guy character. You know, just like Pottermore did with Houses. 
+
 Boy Howdy I couldn’t have been more off. 
 
 The game just gives you a list of characters from Family Guy (and a Homer Simpson at one point) and flatly asks you if you are that character: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/fg2.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/fg2.png" caption="" alt="" %}
 
 If you select No, you are taken to the next character and given a nearly identical Yes or No question (with some variation here and there). 
-But if you say yes… you are met with a drumroll and a gif of a cat butt dancing winding up for the big reveal:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/fg3.png?raw=true" caption="" alt="" %}
+But if you say yes… you are met with a drumroll and a gif of a cat butt dancing, winding up for the big reveal:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/fg4.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/fg3.png" caption="" alt="" %}
+
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/fg4.png" caption="" alt="" %}
 
 I don’t know what I was expecting… 
 
 I wanted to see what happened if you said no to everything - turns out the game just determines that you’re anti-semitic:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/fg5.png?raw=true" caption="" alt="" %}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/fg5.png" caption="" alt="" %}
 
 **Recommend: Please Don’t**
 

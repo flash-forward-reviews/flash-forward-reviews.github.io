@@ -10,7 +10,7 @@ permalink: /day-105
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cp20771.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cp20771.png" caption="" alt="" %}{:target="_blank"}
 
 ## Skeeter's Take:
 
@@ -24,13 +24,13 @@ Welcome to Taxi Driver - Cyberpunk 2077! We’ve got:
 
 *4.* T-Posing NPCs!
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cp20772.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cp20772.png" caption="" alt="" %}{:target="_blank"}
 
 So, yeah, Taxi Driver - Cyberpunk 2077 is actually very accurate to release patch Cyberpunk 2077, and delivers a very similar experience. Kudos! 
 
 The dev(s) clearly ha(ve)s a sense of humor about their game. Here’s a section from the description on their about page that made me laugh: 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cp20773.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cp20773.png" caption="" alt="" %}{:target="_blank"}
 
 **Recommend: No**
 
@@ -42,9 +42,9 @@ The dev(s) clearly ha(ve)s a sense of humor about their game. Here’s a section
 
 ## Sam's Take:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cp20774.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cp20774.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img/blob/main/img/cp20775.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img/refs/heads/main/img/cp20775.png" caption="" alt="" %}{:target="_blank"}
 
 THEY FUCKING NAILED IT!
 

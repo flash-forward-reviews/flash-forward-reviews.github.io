@@ -10,7 +10,7 @@ permalink: /day-219
 comments: true
 ---
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill1.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill1.png" caption="" alt="" %}{:target="_blank"}
  
 ## Skeeter's Take:
 
@@ -19,13 +19,13 @@ Pokebitches: Gotta Kill Em All perfectly encapsulates the essence of early 2000s
 
 Pokebitches: Gotta Kill Them All put’s Pokemon (go figure) at the center of its torture focus. 
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill2.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill2.png" caption="" alt="" %}{:target="_blank"}
 
 Shoot Pikachu, throw a grenade at Charmander, tickle Squirtles taint. Who cares? You’re just here to live out some fantasy an edgy teen created because murder = funny and there doesn’t need to be another layer or even a real joke. That’s all this is. Click through and watch Pokemon die in various ways. 
 
 Maybe I’m being too harsh. As far as murder-centric edgy flash games from the early 2000s go, this one is pretty tame. And I sort of get it, when I was in Middle School, Happy Tree Friends was the funniest shit I’ve ever seen. This kid has probably grown a ton since this game was uploaded. Hell, they might be as old as me. Maybe they have a beautiful family with loving pets and they hope and pray that the embarrassing flash game they uploaded to newground 21 years ago never sees the light of day.
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill3.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill3.png" caption="" alt="" %}{:target="_blank"}
 
 Or not. 
 
@@ -41,13 +41,13 @@ This being made in 2024 really makes me think that the heavy increase in average
 
 I liked the Jigglypuff that is supposed to be giving me the finger enough to try and make it those health bottles from Doom:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill4.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill4.png" caption="" alt="" %}{:target="_blank"}
 
 But it didn’t really survive the rescaleing/sprite conversion:
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill5.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill5.png" caption="" alt="" %}{:target="_blank"}
 
-{% include figure.html image="https://github.com/flash-forward-reviews/img2/blob/main/img/pokekill6.png?raw=true" caption="" alt="" %}{:target="_blank"}
+{% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/pokekill6.png" caption="" alt="" %}{:target="_blank"}
 
 But I am keeping it anyway
 
