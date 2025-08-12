@@ -358,7 +358,7 @@ This shit is so good, and we haven’t even finished.
 
 Skeeter only played half of this game partially so that I wouldn’t have to play the whole thing in one day... but I kinda played the whole thing in one day anyway. I won’t spoil anything past what Skeeter talked about (and A LOT happens after that), I just wanted to be clear with what I have experienced. 
 
-Since Skeeter explained the entire plot, I’ll cut right to the chase and say Mouthwashing is probably the best game we’ve reviewed for this project. Now keep in Mind that Pathologic 1, 2, and Deus Ex do not count since Skeeter did not review those. Let’s not be hasty! Other than those though, Mouthwashing has the clearest vision and by far the most polish of anything we’ve played, which is good because it is also one of the few that costs actually money (twelve whole dollars!).
+Since Skeeter explained the entire plot, I’ll cut right to the chase and say Mouthwashing is probably the best game we’ve reviewed for this project. Now keep in Mind that Pathologic 1, 2, and Deus Ex do not count since Skeeter did not review those. Let’s not be hasty! Other than those though, Mouthwashing has the clearest vision and by far the most polish of anything we’ve played, which is good because it is also one of the few that costs actual money (twelve whole dollars!).
 
 {% include figure.html image="https://raw.githubusercontent.com/flash-forward-reviews/img2/refs/heads/main/img/mouth58.jpg" caption="" alt="" %}{:target="_blank"}
 
