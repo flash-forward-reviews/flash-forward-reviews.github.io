@@ -14,7 +14,9 @@ comments: true
  
 ## Skeeter's Take:
 
-{% include video.html id="-76QDmAnRm8" title="" %}
+<video width="100%" preload="auto" muted controls>
+    <source src="/assets/RICARDOOOO.mp4" type="video/mp4"/>
+</video>
 
 **Recommend: ERNESTO**
 
