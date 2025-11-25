@@ -1,4 +1,5 @@
 <div class="row">
-    <div>{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">&laquo; Previous Review</a>{% endif %}</div>
-    <div>{% if page.next %}<a href="{{ page.next.url | relative_url }}">Next Review &raquo;</a>{% endif %}</div>
+    <div>{% if page.previous %}<a href="{{ page.previous.url | relative_url }}">&laquo; Previous Review</a>{% endif %}
+         |  {% include randinclude.html %}  | 
+    {% if page.next %}<a href="{{ page.next.url | relative_url }}">Next Review &raquo;</a>{% endif %}</div>
 </div>
